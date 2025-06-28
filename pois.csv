@@ -1,0 +1,1960 @@
+element,id,geometry,name,amenity,shop
+node,61146664,POINT (73.0112954 33.698086),عسکری بینک,bank,
+node,61146673,POINT (73.0105887 33.6976525),الائیڈ بینک لمیٹڈ,bank,
+node,61146691,POINT (73.0118772 33.6960411),United Bank Ltd,bank,
+node,211325636,POINT (73.0570403 33.7383666),Daman-e-Koh,restaurant,
+node,212538228,POINT (72.986826 33.683766),اسٹینڈرڈ چارٹرڈ,bank,
+node,234511823,POINT (73.0113365 33.6966838),اسٹینڈرڈ چارٹرڈ,bank,
+node,237459304,POINT (72.9887772 33.684909),City Bank,bank,
+node,237492791,POINT (72.9868747 33.6838147),Saudi Pak Commercial Bank,bank,
+node,237495339,POINT (72.9860121 33.6843984),عسکری بینک,bank,
+node,240218764,POINT (73.0417644 33.7104738),Ali Medical Centre,hospital,
+node,241905500,POINT (72.9988425 33.6905349),Tariq Market,,convenience
+node,242106656,POINT (73.1397655 33.672493),شہزاد ٹاؤن Shehzad Town Chak Shehzad islamabad,,supermarket
+node,247682428,POINT (73.0728704 33.7302916),Islamabad Model College for Girls F-6/2,school,
+node,248864319,POINT (73.0202663 33.684807),FG Boys Model School,school,
+node,253018400,POINT (73.0828053 33.7211006),Poly Clinic Hospital,hospital,
+node,254975704,POINT (73.0576782 33.7259475),The Hot Spot,cafe,
+node,254975815,POINT (73.0578027 33.7259527),The Gelato Affair,cafe,
+node,254975882,POINT (73.05794 33.7260597),گلوریا جینز,cafe,coffee
+node,254976251,POINT (73.0577749 33.7263387),Golden Dragon,restaurant,
+node,254979635,POINT (73.0813998 33.7364262),The Hot Spot Cafe,cafe,
+node,254985095,POINT (73.0858755 33.7251136),Muslim Commercial Bank,bank,
+node,255910264,POINT (73.0541945 33.6963847),,school,
+node,255935080,POINT (73.0854265 33.7184222),ایچ بی ایل پاکستان,bank,
+node,255937348,POINT (73.0855571 33.7162527),Muslim Commercial Bank,bank,
+node,256371663,POINT (73.066608 33.6823327),Beaconhouse Margalla Campus,school,
+node,256825235,POINT (73.0531003 33.722589),Froebel's International School,school,
+node,258067338,POINT (72.9803484 33.6822808),Salman Market,,convenience
+node,271785889,POINT (73.0703332 33.6823018),OPF Boys College,school,
+node,271786131,POINT (73.0712068 33.6817039),Islamabad Convent,school,
+node,297648462,POINT (73.0794388 33.7054375),Islamabad International َDental Hospital and College,hospital,
+node,306544013,POINT (73.1103956 33.7843301),"Isloo Grill, Pir Sohawa",restaurant,
+node,312719028,POINT (73.0170436 33.7156183),PAF Hospital,hospital,
+node,652425201,POINT (72.9801959 33.6783486),International Islamic Grammer School,school,
+node,658983454,POINT (73.0754287 33.7295886),Harware Store,,hardware
+node,659727643,POINT (73.0780948 33.7354098),Table Talk,cafe,
+node,659730873,POINT (73.0579305 33.7262071),Howdy,cafe,
+node,659736441,POINT (72.9871111 33.6834934),Food 24 Hours,fast_food,supermarket
+node,660156180,POINT (73.0655153 33.7286702),,school,
+node,660960200,POINT (73.0749265 33.7294496),Islamabad Vintage Quisine,restaurant,
+node,660960870,POINT (73.0617424 33.721965),Kitchen Cusine Grill,restaurant,
+node,660960871,POINT (73.0621813 33.7217479),Zefra Restaurant,restaurant,
+node,662431114,POINT (73.1995233 33.5741251),,school,
+node,663520522,POINT (73.0746698 33.7293076),کینٹکی فرائیڈ چکن,fast_food,
+node,800039814,POINT (73.075362 33.7303805),Luna Caprese,restaurant,
+node,800040633,POINT (73.0759414 33.7288524),HSBC,bank,
+node,800043396,POINT (73.0732271 33.7278217),,,gift
+node,800043474,POINT (73.0730876 33.7280493),,,florist
+node,821664342,POINT (73.0779705 33.7356049),Mocca,cafe,
+node,920248536,POINT (73.04055 33.7127752),Bakeman,,convenience
+node,925162114,POINT (73.0256094 33.6400387),METRO cash & carry,,supermarket
+node,977854870,POINT (73.0570672 33.720032),,fast_food,
+node,977855824,POINT (73.0587849 33.7221222),پیزا ہٹ,restaurant,
+node,1081145390,POINT (73.0586295 33.7224167),Saeed Book Bank,,books
+node,1089342762,POINT (73.0854336 33.7179463),Bakery,,bakery
+node,1089415483,POINT (73.0785229 33.7356119),Butcher Shop,,butcher
+node,1089417190,POINT (73.0786378 33.7356596),,,convenience
+node,1089595055,POINT (73.1123473 33.7209943),Canadian Club,restaurant,
+node,1106378621,POINT (73.0553102 33.7199355),One potato two potato,fast_food,
+node,1106384012,POINT (73.0547032 33.7188394),cafe lazeez,restaurant,
+node,1230663557,POINT (73.0791996 33.7317044),Sony Store,,hifi
+node,1230663579,POINT (73.0750256 33.7295017),ایم سی بی بینک,bank,
+node,1230663583,POINT (73.0748473 33.7294014),یونائیٹڈ بینک لمیٹڈ,bank,
+node,1230663592,POINT (73.0743875 33.7291957),Sham's,,convenience
+node,1240999870,POINT (73.062723 33.712981),Am-Pm grocery,,convenience
+node,1243928908,POINT (73.0779994 33.7299525),Nando's,restaurant,
+node,1243928909,POINT (73.0751998 33.7294355),,,bakery
+node,1336764426,POINT (73.0384453 33.6843865),F.G.School,school,
+node,1336800177,POINT (73.0325471 33.6882811),Mehraaj Hotel,restaurant,
+node,1340843878,POINT (73.0428398 33.68505),Shanwari Resturant‎,restaurant,
+node,1341931423,POINT (73.0264346 33.6892572),Federal Government Girls College No. 9 G-9/2,school,
+node,1403061904,POINT (72.9859069 33.684541),One Potato  Two Potato,fast_food,
+node,1425890636,POINT (73.0428007 33.7161266),Abbasi Market,,convenience
+node,1668718996,POINT (73.1753981 33.6454153),Shakeela Shabir Hospital,hospital,
+node,1668719004,POINT (73.1744526 33.6453694),Begam Jan Hospital,hospital,
+node,1668725700,POINT (73.1737083 33.6449017),ایچ بی ایل پاکستان,bank,
+node,1669871385,POINT (73.1778283 33.6454917),Umer Traders,,supermarket
+node,1673425831,POINT (73.1833164 33.6450498),Utility Store,,supermarket
+node,1673668411,POINT (73.1851078 33.6449338),MMB Oil Change,,car_repair
+node,1673668419,POINT (73.1876612 33.6447735),Arslan Autos,,car_repair
+node,1673668452,POINT (73.18676 33.6452379),Mehmood Plaza,,supermarket
+node,1705451520,POINT (73.0195781 33.7155542),,,gift
+node,1707177004,POINT (73.0780754 33.7070214),International Islamic Medical Centre,hospital,
+node,1716116698,POINT (73.0138625 33.7074414),Shaheen School System,school,
+node,1728704712,POINT (73.0637504 33.7145413),اسٹینڈرڈ چارٹرڈ,bank,
+node,1732632465,POINT (73.0634842 33.7132176),Savour Foods,restaurant,
+node,2088404867,POINT (73.1532072 33.5298761),Shopping mall Sector C,,supermarket
+node,2108666290,POINT (73.1604159 33.5272791),Army Public School,school,
+node,2147104935,POINT (73.030179 33.6924791),Bilquis Memorial Hospital,hospital,
+node,2154675487,POINT (73.0330629 33.690399),Prince Bakery,,bakery
+node,2175180410,POINT (73.067953 33.744315),Des Pardes,restaurant,
+node,2190837964,POINT (73.0274962 33.6909998),Islamabad Model School (IV) No.1 G-9/2,school,
+node,2191206003,POINT (73.0303342 33.6922587),Tapas,fast_food,
+node,2192126529,POINT (72.9885006 33.6453958),Faculty Lounge,cafe,
+node,2192200538,POINT (72.9900313 33.646422),,cafe,
+node,2198384150,POINT (72.9880065 33.6430737),,cafe,
+node,2200188086,POINT (72.9901037 33.646602),,,books
+node,2200204230,POINT (72.9882696 33.6430227),Concordia 2 Cafe,cafe,
+node,2200213197,POINT (72.9880496 33.642987),,,books
+node,2200213199,POINT (72.9881247 33.6428843),,,clothes
+node,2200213201,POINT (72.9880765 33.6429179),,,hairdresser
+node,2247180648,POINT (73.0730755 33.688351),کیفے,cafe,
+node,2247223740,POINT (73.126665 33.7100317),Sailing club,cafe,
+node,2351617530,POINT (73.0816194 33.7226868),الائیڈ بینک لمیٹڈ,bank,
+node,2351617532,POINT (73.0883772 33.7264282),عسکری بینک,bank,
+node,2351617533,POINT (73.0835047 33.7236625),ایچ بی ایل پاکستان,bank,
+node,2351617538,POINT (73.065239 33.7142009),Sony Store,,electronics
+node,2351617540,POINT (73.0606103 33.7118282),سب وے,fast_food,
+node,2351617542,POINT (73.0881962 33.7261599),The Bank of Khyber,bank,
+node,2351617804,POINT (73.0613958 33.7120483),AlBaraka bank Pakistan,bank,
+node,2351617865,POINT (73.0666107 33.7149203),فیصل بینک,bank,
+node,2351617876,POINT (73.0683195 33.7158134),الائیڈ بینک لمیٹڈ,bank,
+node,2351617879,POINT (73.0693028 33.7163335),نیشنل بینک آف پاکستان,bank,
+node,2351617918,POINT (73.07718 33.7205139),Al Baraka,bank,
+node,2351617924,POINT (73.0788111 33.7211977),,bank,
+node,2381235239,POINT (73.1568161 33.5662102),Allied School,school,
+node,2381256035,POINT (73.1447261 33.5711296),London Bakers & Sweets,,bakery
+node,2381259103,POINT (73.1518819 33.56503),Palace Bakers and Sweets,,bakery
+node,2381263255,POINT (73.1497377 33.5632646),سونیری بینک,bank,
+node,2381263509,POINT (73.1500834 33.5634698),الائیڈ بینک لمیٹڈ,bank,
+node,2381270943,POINT (73.1564592 33.5656057),Hashmi's,,supermarket
+node,2381291372,POINT (73.1558798 33.5698653),Khokhar Hotel,restaurant,
+node,2381293459,POINT (73.1564018 33.5689811),Tire Shop,,tyres
+node,2382413872,POINT (72.9740649 33.6244294),Frobels,school,
+node,2412750094,POINT (73.0144358 33.6944946),Islamic Trends,,yes
+node,2412750096,POINT (73.0133138 33.695129),Old Book House,,books
+node,2412750097,POINT (73.0134983 33.6954001),Old Book House,,books
+node,2412750099,POINT (73.0142863 33.694293),پیزا ہٹ,fast_food,
+node,2412750105,POINT (73.013493 33.6950162),,fast_food,
+node,2447001872,POINT (73.0319097 33.6881755),National Bank - NBP,bank,
+node,2447001882,POINT (73.0319696 33.6882075),Bank Al-Habib,bank,
+node,2447001887,POINT (73.0320307 33.6882402),میزان بینک,bank,
+node,2447001892,POINT (73.0320891 33.6882714),Punjab Bank,bank,
+node,2447001899,POINT (73.0320585 33.6877534),Bata,,yes
+node,2479765985,POINT (73.0613636 33.678048),Pak Turk School,school,
+node,2604141784,POINT (73.2051385 33.6550843),Al Nafees Hospital & ISRA University,hospital,
+node,2617186493,POINT (73.073812 33.6668683),Hana Restaurant,restaurant,
+node,2653585818,POINT (73.0609272 33.6650664),عسکری بینک,bank,
+node,2656259979,POINT (73.0174122 33.6490366),NESCOM Hospital,hospital,
+node,2685020450,POINT (72.88801 33.6410642),Baba Yasin orthopedic,hospital,
+node,2694757012,POINT (73.1654251 33.6444149),National Bank,bank,
+node,2694757394,POINT (73.1696974 33.6460405),Allied School Aayan Campus,school,
+node,2694757814,POINT (73.1725651 33.6446471),Air Foundation School,school,
+node,2694758065,POINT (73.1739116 33.6449284),ایم سی بی بینک,bank,
+node,2694775929,POINT (73.1972643 33.6436114),Army Public School,school,
+node,2696066255,POINT (73.163192 33.6436487),City Bakers,,bakery
+node,2775047846,POINT (73.1322566 33.5355428),Shopping mall Sector A,,supermarket
+node,2781836682,POINT (72.9937372 33.6417485),NG cafe,cafe,
+node,2993615396,POINT (73.0735228 33.6669562),Rahat,,bakery
+node,2993615950,POINT (73.0740707 33.666282),Habibi Restaurant,restaurant,
+node,3093742233,POINT (72.9756494 33.645393),Allied Bank Ltd - ATM Only,bank,
+node,3093742473,POINT (72.9757084 33.6453238),,cafe,
+node,3130733355,POINT (73.1320706 33.5363032),عسکری بینک,bank,
+node,3143585086,POINT (73.1497899 33.521756),OPTP,fast_food,
+node,3345283436,POINT (73.129786 33.5330827),سب وے,fast_food,
+node,3438923548,POINT (73.0437969 33.6675584),Khokaa,,convenience
+node,3440521298,POINT (73.063724 33.712905),Silicon Communications,,computer
+node,3446243039,POINT (72.9179326 33.6400654),,,supermarket
+node,3517198145,POINT (73.029624 33.636682),الائیڈ بینک لمیٹڈ,bank,
+node,3517199649,POINT (73.161922 33.64316),Bara Dari Chae Shop,,tea
+node,3517199703,POINT (73.162546 33.643523),Spicy Nandoos,restaurant,
+node,3517199706,POINT (73.162589 33.643534),پیزا ہٹ,fast_food,
+node,3517200569,POINT (73.102653 33.646909),Satti plaza,,mall
+node,3517202742,POINT (72.9960995 33.6728146),New PHA Dhaba,fast_food,
+node,3517203103,POINT (73.013012 33.683421),Ghosiya Market,,convenience
+node,3517203500,POINT (73.017858 33.695829),Mega Zone,,mall
+node,3517204090,POINT (73.0688236 33.7092377),Zeeshan Meat & Chicken Shop,restaurant,
+node,3517204229,POINT (73.04575 33.71053),Islamabad Convent School,school,
+node,3517204240,POINT (73.0379505 33.711254),Karachi Biryani & Nihari House,restaurant,
+node,3517204510,POINT (73.0911371 33.7183104),Naan Centre and Restaurant,restaurant,
+node,3517205228,POINT (73.059776 33.72204),ECS,,shoes
+node,3517205253,POINT (73.0597695 33.7225554),Papasalis Italian Restaurant,restaurant,
+node,3517205273,POINT (73.0491193 33.7230873),Hair Care,,hairdresser
+node,3517205378,POINT (73.077175 33.730416),میزان بینک,bank,
+node,3662871365,POINT (73.057977 33.7221913),Atrio Cafe & Grill,restaurant,
+node,3791063708,POINT (73.0823219 33.7425222),Jufruta Shop,,convenience
+node,3791063930,POINT (73.0868784 33.7444678),Beverage stall Trail 5,cafe,
+node,3921846719,POINT (72.8366352 33.6859142),Safa Cash And Carry,,supermarket
+node,4092084153,POINT (73.1551766 33.6509865),Old Cafe COMSATS,cafe,
+node,4102064090,POINT (73.1385729 33.622338),Tarlai Khurd (Atta),,confectionery
+node,4118603690,POINT (72.9803594 33.6827142),Cheema and Chatta,restaurant,
+node,4118651689,POINT (73.1451348 33.5713893),Allied Bank PWD Branch,bank,
+node,4139933089,POINT (73.0684107 33.6974207),Al Madina Diesel Laboratory,,car_repair
+node,4139985089,POINT (73.06741 33.6996421),بلال کار الیکٹریشن,,car_repair
+node,4151738789,POINT (73.0424472 33.6537298),sajjad auto workshop,,car_repair
+node,4158866293,POINT (73.011782 33.6907247),Executive Club Gym n Café,cafe,
+node,4210504398,POINT (73.0433368 33.7164258),IESCO F-8/3,,electronics
+node,4210512989,POINT (73.0792412 33.7050853),IESCO  G-7/4,,electronics
+node,4222320096,POINT (73.0378424 33.6476321),Rahat Bakers,,bakery
+node,4222320097,POINT (73.0285247 33.6382526),Islamabad Fruit and Vegetable Market (Islamabad Mandi),,supermarket
+node,4226861591,POINT (73.079227 33.7050747),IESCO G-7/4,,electronics
+node,4254679193,POINT (73.0340171 33.687286),Punjab Cash & Carry ,,supermarket
+node,4261721890,POINT (73.0404178 33.7126976),M&S Store,,supermarket
+node,4267768492,POINT (73.0576921 33.6761627),HEC ISLAMABAD ,school,
+node,4285659200,POINT (73.0327987 33.6501866),Rajpoot Market,,convenience
+node,4311768912,POINT (73.0464423 33.7094263),چائنا ٹاؤن,restaurant,
+node,4322685991,POINT (73.0754865 33.6690721),Gown house,,sports
+node,4322685992,POINT (73.0511756 33.7210598),Hardee's,fast_food,
+node,4322750389,POINT (73.0588019 33.7219919),Khiva,restaurant,
+node,4331753493,POINT (73.1151693 33.6301511),Madina Cash and Carry,,department_store
+node,4343305489,POINT (73.0731414 33.7178188),Power Up Services,,electronics
+node,4345546390,POINT (72.9207624 33.6435391),Save Mart,,supermarket
+node,4345549689,POINT (72.9207158 33.6435725),Toyota GT Motors,,car_repair
+node,4364814497,POINT (73.025864 33.713944),Air University Islamabad,school,
+node,4374486390,POINT (72.9805029 33.6825518),Tehzeeb Bakers,,bakery
+node,4377112589,POINT (73.1451424 33.6750388),,,furniture
+node,4377666890,POINT (73.0529601 33.6557074),Beacon House I9 Campus,school,
+node,4378716398,POINT (73.0199696 33.6738068),Capital Traders,,car_parts
+node,4393281390,POINT (73.1554614 33.6555074),Abasyan uni ISB,school,
+node,4396298392,POINT (72.9684151 33.6315984),MCB,bank,
+node,4397131303,POINT (73.0781868 33.7354388),Street 1 cafe,cafe,
+node,4397131505,POINT (73.0782857 33.7354879),گلوریا جینز,cafe,coffee
+node,4397140998,POINT (73.0589714 33.7215761),Bata,,shoes
+node,4397141080,POINT (73.0589324 33.7216219),Stylo,,shoes
+node,4397142566,POINT (73.0593553 33.7213731),Kishmish,restaurant,
+node,4397151705,POINT (73.0599523 33.7224836),ChenOne,,houseware
+node,4397155842,POINT (73.0553152 33.7197146),اسٹینڈرڈ چارٹرڈ,bank,
+node,4397155876,POINT (73.0552023 33.7193315),Roasters,restaurant,
+node,4397157195,POINT (73.0533342 33.7183088),الائیڈ بینک,bank,
+node,4397158009,POINT (73.0532751 33.7183758),یونائیٹڈ بینک لمیٹڈ,bank,
+node,4397163724,POINT (73.0369267 33.7127206),اسٹینڈرڈ چارٹرڈ,bank,
+node,4414106389,POINT (72.9699265 33.6275658),Dar-e-Arqam School,school,
+node,4417497491,POINT (73.0185422 33.6811068),college more,school,
+node,4419830789,POINT (73.1557147 33.6550655),ROOTS school,school,
+node,4422265789,POINT (72.9702873 33.6256267),Allah Ho Restaurant,restaurant,
+node,4423791491,POINT (73.0171962 33.6710113),Enercon Computerised tuneup Centre,,car_repair
+node,4423794491,POINT (73.0172673 33.6710404),cruising care auto workshop and spare parts,,car_parts
+node,4423818490,POINT (73.0689063 33.7338619),prometric centre,school,
+node,4427484890,POINT (73.0518067 33.6892285),"Allied Bank Limitted G-8/1, Islamabad",bank,
+node,4463123289,POINT (73.1421245 33.5244071),Pindi Plaza,,hardware
+node,4481598689,POINT (73.0590724 33.6928891),AEG (American Express) I & T Center,,computer
+node,4481951891,POINT (73.1666387 33.6998832),Awis,,beverages
+node,4503826806,POINT (73.0518489 33.6894677),Nazir Automobiles,,car_repair
+node,4503826819,POINT (73.0504032 33.6887558),Bismillah Abbasi Restaurant & Naan Centre,restaurant,
+node,4508913290,POINT (73.157406 33.5542686),Gondal market,,supermarket
+node,4515463994,POINT (73.0695947 33.7115228),Al-Habib Market,,supermarket
+node,4524887194,POINT (73.0643025 33.6755159),Preston University Islamabad,school,
+node,4530855789,POINT (72.9223868 33.6327817),اطالوی پیزا,,beverages
+node,4533827300,POINT (73.1375352 33.566509),Dua Family Hospital,hospital,
+node,4535242390,POINT (73.0441898 33.6506871),بینک الفلاح,bank,
+node,4535244289,POINT (73.03999 33.6484922),allied bank,bank,
+node,4535244389,POINT (73.0443917 33.6508153),NIB bank,bank,
+node,4535632992,POINT (73.04426 33.6510351),HabibMetro Bank,bank,
+node,4539704389,POINT (72.946032 33.6219927),KRL School,school,
+node,4544033490,POINT (73.0636843 33.6860873),takar tea stall,cafe,
+node,4545984490,POINT (73.176632 33.5239968),Mehak Mart,,beverages
+node,4548133290,POINT (73.0372013 33.7123306),Subway F8,fast_food,
+node,4548145789,POINT (73.1070966 33.6868444),Best Western,restaurant,
+node,4550330906,POINT (73.1515653 33.5748163),Shikarpuri Sweets,,confectionery
+node,4550330907,POINT (73.1513648 33.5750043),سندھ بینک,bank,
+node,4550331302,POINT (73.1516327 33.5748424),Bata,,shoes
+node,4551972890,POINT (73.1075369 33.7460284),Mashal Model School,school,
+node,4559979995,POINT (73.0614615 33.6534082),Chaudhry market,,supermarket
+node,4561962817,POINT (73.0756761 33.6663006),Silk Bank,bank,
+node,4561963301,POINT (73.0760719 33.6662337),MCB,bank,
+node,4561964009,POINT (73.0756136 33.6663275),عسکری بینک,bank,
+node,4561967533,POINT (73.0754458 33.6673976),HBL Bank,bank,
+node,4561969652,POINT (73.0752555 33.6673085),گلوریا جینز,cafe,coffee
+node,4561970390,POINT (73.0752059 33.6672546),کینٹکی فرائیڈ چکن,fast_food,
+node,4561972037,POINT (73.0755462 33.6690857),Buy Best,,supermarket
+node,4561973637,POINT (73.0750903 33.6691639),Madina Cash & Carry MCC,,supermarket
+node,4561974424,POINT (73.0751265 33.6693123),یونائیٹڈ بینک لمیٹڈ,bank,
+node,4561975521,POINT (73.0763134 33.6688982),Hot & Spicy,fast_food,
+node,4561975577,POINT (73.0749312 33.6693649),فیصل بینک,bank,
+node,4561976088,POINT (73.0744606 33.669144),NIB Bank,bank,
+node,4561976820,POINT (73.0741393 33.6692124),بینک الفلاح,bank,
+node,4562011424,POINT (73.0747845 33.6721003),Sarhad General Store,,yes
+node,4562012373,POINT (73.0755704 33.6692475),Books and Books,,books
+node,4562096876,POINT (73.0666875 33.6610508),Mamo Pan Shop,,yes
+node,4565294289,POINT (73.176611 33.5239445),Guru Khalis,,supermarket
+node,4568599689,POINT (73.0626885 33.6537765),,school,
+node,4570331889,POINT (73.0507716 33.653729),askari bank,bank,
+node,4571538592,POINT (73.0398803 33.6893093),Taqwa Market,,supermarket
+node,4572665989,POINT (73.0419918 33.6844864),Quetta cafe,cafe,
+node,4572665990,POINT (73.0419405 33.6844616),UBL bank,bank,
+node,4581456615,POINT (73.0554504 33.6562659),summit bank,bank,
+node,4581538298,POINT (73.0606093 33.6588813),soneri bank,bank,
+node,4581538299,POINT (73.0682142 33.661843),islamabad model school,school,
+node,4581586890,POINT (73.0580065 33.6575297),Ali hospital,hospital,
+node,4581586892,POINT (73.0671525 33.6612372),,,bakery
+node,4581606589,POINT (73.0673938 33.6619577),fish point,,seafood
+node,4581606690,POINT (73.0560014 33.6564078),js bank,bank,
+node,4581606692,POINT (73.0423179 33.6539128),waqas auto,,car_repair
+node,4585250590,POINT (73.0751655 33.6672649),پیزا ہٹ,restaurant,
+node,4585250591,POINT (73.0750733 33.6690856),بينک الحبيب,bank,
+node,4585250592,POINT (73.0578779 33.7262815),Sitar Buksh,cafe,
+node,4585256991,POINT (73.0640229 33.6537573),Dhaba,restaurant,
+node,4585256993,POINT (73.0756628 33.6694749),Refreshment cafe,cafe,
+node,4585274789,POINT (73.0616402 33.6533306),Arkhitech software house,,computer
+node,4585274791,POINT (73.075328 33.6673457),Ranchers,fast_food,
+node,4585274890,POINT (73.0751089 33.6692363),Madina Cash & Carry MCC,,department_store
+node,4585274992,POINT (73.0746369 33.6668772),Dubai autos,,car
+node,4603321402,POINT (73.0611013 33.6824236),ripah international university,school,
+node,4603322696,POINT (73.0410826 33.7115709),Meat Mart,,butcher
+node,4603322697,POINT (73.0611584 33.6823441),saint gabriel school,school,
+node,4603345489,POINT (73.0409915 33.7116688),میزان بینک,bank,
+node,4607788290,POINT (73.0253631 33.6402213),guard oil change,,car_repair
+node,4607855090,POINT (73.1544332 33.5675401),MAAC Mart,,department_store
+node,4620587492,POINT (73.0180473 33.6528265),TMUC,school,
+node,4643557090,POINT (73.0578233 33.7114524),etihad airways,,ticket
+node,4647775089,POINT (73.1857788 33.5451265),Capital University of Science and Technology,school,
+node,4652119396,POINT (73.0578941 33.7114853),Muslim commercial bank,bank,
+node,4664908797,POINT (73.1541796 33.6390855),Nawab Bakers,,bakery
+node,4672149493,POINT (73.03448 33.653935),BMW Islamabad,,car_repair
+node,4672190663,POINT (72.985837 33.6991315),Dubai Cash&Carry,,supermarket
+node,4674109590,POINT (73.1544836 33.6391467),Italian Pizza,fast_food,
+node,4674130691,POINT (73.1573905 33.6350481),Ahmad Mart,,convenience
+node,4674136891,POINT (73.1579904 33.6307566),Hostel Mess,cafe,
+node,4674139392,POINT (73.1575725 33.6354079),The Eagles School,school,
+node,4674140090,POINT (73.1585612 33.6307516),Hostel Laundry,,laundry
+node,4674149089,POINT (73.1584545 33.6307883),Imran Cafe,,convenience
+node,4676054494,POINT (73.0474613 33.6986522),Tandoori Restaurant,restaurant,
+node,4676966543,POINT (72.9734368 33.6998275),M. Store,,supermarket
+node,4677051137,POINT (73.0732134 33.6867733),کیفے 1969,restaurant,
+node,4681784590,POINT (73.1558067 33.5246554),الائیڈ بینک,bank,
+node,4693828692,POINT (73.0595943 33.6583878),MCB bank,bank,
+node,4693980289,POINT (73.0597546 33.6584609),Bank islami,bank,
+node,4697172393,POINT (73.0436592 33.6504),bank al habib limited,bank,
+node,4697193889,POINT (73.0429982 33.6503283),the nation bank,bank,
+node,4697462594,POINT (73.0681815 33.7440674),pizzaholic,restaurant,
+node,4697477290,POINT (73.0681815 33.7442729),Polo Lounge,restaurant,
+node,4697479416,POINT (73.0440157 33.6504364),mohammadi nihari,fast_food,
+node,4698526710,POINT (73.1078513 33.5429141),Suzuki Central Motors,,car
+node,4704702192,POINT (73.0126555 33.6916371),Darul ifta wal ihsan,school,
+node,4706492819,POINT (73.0498786 33.699055),Paratha House,restaurant,
+node,4710620789,POINT (73.126614 33.5649167),Cross Bones,cafe,
+node,4710969694,POINT (72.9232494 33.636774),Beacon house educational complex  (BEC),school,
+node,4715980289,POINT (73.0158687 33.6522249),PAEC General Hospital,hospital,
+node,4728048790,POINT (72.9707736 33.624552),Askari Bank,bank,
+node,4728048791,POINT (72.9708134 33.6244901),Shinwari Tikka,restaurant,
+node,4728058990,POINT (72.9704757 33.6255097),Pakistan Restaurant,restaurant,
+node,4732506521,POINT (73.021268 33.6485334),Bata,,shoes
+node,4756099431,POINT (73.2318524 33.6516431),Daunting and Gas Welding Shop,,car_repair
+node,4756112329,POINT (73.2385815 33.6536446),Car Repair Market,,car_repair
+node,4767771923,POINT (73.0211745 33.6484862),service,,shoes
+node,4770511821,POINT (73.0533747 33.718736),NIB Bank,bank,
+node,4774726796,POINT (73.0505542 33.6677003),Numl Main Cafe,cafe,
+node,4774726798,POINT (73.0496497 33.6671531),Numl Engineering department,school,
+node,4774740074,POINT (73.0498034 33.7077463),ایچ بی ایل پاکستان,bank,
+node,4774755948,POINT (73.0493936 33.7076313),کینٹکی فرائیڈ چکن,fast_food,
+node,4774757537,POINT (73.0490128 33.7076945),پیزا ہٹ,restaurant,
+node,4775114540,POINT (73.0494893 33.7078162),Apple Store,,electronics
+node,4775499434,POINT (73.0500988 33.667631),Numl Copy Shop,,copyshop
+node,4775499435,POINT (73.0520952 33.6669805),Numl old cafe,cafe,
+node,4775499436,POINT (73.0466946 33.6668715),Numl Second Cafe,cafe,
+node,4775499633,POINT (73.0567896 33.6707784),National Bank op Pakistan,bank,
+node,4775521525,POINT (73.0571436 33.6688258),Old dhaba,restaurant,
+node,4777287422,POINT (73.0225495 33.6491189),sadiq eggs,,supermarket
+node,4823221728,POINT (73.0373314 33.7121435),Boom Boom Fast Food,fast_food,
+node,4823225325,POINT (73.0388428 33.7105969),Food Street  F-8 Markaz,fast_food,
+node,4874973782,POINT (73.0858929 33.7175095),National Savings Centre,bank,
+node,4876124464,POINT (73.0914223 33.7130611),Hammad General Store,,convenience
+node,4876131822,POINT (73.0920211 33.709203),Shell Tyre Shop,,car_repair
+node,4880197863,POINT (72.9951411 33.6678428),Markaz Dhaba,restaurant,
+node,4880197864,POINT (72.9949811 33.6679135),Mini Market,,convenience
+node,4880197878,POINT (72.9979714 33.6670121),Khyber Shinwari Restaurant,restaurant,
+node,4880197879,POINT (72.9975638 33.6675571),Berlin Foods,fast_food,
+node,4880197881,POINT (72.9977337 33.6673366),Salezone.pk,,convenience
+node,4880197882,POINT (72.9976712 33.6674177),Ascender,,outdoor
+node,4880197884,POINT (72.9974998 33.667754),Zeeshan Restaurant,restaurant,
+node,4880197885,POINT (72.9971665 33.6681921),The Naan Cafe,restaurant,
+node,4880197886,POINT (72.9974307 33.667842),Zaman Photocopy and Composing Center,,stationery
+node,4880197887,POINT (72.9973515 33.6679502),Naan Shaan,restaurant,
+node,4880197888,POINT (72.9972986 33.6680196),Madina Photo Copy Center,,stationery
+node,4880197889,POINT (72.997388 33.6679079),Smart Climate Solution,,stationery
+node,4880197890,POINT (72.9972275 33.6681279),Insaf Cloth Al Anayat Mall,,clothes
+node,4880197894,POINT (72.9963955 33.6686455),Pait Pooja,fast_food,
+node,4880197895,POINT (72.9964124 33.6687391),Silver Grill,restaurant,
+node,4880197896,POINT (72.9965027 33.6685138),Food Gear,restaurant,
+node,4880197901,POINT (72.9967753 33.6684224),Rahat Bakers,,bakery
+node,4880197903,POINT (72.9966674 33.668689),Al-Rehman Uniform,,clothes
+node,4880197904,POINT (72.9969076 33.6685577),Generation Computers,,computer
+node,4880197909,POINT (72.9981512 33.6677207),Maryam Hospital and Diagnostic Center,hospital,
+node,4880197910,POINT (72.9978535 33.6676734),Bank of Punjab,bank,
+node,4880197911,POINT (72.9977475 33.667778),Faisal Fabrics,,clothes
+node,4880224228,POINT (72.9978267 33.6678196),Biryani Hut,fast_food,
+node,4880224229,POINT (72.9979631 33.6678913),سمٹ بینک,bank,
+node,4880224231,POINT (72.9986473 33.6679723),Amigos Cuisine,restaurant,
+node,4880224236,POINT (72.9984889 33.6681673),Dera Khyber Restaurant,restaurant,
+node,4880224237,POINT (72.9983973 33.6682802),New Quetta Shah G Cafe,restaurant,
+node,4880224238,POINT (72.9985984 33.6681395),Angry Bird Paradise,,pet
+node,4880224239,POINT (72.9971773 33.6684537),New Quetta BOLAN Resturant,restaurant,
+node,4880224240,POINT (72.9970602 33.6686848),CRISPY BROAST,restaurant,
+node,4880224241,POINT (72.9972238 33.6687752),Blue Mobile G11 Markaz Islamabad,,mobile_phone
+node,4880224242,POINT (72.9976239 33.6689621),Hamza Tailors,,tailor
+node,4880224243,POINT (72.99783 33.668784),PIZZA COTTAGE,restaurant,
+node,4880224244,POINT (72.9980773 33.6689207),Karachi Nights Restaurant,restaurant,
+node,4880224245,POINT (72.9978089 33.6690625),Citi Books,,books
+node,4880224246,POINT (72.9979118 33.6691183),Maizban Tandoori Kababish Restaurant,restaurant,
+node,4880224248,POINT (72.9981148 33.6691704),عسکری بینک,bank,
+node,4880224249,POINT (72.9981453 33.6692486),Boom Boom Roll Paratha,fast_food,
+node,4880224250,POINT (72.9983518 33.6693638),بینک الفلاح,bank,
+node,4880224251,POINT (72.9985828 33.6694885),Muslim Commercial Bank,bank,
+node,4880224252,POINT (72.9984741 33.6694309),United Bank,bank,
+node,4880224253,POINT (72.998799 33.669607),اسٹینڈرڈ چارٹرڈ,bank,
+node,4880224254,POINT (72.9990054 33.6696362),Ali Baba Restaurant,restaurant,
+node,4880251630,POINT (72.9992963 33.6701348),Servis Shoes,,shoes
+node,4880251631,POINT (72.9994025 33.6701951),جے ایس بینک,bank,
+node,4880251632,POINT (72.9994671 33.6702242),The Paratha Co.,restaurant,
+node,4880251633,POINT (72.9992924 33.6700563),Domino's Pizza G-11,restaurant,
+node,4880251634,POINT (72.9993861 33.6699329),Bread n Cakes,restaurant,
+node,4880251635,POINT (72.9997512 33.6699146),Rewayat Restaurant,restaurant,
+node,4880251636,POINT (73.0004059 33.6690322),Habib MetroBank,bank,
+node,4880251638,POINT (73.0000254 33.6688542),Nadeem Cars,,car
+node,4880251639,POINT (72.9998878 33.6687861),Malik Motors,,car
+node,4880251640,POINT (72.9999509 33.6688174),Fair Car Deals,,car
+node,4880251642,POINT (72.9895781 33.6681766),Islamabad Model School,school,
+node,4880251658,POINT (73.0064074 33.6678382),"SLS Montessori & School, G-11 Branch",school,
+node,4880262567,POINT (72.98994 33.6649946),Zaiqa Restaurant,restaurant,
+node,4880262569,POINT (72.9902587 33.6645794),Madina Paint & Hardware,,hardware
+node,4880262571,POINT (72.9913852 33.6632888),چوہدری آٹوز,,car
+node,4880262572,POINT (72.9913097 33.6631875),مسٹر چکن شاپ,,yes
+node,4880262573,POINT (72.99151 33.6628964),سبحان اللہ ہوٹل,cafe,
+node,4880262574,POINT (72.9914468 33.6629875),Awami Hotel & Restaurant,restaurant,
+node,4880262575,POINT (72.9920661 33.6621425),باری آٹوز,,car
+node,4880262577,POINT (72.9918316 33.6627473),سہیل آٹوز اور ورک شاپ,,car_repair
+node,4880262578,POINT (72.9932049 33.6606012),دار ارقم اسکول,school,
+node,4880262579,POINT (72.993303 33.6604263),پزیلا پیزا,restaurant,
+node,4880262580,POINT (72.9942208 33.6594749),سوپر گرل ریستوراں,restaurant,
+node,4880262581,POINT (72.9940012 33.6594884),اعوان الیکٹرک اسٹور,,electronics
+node,4880297948,POINT (72.9857769 33.6707048),Waqas Meat Shop,,butcher
+node,4880297950,POINT (72.9875616 33.668161),Makkah Al-Shahbaz Restaurant,restaurant,
+node,4880297967,POINT (72.9988851 33.6779244),Falcon Adventure Club,,travel_agency
+node,4880297969,POINT (72.9955399 33.6732596),Khaldunia High School,school,
+node,4880298011,POINT (72.9947831 33.675808),Syrian Baklava,restaurant,
+node,4880332408,POINT (72.9856982 33.6737367),Bahria Foundation School,school,
+node,4880332409,POINT (72.9892441 33.6747836),Mount Sinai School,school,
+node,4880332410,POINT (72.9894613 33.6748595),International Islamic Grammar School,school,
+node,4880332411,POINT (72.9920926 33.6765202),Head Start School,school,
+node,4880332414,POINT (72.9948455 33.6810122),Frobels Schools,school,
+node,4880332824,POINT (72.9928415 33.6845359),Neemroz: Afghan Balous Cuisine,restaurant,
+node,4880332837,POINT (72.9806022 33.6824086),Naan Warka,restaurant,
+node,4880332838,POINT (72.9807686 33.6823445),Dhaka Sweets,,sweets
+node,4880332839,POINT (72.9818844 33.6756264),Abbasi Hotel & Restaurant,restaurant,
+node,4880332840,POINT (72.9835282 33.6734139),Al-Madina Restaurant,restaurant,
+node,4887841026,POINT (73.0123326 33.6788398),Islamabad Model College for Girls G-10/2,school,
+node,4887841027,POINT (73.0049471 33.6810981),Pak Turk International,,travel_agency
+node,4887841028,POINT (73.0065706 33.6797018),Small Market G-10/2,,convenience
+node,4887841044,POINT (73.0158995 33.6703746),National Bank Of Pakistan,bank,
+node,4887841046,POINT (73.0114152 33.6690579),The Leads School,school,
+node,4889677804,POINT (73.0218675 33.6829607),The City School G-10 Branch,school,
+node,4889677805,POINT (73.023787 33.6821864),KIPS CSS,school,
+node,4889677808,POINT (73.0208068 33.6863031),Al Ain International Specialist Eye Hospital,hospital,
+node,4889677809,POINT (73.0184777 33.6860677),Gujjar Milk Shop,,dairy
+node,4889677811,POINT (73.0318287 33.6776437),K R L General Hospital,hospital,
+node,4889677923,POINT (73.0386572 33.6827062),Honda Centre Motorcycle Workshop,,car_repair
+node,4889677927,POINT (73.0402813 33.6832623),ایچ بی ایل پاکستان,bank,
+node,4889712012,POINT (73.0421052 33.6846343),Pak Afghan,restaurant,
+node,4889712014,POINT (73.0431493 33.6852159),Alam Chapli Kabab & Peshawari BBQ,restaurant,
+node,4889712015,POINT (73.043321 33.6852988),"Baba Balochi Saji, Kabli Palao & Fish Corner",restaurant,
+node,4889712017,POINT (73.0433696 33.6852174),New Shinwari,restaurant,
+node,4889712018,POINT (73.045225 33.6861077),Shamim-E-Dahan,cafe,
+node,4889712019,POINT (73.0433645 33.6853278),Baba G Murgh Pulao,restaurant,
+node,4889712020,POINT (73.0437697 33.6855393),Khyber Afghan Restaurant,restaurant,
+node,4889712221,POINT (73.0442475 33.6856568),Servis Shoes,,shoes
+node,4889712224,POINT (73.0351274 33.6808979),Afghani Kabab House,restaurant,
+node,4889712225,POINT (73.0345867 33.6806104),Sufi Sarai,cafe,
+node,4889712226,POINT (73.0313104 33.6788749),3 BBB Restaurant BBQ,restaurant,
+node,4889712228,POINT (73.0304274 33.6780605),Usman Sanitary Store,,hardware
+node,4889712232,POINT (73.03038 33.6797279),Federal Government Junior Model School No # 2,school,
+node,4889743708,POINT (73.0301081 33.6847277),Haseeb Sanitary Work,,hardware
+node,4889743714,POINT (73.0298626 33.6924561),Shani Chips,fast_food,
+node,4889743717,POINT (73.0312064 33.6936657),Islamabad Grammar School,school,
+node,4889743720,POINT (73.0370405 33.6971707),Oasis Boutique,,clothes
+node,4889744127,POINT (73.0401264 33.6890567),Lord Software House,,electronics
+node,4889767108,POINT (73.0336688 33.6865106),ایم سی بی بینک,bank,
+node,4889767110,POINT (73.0350121 33.6874331),Tehzeeb Bakers,,bakery
+node,4889767111,POINT (73.0352414 33.6871431),Chilman,restaurant,
+node,4889767112,POINT (73.0344347 33.6876767),First Women Bank Limited,bank,
+node,4889767116,POINT (73.0338617 33.6882881),Darbar,restaurant,
+node,4889767118,POINT (73.0332023 33.688283),الائیڈ بینک لمیٹڈ,bank,
+node,4898951680,POINT (73.0333195 33.6867739),LaCarne Chiken shop,,yes
+node,4898951681,POINT (73.0333642 33.6890843),Utility Super Market,,supermarket
+node,4898951685,POINT (73.0305651 33.6903353),بینک اسلامی,bank,
+node,4898951686,POINT (73.030805 33.6898719),HBL G9 Markaz,bank,
+node,4898951687,POINT (73.0313172 33.689652),Punjab Samosa,fast_food,
+node,4898951688,POINT (73.0307237 33.6900005),Madina Cash & Carry Mall(MCC),,mall
+node,4898951689,POINT (73.0317197 33.6899531),Al Usman Restaurant,restaurant,
+node,4898951690,POINT (73.0323284 33.6899851),Hubba Bubba Eat & Chill,restaurant,
+node,4898951691,POINT (73.031012 33.6893111),Javed Sweet and Bakers,,bakery
+node,4898951698,POINT (73.0328894 33.6894236),Bata Shoe Store,,shoes
+node,4898951699,POINT (73.0327431 33.6901137),Anarkali,restaurant,
+node,4898951700,POINT (73.0330358 33.6901103),Toba Soup,fast_food,
+node,4898951701,POINT (73.0329016 33.6902016),Duck Faster Fast Food,fast_food,
+node,4899052823,POINT (73.0412787 33.6960409),National Institute for Handicapped,hospital,
+node,4899052824,POINT (73.0419063 33.6963265),National Institute of Rehabilitation Medicine,hospital,
+node,4907640923,POINT (73.0061577 33.6867378),تندوری,restaurant,
+node,4917473022,POINT (73.0467533 33.66664),NUML second copy shop,,copyshop
+node,4917473122,POINT (73.0595634 33.6670878),ایچ بی ایل پاکستان,bank,
+node,4927180422,POINT (72.9834113 33.6962188),,,bakery
+node,4943934752,POINT (73.0942782 33.7379144),"National Bank of Pakistan, B-Block",bank,
+node,4943934760,POINT (73.0935143 33.737907),Cafeteria,cafe,
+node,4943934761,POINT (73.0928512 33.7370798),Habib Bank Ltd,bank,
+node,4943934762,POINT (73.0956065 33.7379885),"National Bank of Pakistan, D-Block",bank,
+node,4943934763,POINT (73.0958026 33.7380856),Utility Store,,supermarket
+node,4943934765,POINT (73.0937061 33.7350867),Federal Government Dispensary(FGD)- P Block,hospital,
+node,4943934767,POINT (73.0942237 33.7343643),"Habib Bank Ltd, Q-Block",bank,
+node,4945411880,POINT (73.1002789 33.7183262),National Bank - NBP,bank,
+node,4945411883,POINT (73.1007287 33.7176138),"Asian Development Bank (ADB), Islamabad",bank,
+node,4945412622,POINT (73.1073869 33.7218252),Street 1 Café,cafe,
+node,4945722971,POINT (73.1226245 33.7322488),Preparatory School Islamabad,school,
+node,4945722978,POINT (73.122402 33.7318576),Serai Bistro,restaurant,
+node,4945722979,POINT (73.0881298 33.7223405),Nirvana Lounge,restaurant,
+node,4948796724,POINT (73.171204 33.7353075),Umania Restaurant,restaurant,
+node,4954380776,POINT (73.0874181 33.7276124),Dewan Mercedes,,car
+node,4954380777,POINT (73.0877691 33.7270737),Ali Plaza Shopping Mall,,mall
+node,4954380779,POINT (73.0867834 33.7266617),اسٹینڈرڈ چارٹرڈ,bank,
+node,4954380780,POINT (73.0865215 33.7270794),بینک الفلاح,bank,
+node,4954380782,POINT (73.0882827 33.7263874),Islamabad Private Hospital,hospital,
+node,4954380783,POINT (73.0881931 33.7263445),میزان بینک,bank,
+node,4954380784,POINT (73.0877828 33.7260913),Mr. Cod,restaurant,
+node,4954380785,POINT (73.0887524 33.7260957),Deutsche Bank,bank,
+node,4954380786,POINT (73.0875025 33.7259273),Qatar Airways,,travel_agency
+node,4954380787,POINT (73.0876634 33.7260098),Meezan Bank Limited,bank,
+node,4954380792,POINT (73.0864664 33.7251624),Meezan Bank Regional Office North,bank,
+node,4954380794,POINT (73.0866252 33.7254731),Fijji's Grill,restaurant,
+node,4954380795,POINT (73.0864103 33.7253605),سندھ بینک,bank,
+node,4954380796,POINT (73.0866065 33.7252265),BBQ Tonight,restaurant,
+node,4954380797,POINT (73.0836364 33.7239577),Askari Bank Limited,bank,
+node,4954380801,POINT (73.084277 33.7238252),Shenwari Foods,restaurant,
+node,4954380802,POINT (73.0833041 33.7237682),Hamza Food,restaurant,
+node,4954380804,POINT (73.0828922 33.7235363),Milkshake Place,cafe,
+node,4954380806,POINT (73.0827422 33.7231617),Abbasi Restaurant,restaurant,
+node,4954380808,POINT (73.082357 33.7231076),Gogo Chicken Broast,fast_food,
+node,4954380811,POINT (73.0823003 33.7243055),HBL Asset Management,bank,
+node,4954642822,POINT (73.0813204 33.7227355),Burj Bank Limited,bank,
+node,4954642823,POINT (73.0811372 33.7226211),Samba Bank,bank,
+node,4954642828,POINT (73.0809789 33.7225353),دبئی اسلامی بینک,bank,
+node,4954642833,POINT (73.0781928 33.7225247),First Women Bank,bank,
+node,4954642834,POINT (73.0792462 33.7216421),ABL Group Headquarter North 2,bank,
+node,4954642836,POINT (73.0785849 33.7212587),فیصل بینک,bank,
+node,4954657328,POINT (73.0788023 33.7208139),Vmart,,computer
+node,4954657329,POINT (73.0794444 33.7211157),Gulf Air,,travel_agency
+node,4954657330,POINT (73.0779117 33.7209365),Usmania Restaurant,restaurant,
+node,4954657335,POINT (73.078063 33.7204338),Jahangir Eye Hospital,,optician
+node,4954690479,POINT (73.076643 33.7202601),Ramna Restaurant,restaurant,
+node,4954690480,POINT (73.0776573 33.7201862),Food for U Restaurant,fast_food,
+node,4954690481,POINT (73.0773636 33.7203566),Shah Restaurant,restaurant,
+node,4954690482,POINT (73.0760726 33.7199391),Butt Foods,fast_food,
+node,4954690485,POINT (73.076503 33.7201748),Chef Mehbobs Kitchen,restaurant,
+node,4954690486,POINT (73.076865 33.7197686),Jamal & Sons,,computer
+node,4954690487,POINT (73.0765337 33.7199533),Zaib Toys Shop,,toys
+node,4954690489,POINT (73.076701 33.7200527),Raza Restaurant,restaurant,
+node,4954775532,POINT (73.0754343 33.7193565),Salt n Pepper,restaurant,
+node,4954775533,POINT (73.0751114 33.71948),Saudi Arabian Airlines,,travel_agency
+node,4954775544,POINT (73.0750204 33.7194363),Bank of Punjab,bank,
+node,4954775549,POINT (73.0746052 33.7185776),Rehman Travels,,travel_agency
+node,4954775550,POINT (73.0741253 33.7183304),Pakistan International Airlines,,travel_agency
+node,4954775559,POINT (73.0754193 33.7192663),Kashmir Express Travel Co,,travel_agency
+node,4954775560,POINT (73.0753339 33.718968),Manaal International Travel and Tour,,travel_agency
+node,4954775561,POINT (73.075689 33.7191527),South Travel &Tour,,travel_agency
+node,4954775562,POINT (73.0745757 33.7187266),Travel Planners,,travel_agency
+node,4954775563,POINT (73.0738577 33.7187113),Omar Khayyam Restaurant,restaurant,
+node,4954775564,POINT (73.0727516 33.7180912),Kulsum International Hospital,hospital,
+node,4954775565,POINT (73.0734633 33.7184682),Bespoke Tailors,,tailor
+node,4954775566,POINT (73.073471 33.7179769),PIA Booking Office,,travel_agency
+node,4954775567,POINT (73.0730336 33.7177648),Harmain Travels Islamabad,,travel_agency
+node,4954775568,POINT (73.0733671 33.7179328),Waqas Travels,,travel_agency
+node,4954775570,POINT (73.0739655 33.7185178),National Bank Exchange Office,bank,
+node,4954775571,POINT (73.0730023 33.7201054),SME Bank Ltd,bank,
+node,4954775572,POINT (73.0733323 33.7202785),Old School Cafe,cafe,
+node,4954775573,POINT (73.0737336 33.7198012),Go Organic,restaurant,
+node,4954775576,POINT (73.0738377 33.7198655),LifeStyle Collection,,watches
+node,4954775577,POINT (73.0734987 33.72037),Cannoli by Cafe Soul,cafe,
+node,4954775578,POINT (73.0737842 33.7205159),Burning Brownie,cafe,
+node,4954775579,POINT (73.0741231 33.7200312),Nikon Centre,,photo
+node,4954797286,POINT (73.0814557 33.7148698),Utility Store,,supermarket
+node,4954797287,POINT (73.0823841 33.7139447),Federal Government Model Girls School,school,
+node,4954885502,POINT (73.0840317 33.7164959),الائیڈ بینک لمیٹڈ,bank,
+node,4954885507,POINT (73.0852634 33.7155509),UBL civic center,bank,
+node,4954968366,POINT (73.0843474 33.7172481),Halwa Puri,restaurant,
+node,4954968367,POINT (73.0844788 33.7173278),Mirch Masala Food,fast_food,
+node,4954968368,POINT (73.0851637 33.7177138),Melody Food Park,fast_food,
+node,4954968369,POINT (73.0855873 33.717815),Royal Afghan,restaurant,
+node,4954968370,POINT (73.0849384 33.7176107),Phajja Siri Paye,restaurant,
+node,4954968371,POINT (73.0846689 33.7169045),Taste & Taste,restaurant,
+node,4954968373,POINT (73.0849712 33.7167883),New Raja Restaurant,restaurant,
+node,4955166930,POINT (73.0855245 33.716546),Tanvir Optical,,optician
+node,4955166931,POINT (73.0860537 33.716133),Avari Tower Isl,restaurant,
+node,4955166932,POINT (73.0858139 33.7140766),عسکری بینک,bank,
+node,4955806303,POINT (72.9728583 33.6996334),منچیز,restaurant,
+node,4955806304,POINT (72.9737989 33.6992741),,,bakery
+node,4955806306,POINT (72.9784412 33.7041627),City Superstore,,supermarket
+node,4955806307,POINT (72.9789397 33.7032393),Najeeb Chemist,,yes
+node,4955811376,POINT (72.9863893 33.6841914),Pizza Originale,fast_food,
+node,4955811377,POINT (72.986489 33.6840968),پیزا ہٹ,restaurant,
+node,4955811378,POINT (72.9863141 33.6842726),One Shop,,yes
+node,4955907521,POINT (73.0394768 33.7140783),JazzHQ,,mobile_phone
+node,4956514625,POINT (73.0492152 33.7074366),برگر کنگ,fast_food,
+node,4956514626,POINT (73.0491401 33.7075605),Inc.,,yes
+node,4956514627,POINT (73.0490677 33.7076408),Khaadi,,yes
+node,4956514628,POINT (73.0503632 33.7079866),Al Fatah,,supermarket
+node,4956514629,POINT (73.0502264 33.7079219),TGI Friday's,restaurant,
+node,4956514631,POINT (73.0494673 33.7075493),Pappa Roti,restaurant,
+node,4956514632,POINT (73.0496095 33.7076229),Samsonite,,yes
+node,4956514633,POINT (73.0495854 33.7076988),ہارڈیز,fast_food,
+node,4956519716,POINT (73.0492337 33.7077879),China Town,restaurant,
+node,4956663335,POINT (73.090843 33.7181613),Lavender,restaurant,
+node,4956663353,POINT (73.0980122 33.7131347),Angelique School,school,
+node,4956663357,POINT (73.0915774 33.7094012),Akhbar Market,,supermarket
+node,4956687764,POINT (73.0893162 33.7083527),Ravi Restaurant,restaurant,
+node,4956687765,POINT (73.0890661 33.7082225),Irum Hotel,restaurant,
+node,4956687766,POINT (73.0888889 33.7081294),Ramna Restaurant,restaurant,
+node,4956687767,POINT (73.088968 33.7081719),Islamabad Masala Jaat,,convenience
+node,4956687768,POINT (73.0887564 33.7080644),Nuts & Nuts,,Dry_Fruit
+node,4956687769,POINT (73.0895821 33.7079975),Faysal Bank Barkat,bank,
+node,4956687771,POINT (73.089522 33.7078988),Kamran Shopping Center,,mall
+node,4956687772,POINT (73.0885292 33.7079253),Arsalan Foods & Refreshment,restaurant,
+node,4956687773,POINT (73.0884451 33.7078835),Allah Badshah Lahori Bhasha Food,restaurant,
+node,4956687774,POINT (73.0888669 33.7074853),Milko Foods,restaurant,
+node,4956687775,POINT (73.0894341 33.7077879),Hamza Books,,books
+node,4956758365,POINT (73.0886597 33.7073826),New Ghausia,restaurant,
+node,4956758366,POINT (73.0879302 33.7076169),Mallik's,restaurant,
+node,4956758367,POINT (73.0882708 33.7071929),Metro Shoes,,shoes
+node,4956758369,POINT (73.0875198 33.7067958),یونائیٹڈ بینک لمیٹڈ,bank,
+node,4956758370,POINT (73.0880401 33.707068),Servis Shoes,,shoes
+node,4956758373,POINT (73.0870987 33.7065637),National Bank - NBP,bank,
+node,4956758374,POINT (73.0864791 33.7069029),Irshad Arcade,,mall
+node,4956758379,POINT (73.0859668 33.7059969),ایچ بی ایل پاکستان,bank,
+node,4956758381,POINT (73.0841858 33.7050308),Toyota,,car
+node,4956837605,POINT (73.0846582 33.7099374),Utility Store,,supermarket
+node,4956837607,POINT (73.0813704 33.7130336),The Educators,school,
+node,4956837611,POINT (73.0775575 33.7114405),Software Development,,computer
+node,4956861412,POINT (73.0847776 33.7394941),Foreign Service Academy,school,
+node,4956926548,POINT (73.0794857 33.7372962),"TLC Daycare, Preschool, Activity Club",school,
+node,4956981549,POINT (73.0780924 33.7312811),Habib Bank Ltd,bank,
+node,4956981551,POINT (73.0788675 33.7302906),National Bank - NBP,bank,
+node,4956981556,POINT (73.0779181 33.730187),Bonanza,,clothes
+node,4957032801,POINT (73.0768512 33.7302041),Munchies,restaurant,
+node,4957032802,POINT (73.0762768 33.7303027),اسٹینڈرڈ چارٹرڈ,bank,
+node,4957032803,POINT (73.0761811 33.7302643),Cafe Behbud,cafe,
+node,4957032804,POINT (73.0766835 33.7301281),Istanbul Restaurant,restaurant,
+node,4957032805,POINT (73.0771034 33.7295011),Hush Puppies,,shoes
+node,4957032806,POINT (73.0765874 33.7299982),Taj Mehal Handicrafts,,clothes
+node,4957032807,POINT (73.0769026 33.7294001),باٹا,,shoes
+node,4957032808,POINT (73.076097 33.7297865),Flair Travel Management Visa Express & Translations,,travel_agency
+node,4957032809,POINT (73.0756487 33.7292331),بینک الفلاح,bank,
+node,4957032810,POINT (73.0756767 33.729404),Naan Dhaaba,restaurant,
+node,4957032812,POINT (73.076285 33.7298885),Simco Photo Studio & Digital Colour Lab,,photo
+node,4957032819,POINT (73.0750807 33.7295399),Casa Rouge,restaurant,
+node,4957032820,POINT (73.0748309 33.7288678),Muslim Commercial Bank,bank,
+node,4957032922,POINT (73.0735672 33.7273962),MeatEX,restaurant,
+node,4957032923,POINT (73.0743228 33.7291636),Radio City Islamabad,,radiotechnics
+node,4957032925,POINT (73.0721657 33.7271383),Pizza Party,restaurant,
+node,4957032926,POINT (73.0713584 33.728528),川粤府,restaurant,
+node,4958092878,POINT (72.9912137 33.6918001),Mall of Islamabad,,mall
+node,4958092879,POINT (72.9922833 33.6890285),نشاۃ ثانیہ,restaurant,
+node,4958092882,POINT (72.9978087 33.6802391),East & West Education System,school,
+node,4958092884,POINT (72.9910535 33.6836422),KHAN RESTAURANT,restaurant,
+node,4958092885,POINT (72.9890035 33.6833134),Rahat Bakers,,bakery
+node,4958092887,POINT (72.9880481 33.6831762),Food Point,fast_food,
+node,4958092888,POINT (72.9881701 33.6831523),NIB Bank F-11 Markaz,bank,
+node,4958092889,POINT (72.9879327 33.6832145),Midway Grocery Store,,convenience
+node,4958092890,POINT (72.9872224 33.683442),Meezan Bank Ltd,bank,
+node,4958092904,POINT (72.9868437 33.6839771),Silkbank,bank,
+node,4958092905,POINT (72.9892792 33.6832673),Samba Bank Limited,bank,
+node,4958092908,POINT (72.986774 33.684044),IBM,,computer
+node,4958092909,POINT (72.9863481 33.6842369),The Nutella Spot,cafe,
+node,4958092912,POINT (72.9859666 33.6844591),Bank Alfalah Limited,bank,
+node,4958092913,POINT (72.9858917 33.6845702),"Habib Bank Ltd., F11 Markaz",bank,
+node,4958092914,POINT (72.9863051 33.6844715),Slimmer Salon,,beauty
+node,4958131354,POINT (72.9882432 33.6847697),Manolo Gelato Cafe,cafe,
+node,4958131355,POINT (72.9890542 33.6846281),فیصل بینک,bank,
+node,4958131356,POINT (72.9890729 33.6847218),United Bank,bank,
+node,4958131358,POINT (72.9884052 33.6847241),گلوریا جینز,cafe,coffee
+node,4958148407,POINT (72.98663 33.6733844),Jayson Group,restaurant,
+node,4958148408,POINT (72.9861955 33.6739514),Bahria Foundation School,school,
+node,4958492922,POINT (73.0157558 33.6706196),Pizzano,fast_food,
+node,4958492924,POINT (73.0162908 33.670912),Mashallah Ravi,restaurant,
+node,4958492925,POINT (73.0166449 33.6711051),Norani Restaurant,restaurant,
+node,4958492927,POINT (73.0167937 33.6711184),Usman Restaurant,restaurant,
+node,4958492929,POINT (73.0177205 33.6716832),Rehmania Restaurant,restaurant,
+node,4958492930,POINT (73.0178921 33.6717613),Shakeel Tyres,,tyres
+node,4958492932,POINT (73.0199915 33.6725624),N & J Workshop,,car_repair
+node,4958492936,POINT (73.024743 33.6777234),Sargodha Bakers,,bakery
+node,4958492938,POINT (73.0242847 33.6815525),Foundation Public School,school,
+node,4958567968,POINT (73.0032728 33.6801967),Allied School,school,
+node,4958568020,POINT (73.0137306 33.6757893),Faiza's,,beauty
+node,4958569724,POINT (73.0149653 33.674948),Fancy Catering And Party Dacotors,restaurant,
+node,4958569725,POINT (73.0153325 33.675229),Khan Shinwari,restaurant,
+node,4958569726,POINT (73.0160965 33.6742856),Bankislami,bank,
+node,4958569727,POINT (73.0153251 33.6756002),NETKOM,,car_repair
+node,4958569728,POINT (73.0153103 33.676802),Life Care international Hospital,hospital,
+node,4958569729,POINT (73.0154483 33.6769845),Bakeman Bakers & Sweets,,bakery
+node,4958569730,POINT (73.0156061 33.6770706),Noori Foods,fast_food,
+node,4958569733,POINT (73.0157736 33.6773803),Barsa Cash & Carry,,mall
+node,4958569734,POINT (73.0167347 33.6778909),عسکری بینک,bank,
+node,4958569736,POINT (73.0164784 33.6764472),Shahjee Food Corner,fast_food,
+node,4958569738,POINT (73.0173311 33.6771834),Chunga Restaurant,restaurant,
+node,4958569739,POINT (73.0172399 33.6771527),Burn Chilli,restaurant,
+node,4961414254,POINT (72.9939053 33.6926929),The Mount Sinai School,school,
+node,4961414255,POINT (72.9954958 33.6945585),Eleve kinderpark and elementary,school,
+node,4961414257,POINT (72.9993502 33.6949647),Al-Rehman Restaurant,restaurant,
+node,4961414260,POINT (72.9996479 33.6951097),Razzmatazz,cafe,
+node,4961414264,POINT (73.0038184 33.6989016),Smart School System,school,
+node,4961414266,POINT (73.0048462 33.6994321),AMN KIDS,school,
+node,4961414267,POINT (73.0067885 33.7004745),Imperial International School & College,school,
+node,4961414268,POINT (73.0119978 33.6978424),Bank of Khyber,bank,
+node,4961414269,POINT (73.0111572 33.6980249),دبئی اسلامی بینک,bank,
+node,4961414270,POINT (73.0110563 33.697997),ایچ بی ایل پاکستان,bank,
+node,4961414272,POINT (73.0109785 33.6977776),BankIslami,bank,
+node,4961414274,POINT (73.0109527 33.6968332),Cafe Paprika,cafe,
+node,4961414275,POINT (73.0111498 33.6965721),سب وے,fast_food,
+node,4961414276,POINT (73.0110913 33.6966669),Rahat Bakers,,bakery
+node,4961414278,POINT (73.0125634 33.6955112),Bake Well,,bakery
+node,4961414280,POINT (73.0124486 33.6968005),Shaheen Air Agency,,travel_agency
+node,4961414281,POINT (73.0129242 33.6964639),Bata Shoe Store,,shoes
+node,4961414282,POINT (73.0130564 33.6962796),ایم سی بی بینک,bank,
+node,4961414283,POINT (73.0119029 33.6962167),Tony & Guy Hairdresser,,hairdresser
+node,4961414284,POINT (73.0121247 33.6961342),Ideas,,clothes
+node,4961746365,POINT (73.0131538 33.6958982),Levi's,,clothes
+node,4961746366,POINT (73.0136137 33.6955502),Italian Oven,restaurant,
+node,4961746368,POINT (73.0121253 33.6953059),جے ایس بینک,bank,
+node,4961746369,POINT (73.013656 33.6954855),Toosoo Restaurant,restaurant,
+node,4961746372,POINT (73.0139446 33.6949016),Soon Valley Associates,school,
+node,4961746373,POINT (73.0134683 33.6943654),Orient Restaurant,restaurant,
+node,4961746374,POINT (73.0132048 33.6942271),کینٹکی فرائیڈ چکن,restaurant,
+node,4961746375,POINT (73.0136454 33.6940821),The Candy Coach,cafe,
+node,4961746376,POINT (73.0142955 33.6946845),Khaadi,,clothes
+node,4961746377,POINT (73.0145975 33.6942885),Habib Metropolitan Bank,bank,
+node,4961746378,POINT (73.0143587 33.6941975),Incantare Coffee Cafe,cafe,
+node,4961746379,POINT (73.0151834 33.693319),Sufi Restaurant,restaurant,
+node,4961746380,POINT (73.0149678 33.6932216),Peshawar Shinwari,restaurant,
+node,4961746381,POINT (73.0142365 33.6927584),Toyota Auto Workshop,,car_repair
+node,4961746382,POINT (73.0139113 33.6927922),Bank Al-Habib,bank,
+node,4961746383,POINT (73.013738 33.6930409),National Bank - NBP,bank,
+node,4961746385,POINT (73.0141339 33.6930958),میزان بینک,bank,
+node,4961746386,POINT (73.0136756 33.6931297),The Bank of Punjab,bank,
+node,4961746388,POINT (73.0165783 33.6916241),Espresso Express Coffee,,coffee
+node,4961842518,POINT (73.0147817 33.6890605),Alnoor-International Islamabad,school,
+node,4961842520,POINT (73.0142296 33.6878414),School of Learning International,school,
+node,4961843222,POINT (73.0119721 33.6866289),Beaconhouse School System,school,
+node,4961843223,POINT (73.0112525 33.6862838),孙芸旅馆 Restaurant,restaurant,
+node,4961843226,POINT (73.0099191 33.6855768),Kindergarten Branch F- 10/4,school,
+node,4961843227,POINT (73.0064797 33.683811),Step Ahead School,school,
+node,4961843228,POINT (73.0056544 33.6862496),IHS - Hospital for Children,hospital,
+node,4961843231,POINT (72.9989879 33.6870921),Beacon House School System,school,
+node,4961843232,POINT (73.0001204 33.6876899),Headstart Junior School,school,
+node,4963837771,POINT (73.0312601 33.7141361),Islamabad School Of Law,school,
+node,4963837776,POINT (73.0336478 33.7150833),Sadiq's Cafe,cafe,
+node,4963837778,POINT (73.0339955 33.713897),چینی محبت,restaurant,
+node,4963837779,POINT (73.0338979 33.7135192),Lavista Cheese,restaurant,
+node,4963837780,POINT (73.0342055 33.7140229),Huaxiaqing Restaurant,restaurant,
+node,4963837783,POINT (73.032919 33.7111928),Hill House Boarding School,school,
+node,4963837785,POINT (73.0364167 33.7155204),خصوصی گرم برتن,restaurant,
+node,4963837788,POINT (73.0415087 33.7207412),Westminster School & College,school,
+node,4963837791,POINT (73.0378757 33.717214),Chinese Restaurant,restaurant,
+node,4963837792,POINT (73.0384198 33.717716),School Nova (Junior Branch),school,
+node,4963837795,POINT (73.0431634 33.7192009),Daily Meal,restaurant,
+node,4963837796,POINT (73.0441027 33.7185186),Aura Watches,,watches
+node,4963837798,POINT (73.0486339 33.7135207),چوانکسنگ ہوٹل,restaurant,
+node,4963837804,POINT (73.0422937 33.7164566),Super Karachi Burger,fast_food,
+node,4963837805,POINT (73.0423338 33.7166856),Abbasi Restaurant & Naan Shop,restaurant,
+node,4963837807,POINT (73.0450624 33.7131327),نیو اورینٹل سنکیانگ ہوٹل,restaurant,
+node,4963837808,POINT (73.0435638 33.7108488),Hillsdale School Islamabad,school,
+node,4963837809,POINT (73.0438598 33.7106672),Headstart School Boys Branch,school,
+node,4963837811,POINT (73.0338436 33.71129),Alma International,school,
+node,4963837819,POINT (73.03657 33.7054441),Alhamd School Of Islam & Modern Sciences,school,
+node,4963837820,POINT (73.0378758 33.7063751),Kitchen Cuisine,,bakery
+node,4963838222,POINT (73.0367506 33.7055182),Super Nova Academy,school,
+node,4963838223,POINT (73.0356122 33.7039395),Tree House Kindergarden,school,
+node,4963838226,POINT (73.0414484 33.7068272),Roots International Schools,school,
+node,4963838227,POINT (73.0422228 33.7054345),Chinese Restaurant,restaurant,
+node,4963936783,POINT (73.0370161 33.7126202),الائیڈ بینک لمیٹڈ,bank,
+node,4963936784,POINT (73.0375979 33.7129575),OGDCL Medical Centre,hospital,
+node,4963936785,POINT (73.0376848 33.712421),Cafe101,cafe,
+node,4963936786,POINT (73.0372641 33.712267),بینک الفلاح,bank,
+node,4963936789,POINT (73.0377914 33.7119288),Kafe kaam,cafe,
+node,4963936790,POINT (73.0388392 33.7119851),Haleem Ghar,restaurant,
+node,4963936793,POINT (73.0409081 33.709563),Silkbank,bank,
+node,4963936794,POINT (73.0401237 33.7100501),یونائیٹڈ بینک لمیٹڈ,bank,
+node,4963936795,POINT (73.0397006 33.7098472),عسکری بینک,bank,
+node,4963936796,POINT (73.0398691 33.7099355),Habib Metro Bank,bank,
+node,4963936797,POINT (73.0407839 33.7095159),Gourmet Foods,fast_food,
+node,4963936801,POINT (73.0395319 33.7100825),نیشنل بینک آف پاکستان,bank,
+node,4963936804,POINT (73.0389972 33.7105032),Global Books & Stationers,,stationery
+node,4963936805,POINT (73.0400441 33.7104202),Skans School of Accountancy,school,
+node,4963936806,POINT (73.0404564 33.7105166),Burj Bank Limited,bank,
+node,4963936808,POINT (73.0384334 33.7106399),Lahori Tikka & Take Away,restaurant,
+node,4963936809,POINT (73.0385462 33.7105273),Foody Moody,fast_food,
+node,4963936812,POINT (73.0412263 33.7112647),ایچ بی ایل پاکستان,bank,
+node,4963936813,POINT (73.0410308 33.7109253),Lodhi Restaurant,restaurant,
+node,4963936817,POINT (73.0433227 33.7053633),Roots High School,school,
+node,4963977779,POINT (73.0439008 33.7056604),A S A S International School,school,
+node,4963977780,POINT (73.0432228 33.7065037),Aims Education System F-8,school,
+node,4963977781,POINT (73.0444448 33.7059432),SLS Montessori School,school,
+node,4963977785,POINT (73.0503778 33.7090707),Chohan Eye Hospital,hospital,
+node,4963977787,POINT (73.0467995 33.7072021),Al-Huda International School,school,
+node,4963977789,POINT (73.0460025 33.7092133),Social Cafe,cafe,
+node,4963977790,POINT (73.0460692 33.7091354),Mister Naan & Restaurant,restaurant,
+node,4963977791,POINT (73.0460494 33.7088643),Mashallah Restaurant,restaurant,
+node,4963977793,POINT (73.0433933 33.7087382),Tee's Cakery,,bakery
+node,4964054196,POINT (73.0476565 33.7275103),Texas Steak House,restaurant,
+node,4964054202,POINT (73.0369239 33.7241086),Pops Café,cafe,
+node,4964054210,POINT (73.0365747 33.7223831),National Bank,bank,
+node,4964054213,POINT (73.0359143 33.7222006),الائیڈ بینک,bank,
+node,4964054214,POINT (73.0361471 33.7218763),میزان بینک,bank,
+node,4964054215,POINT (73.0367276 33.7217271),بينک الحبيب,bank,
+node,4964054216,POINT (73.0363658 33.7215661),عسکری بینک,bank,
+node,4964168702,POINT (73.0343455 33.7198918),PNS Hafeez - Naval Hospital,hospital,
+node,4964168706,POINT (73.028262 33.7151149),Allied Bank Bahria University Branch,bank,
+node,4964226919,POINT (73.057879 33.7116096),جے ایس بینک,bank,
+node,4964226920,POINT (73.0635591 33.7144555),MEDICSi,hospital,
+node,4964228622,POINT (73.0645195 33.7149876),First Women Bank Ltd. (FWBL),bank,
+node,4964228631,POINT (73.0509371 33.7230739),Hot Bake,,bakery
+node,4964228637,POINT (73.0576451 33.7264413),Char Grill Central - CGC,restaurant,
+node,4964228639,POINT (73.0508982 33.7215553),Yum Chinese & Thai,cafe,
+node,4964228641,POINT (73.0499371 33.7164303),Islamabad Model School For Girls,school,
+node,4964243449,POINT (73.0527266 33.7195064),یونائیٹڈ بینک لمیٹڈ,bank,
+node,4964243450,POINT (73.0525948 33.7194476),Gourmet Bakers,,bakery
+node,4964243451,POINT (73.0527486 33.7190536),بینک الفلاح,bank,
+node,4964243452,POINT (73.0533589 33.7194009),سب وے,fast_food,
+node,4964243453,POINT (73.0537104 33.7195471),Mr Chips,restaurant,
+node,4964243454,POINT (73.0532515 33.7185582),MCB,bank,
+node,4964243457,POINT (73.0546742 33.7194408),Silk Bank,bank,
+node,4964243458,POINT (73.0553382 33.7194022),MJ's Bakery & Coffee House,restaurant,
+node,4964243459,POINT (73.0546168 33.7199399),Muslim Commercial Bank,bank,
+node,4964243460,POINT (73.0555366 33.7202854),مکڈونلڈز,fast_food,
+node,4964243461,POINT (73.0554308 33.7203457),Tayto Burgers,fast_food,
+node,4964243462,POINT (73.0561589 33.7211618),Kabul Restaurant,restaurant,
+node,4964243463,POINT (73.0564489 33.7204975),Cotton & Cotton Islamabad,,clothes
+node,4964243464,POINT (73.0567209 33.7212532),Levis Outlet,,clothes
+node,4964243465,POINT (73.057178 33.7212182),The Diner's Shop,,clothes
+node,4964243466,POINT (73.0570462 33.7215587),Hush Puppies,,shoes
+node,4964257363,POINT (73.0579625 33.7207985),فیصل بینک,bank,
+node,4964257364,POINT (73.0573952 33.7217562),Captain Cook's,restaurant,
+node,4964257365,POINT (73.0579701 33.7217935),Junaid Jamshed,,clothes
+node,4964257366,POINT (73.0578662 33.7216683),Illusions,,electronics
+node,4964257367,POINT (73.0582253 33.7212407),Pakistan Electronics & Music,,music
+node,4964257368,POINT (73.0585814 33.721425),Traditions Leather,,leather
+node,4964257369,POINT (73.0583983 33.7219272),میزان بینک,bank,
+node,4964257370,POINT (73.0585612 33.7216979),Rasheed Sweets,,bakery
+node,4964257371,POINT (73.0582836 33.7220687),One Stop Toys Shop,,toys
+node,4964257372,POINT (73.058805 33.7218302),PlanC,restaurant,
+node,4964257373,POINT (73.0592662 33.7211727),Meat One,,butcher
+node,4964257374,POINT (73.0592852 33.7214809),Tiramisu Restaurant,restaurant,
+node,4964257375,POINT (73.059096 33.7217233),Metro Shoes,,shoes
+node,4964257376,POINT (73.0590536 33.7216164),Labels Islamabad Multi,,clothes
+node,4964257377,POINT (73.0598721 33.7215384),Toast'd Cafe and Bakery,,bakery
+node,4964257378,POINT (73.0600404 33.7233617),اسٹینڈرڈ چارٹرڈ,bank,
+node,4964257379,POINT (73.0596366 33.7229255),Yummy - 36 Restaurant,restaurant,
+node,4964257380,POINT (73.0587728 33.7226433),Habib Bank,bank,
+node,4964257382,POINT (73.0593337 33.722606),Ideas,,clothes
+node,4964257383,POINT (73.059918 33.7218666),Nishat Linen,,clothes
+node,4964257384,POINT (73.0598423 33.7219716),Latelier,,clothes
+node,4964257385,POINT (73.059838 33.7228254),Café Burn out,cafe,
+node,4965273725,POINT (73.0510603 33.7164393),Supernova school,school,
+node,4965273729,POINT (73.0539978 33.7132745),,restaurant,
+node,4965273733,POINT (73.0551622 33.7116171),چینی ہوٹل,restaurant,
+node,4965273734,POINT (73.0548956 33.7150323),Professional Uniforms,,clothes
+node,4965273735,POINT (73.0546434 33.7150945),Farooq Refreshment,fast_food,
+node,4965273737,POINT (73.0548629 33.7147624),Danish Ali Hair Studio and Salon,,hairdresser
+node,4965273738,POINT (73.0569574 33.712486),Khushhali Bank Limited,bank,
+node,4965273742,POINT (73.0568212 33.7164252),Urumqi Muslim Restaurant,restaurant,
+node,4965273743,POINT (73.0595701 33.7138842),Beaconhouse School System,school,
+node,4965273749,POINT (73.0604968 33.7181197),Shaheena's Beauty Salon,,beauty
+node,4965273764,POINT (73.0201208 33.7149284),Lahore Restaurant,restaurant,
+node,4965273766,POINT (73.019298 33.7146967),الائیڈ بینک,bank,
+node,4965273767,POINT (73.0192819 33.7147659),ایم سی بی بینک,bank,
+node,4965289174,POINT (73.0190342 33.7155212),Habib bank,bank,
+node,4965289177,POINT (73.0141177 33.7123231),DSG Mess,cafe,
+node,4965289178,POINT (73.0103706 33.716798),Falcon Shopping Center,,mall
+node,4965289179,POINT (73.0111877 33.7170618),The Lounge,restaurant,
+node,4966256870,POINT (73.0553881 33.709045),ایچ بی ایل پاکستان,bank,
+node,4966256872,POINT (73.0554967 33.7089179),Shawarma stand,fast_food,
+node,4966256873,POINT (73.0563364 33.7094741),Zeitgeist,,clothes
+node,4966256874,POINT (73.0564569 33.7095304),جمیل مٹھائی,,bakery
+node,4966256876,POINT (73.0571601 33.709681),Computer Super Market,,computer
+node,4966256879,POINT (73.0580815 33.7104311),اسٹینڈرڈ چارٹرڈ,bank,
+node,4966256880,POINT (73.0579026 33.7103355),BankIslami,bank,
+node,4966256881,POINT (73.0582647 33.7100275),Beewell Hospital,hospital,
+node,4966256882,POINT (73.0585112 33.7106538),Dragon City Chinese,restaurant,
+node,4966256883,POINT (73.0589857 33.7109066),سمٹ بینک,bank,
+node,4966256884,POINT (73.0593078 33.7110768),Domino's Pizza,restaurant,
+node,4966256885,POINT (73.0594997 33.7109178),Wang Fu,restaurant,
+node,4966256888,POINT (73.0610957 33.7121005),Jahangir Restaurant,restaurant,
+node,4966256889,POINT (73.061267 33.7121982),Red Onion,restaurant,
+node,4966256890,POINT (73.0616155 33.7123687),Soneri Bank Limited,bank,
+node,4966256891,POINT (73.0623767 33.712023),Karachi Restaurant,restaurant,
+node,4966256895,POINT (73.065605 33.7144254),Bank Alfalah Islamic,bank,
+node,4966256897,POINT (73.0663098 33.7147642),Fresco Sweets,,bakery
+node,4966256898,POINT (73.0660506 33.7146589),Habib Metro Bank,bank,
+node,4966256900,POINT (73.0680533 33.7156943),ڈنکن ڈونٹس,fast_food,
+node,4966256901,POINT (73.0683244 33.715561),Tehzeeb Bakers Blue Area,,bakery
+node,4966256902,POINT (73.0685093 33.7153099),Italian Pizza,restaurant,
+node,4966256903,POINT (73.0695106 33.7164503),MCB,bank,
+node,4966256904,POINT (73.069409 33.7164068),عسکری بینک,bank,
+node,4966256905,POINT (73.0702932 33.7168527),بينک الحبيب,bank,
+node,4966256906,POINT (73.0709711 33.7170859),Silk Bank,bank,
+node,4966290317,POINT (73.0566407 33.7076602),Zarai Taraqiati Bank,bank,
+node,4966360744,POINT (73.0668814 33.7072679),Malik Cash& Carry,,supermarket
+node,4966360745,POINT (73.0676033 33.7066071),Hotel Blue Sky,restaurant,
+node,4966360747,POINT (73.0671433 33.7063759),Dar e Arqam School,school,
+node,4966360750,POINT (73.0688853 33.7068844),Oshal Restaurant,restaurant,
+node,4966360756,POINT (73.0673887 33.7056696),Sitara Sweets & Bakers,,bakery
+node,4966360758,POINT (73.0678723 33.704967),Taste and Take,restaurant,
+node,4966360759,POINT (73.0676948 33.7052156),Madina Restaurant,restaurant,
+node,4966360762,POINT (73.0694612 33.7054372),National Savings Bank,bank,
+node,4966360763,POINT (73.069478 33.705164),Food Street,restaurant,
+node,4966360765,POINT (73.0733378 33.7040084),Islamabad Model College For Boys G-7/4,school,
+node,4966360766,POINT (73.0734845 33.7054761),Hungers Hut,restaurant,
+node,4966360767,POINT (73.072011 33.7034937),Hotel Al-Umar & Restaurant,restaurant,
+node,4966360768,POINT (73.07178 33.703386),Lassi Dhaba,restaurant,
+node,4966392700,POINT (73.0710786 33.6991011),عباسی ریستوراں,restaurant,
+node,4966392701,POINT (73.0707742 33.6986146),Capital Cafe,cafe,
+node,4966392702,POINT (73.0708734 33.698561),FUUAST Cafe,cafe,
+node,4966392703,POINT (73.0702055 33.6986436),Baig Autos,,car_repair
+node,4966392704,POINT (73.0695135 33.6982509),Murshid Ji Restaurant,restaurant,
+node,4966399255,POINT (73.0686606 33.6978291),Japan Auto Workshop,,car_repair
+node,4966399256,POINT (73.0661033 33.6974251),The Nation,,newsagent
+node,4967536001,POINT (73.0665299 33.6966297),CityFM 89,,radiotechnics
+node,4967673474,POINT (73.051436 33.6935109),The Educators National Campus G-8,school,
+node,4967673478,POINT (73.0496378 33.6962418),عسکری بینک,bank,
+node,4967673479,POINT (73.0494467 33.6965098),Car Bank,,car
+node,4967673482,POINT (73.0492768 33.6967306),New Bukhara Restaurant,restaurant,
+node,4967673483,POINT (73.0493689 33.6966069),Zubair Motors,,car
+node,4967673484,POINT (73.0497192 33.6972047),Abbasi Restaurant,restaurant,
+node,4967673485,POINT (73.0496272 33.6973048),Fresh Juice Stall,cafe,
+node,4967673487,POINT (73.0498679 33.6973107),United Bank - UBL,bank,
+node,4967673492,POINT (73.0495529 33.6977376),یونائیٹڈ بینک لمیٹڈ,bank,
+node,4967673497,POINT (73.0481392 33.6989125),Lavish Dine,restaurant,
+node,4967673498,POINT (73.0480365 33.6988713),Kabuli Restaurant,restaurant,
+node,4967673501,POINT (73.0495761 33.6993365),Shah G Foods,restaurant,
+node,4967673502,POINT (73.0497318 33.6992011),Bilal Cafe,cafe,
+node,4967695200,POINT (73.0500384 33.6880062),بینک الفلاح,bank,
+node,4967695205,POINT (73.0541399 33.6896327),Raja Resturant,restaurant,
+node,4967695207,POINT (73.054869 33.6907753),میزان بینک,bank,
+node,4967739857,POINT (73.0554333 33.6910889),HBL G-8 Branch,bank,
+node,4967739860,POINT (73.0561163 33.6914272),ایم سی بی بینک,bank,
+node,4967739863,POINT (73.0576695 33.692562),Ali Restaurant,restaurant,
+node,4971666121,POINT (73.0498049 33.6962882),"Askari Bank, G-8 Markaz",bank,
+node,4973269823,POINT (73.1588277 33.6517419),Jinnah Officers Club,cafe,
+node,4973947422,POINT (73.073303 33.6674075),Kandahar restaurant,restaurant,
+node,4975593367,POINT (73.0983038 33.6544119),Muzammil Arcade,,mall
+node,4975607029,POINT (73.0985291 33.6524538),Aamir plaza sohan islamabad,,mall
+node,5020706021,POINT (73.0575666 33.7101662),Haleem Ghar,restaurant,
+node,5030052130,POINT (73.0145947 33.6928455),,,hairdresser
+node,5042023725,POINT (72.9182258 33.6380118),The Knowledge School,school,
+node,5045937521,POINT (73.0682698 33.7155579),Tehzeeb Bakers Main Branch,,bakery
+node,5084818923,POINT (73.0286373 33.6759542),National bank,bank,
+node,5091739723,POINT (73.063908 33.7221706),Amanat Eye hospital,hospital,
+node,5091767321,POINT (73.0635303 33.708841),امیر مارکیٹ,,supermarket
+node,5106177021,POINT (72.9989654 33.6668688),Al-Madina Pan Shop,,convenience
+node,5117530796,POINT (73.1463954 33.5243572),Punjab Cash & Carry,,mall
+node,5126132324,POINT (73.0839693 33.7234538),Veriety tyre,,car_parts
+node,5143249421,POINT (73.063299 33.7240521),Bauuz,cafe,
+node,5152915622,POINT (72.9584212 33.6524304),Riphah International Dental Hospital University,hospital,
+node,5160456324,POINT (73.0371591 33.6468411),al ghazal restaurant,restaurant,
+node,5160456325,POINT (73.0372933 33.6468629),askari bank,bank,
+node,5165252844,POINT (73.0868684 33.73241),Royal Elephant Thai Restaurant,restaurant,
+node,5165252850,POINT (73.0493941 33.70771),مکڈونلڈز,fast_food,
+node,5169208521,POINT (73.0324034 33.6877289),Bank of Punjab,bank,
+node,5169208522,POINT (73.0323056 33.6876715),بينک الحبيب,bank,
+node,5169208721,POINT (73.0323606 33.6877057),سونیری بینک,bank,
+node,5175818922,POINT (72.9876898 33.696885),Honda Margalla,,car_repair
+node,5175855723,POINT (73.0472905 33.6622162),AMX Honda,,car_repair
+node,5176209621,POINT (72.9515798 33.623744),Hotel Stop tyre shop,,tyres
+node,5176266121,POINT (72.9537257 33.6244726),FG School,school,
+node,5177630721,POINT (73.0530254 33.6525713),Soup,,bakery
+node,5203710025,POINT (73.058693 33.7211261),Standard Chartered,bank,
+node,5216159221,POINT (72.9703325 33.6255526),gulshan plaza,,supermarket
+node,5224650328,POINT (73.137725 33.539215),F G Boys School Model Town Humak,school,
+node,5224650329,POINT (73.1389753 33.5394935),FG Girls School Model Town Humak,school,
+node,5224650330,POINT (73.1414315 33.5384446),FG college for Girls,school,
+node,5229521421,POINT (73.0340709 33.6851588),MARHABA POSHISH CENTRE,,car
+node,5248370721,POINT (73.0526362 33.6646845),Software Technology Park 2,,computer
+node,5251807396,POINT (72.9726232 33.6245387),KKT Orthopedic Spine Center,hospital,
+node,5257093122,POINT (72.9513135 33.6236974),New Al Madina Shenwari Tikka & BBQ Jhangi Syedan,restaurant,
+node,5275243024,POINT (73.1710833 33.5348796),Tanoor,restaurant,
+node,5286104521,POINT (73.0599981 33.7231023),Chai O'Clock,cafe,
+node,5300386123,POINT (72.9397221 33.6229205),Gracious Model School Rehman Rown Jhangi syedan,school,
+node,5303360021,POINT (73.0119159 33.6979325),Cafe M,cafe,
+node,5308575521,POINT (73.1638433 33.5372709),,,supermarket
+node,5348222121,POINT (73.0503203 33.6665849),jinnah block,school,
+node,5370010884,POINT (73.0454426 33.7097558),Fatima School,school,
+node,5370834073,POINT (73.0509661 33.7211569),Outfitters.,,clothes
+node,5385423582,POINT (73.0750216 33.6688707),Gourmet Bakery,,bakery
+node,5417949322,POINT (73.0334562 33.6865779),Adnan Tours and Travels,,travel_agency
+node,5439501054,POINT (73.0612173 33.7118352),یونائیٹڈ بینک لمیٹڈ,bank,
+node,5442622222,POINT (73.0132871 33.6957678),بینک الفلاح,bank,
+node,5462692221,POINT (73.0733636 33.7239132),Bangali samosa,fast_food,
+node,5518743357,POINT (72.9999834 33.6696441),Tehzeeb Bakers,,bakery
+node,5531236122,POINT (73.0526834 33.7123089),Pizza Shop & Fried Chicken,restaurant,
+node,5548400421,POINT (73.1968426 33.4816074),Ali Hotel and Restaurant,restaurant,
+node,5572708922,POINT (73.1346056 33.6149097),میزان بینک,bank,
+node,5574946523,POINT (72.9674712 33.6532551),میزان بینک,bank,
+node,5584534721,POINT (73.0543916 33.7191858),Melange,,clothes
+node,5585175223,POINT (72.9676201 33.65306),Bank Al-Habib,bank,
+node,5595279623,POINT (72.9637776 33.6550189),Grocery Store,,supermarket
+node,5595279923,POINT (72.9635085 33.6553964),Barq Grocery Store,,greengrocer
+node,5595279925,POINT (72.9660878 33.652318),جی-13 مركز,,supermarket
+node,5595279927,POINT (72.9971978 33.6685704),Islamabad Diagnostics Center,hospital,
+node,5595281521,POINT (72.9636796 33.6549377),Dry Cleaning and Laundry,,laundry
+node,5595301622,POINT (72.9995931 33.6700654),Dwatson Chemist,,supermarket
+node,5600142821,POINT (73.0485323 33.6444033),The Smart School Systems,school,
+node,5601606422,POINT (73.0326943 33.6909568),Qadeer Motors,,car
+node,5612588848,POINT (73.076849 33.7295742),Alico Museum and Decor Antiques,,antiques
+node,5618735821,POINT (72.9635906 33.6552865),Dry cleaning and Laundry Services,,dry_cleaning
+node,5620766423,POINT (72.958488 33.6536161),,,supermarket
+node,5620794721,POINT (72.953016 33.6513474),Mellow Mart,,supermarket
+node,5640268222,POINT (73.0571996 33.7216471),Maldini Fashion,,clothes
+node,5669954421,POINT (72.9784558 33.645394),Epic Fish and Shinwari,restaurant,
+node,5691668521,POINT (73.1721986 33.5324508),Punjab Cash And Carry,,supermarket
+node,5713610523,POINT (73.0667014 33.7075541),Khurram Electronics,,electronics
+node,5715373324,POINT (72.9757636 33.6452977),مکڈونلڈز,fast_food,
+node,5801832753,POINT (73.2496014 33.5202056),Speed Shoes,,shoes
+node,5805868953,POINT (73.0127517 33.6736864),Buland Market,,supermarket
+node,5840893674,POINT (73.13822 33.5404313),الائیڈ بینک لمیٹڈ,bank,
+node,5850654886,POINT (73.030844 33.6786255),Tasty Bakers & General Store,,bakery
+node,5855831775,POINT (73.1659252 33.5294545),مکڈونلڈز,fast_food,
+node,5968940194,POINT (73.0593617 33.7228003),Akharam Studio,,clothes
+node,5969005288,POINT (73.0581993 33.7223243),Beechtree,,clothes
+node,5972374794,POINT (72.9840829 33.6935151),Cafe garageq,cafe,
+node,6007314386,POINT (73.0139615 33.6932211),حیدر آبادی چٹخارہ,fast_food,
+node,6017874287,POINT (72.9996804 33.6908182),Chattha's,restaurant,
+node,6084406985,POINT (73.0777408 33.7302108),Duranni - stationery drawing,,stationery
+node,6089302185,POINT (73.0558602 33.7089325),khyber plaza,,clothes
+node,6089302585,POINT (73.0572941 33.7097575),MCB Bank Limited,bank,
+node,6143381069,POINT (72.9643974 33.6457559),Meet up Cafe,cafe,
+node,6178499285,POINT (73.0147945 33.6940083),Junaid Jamsheed Clothing J.,,clothes
+node,6178499286,POINT (73.0737903 33.7181347),Pakistan International Airlines,,travel_agency
+node,6178526685,POINT (73.0755159 33.7191069),Abid Hospital,hospital,
+node,6178563985,POINT (72.9644611 33.645785),Dollar Shop,,hobby
+node,6185592086,POINT (72.953203 33.6514412),Store 24,,convenience
+node,6185592186,POINT (72.952877 33.6512573),Mirchi Foods,fast_food,
+node,6185594486,POINT (72.953075 33.650834),"Chicken Meat, Vegetables, Fruits",,convenience
+node,6185594487,POINT (72.9536033 33.6510977),Food Nation,fast_food,
+node,6186141086,POINT (72.9713617 33.6506326),ایچ بی ایل پاکستان,bank,
+node,6186153590,POINT (72.9715403 33.6508812),Royal Biryani House,restaurant,
+node,6186153592,POINT (72.9711417 33.6502398),Hot N Spicy,restaurant,
+node,6186154785,POINT (72.971465 33.6502811),Bin Habib Super Store,,convenience
+node,6186157085,POINT (72.9708979 33.6504572),Awami Resturant,restaurant,
+node,6186157086,POINT (72.9713969 33.6503375),Bakeman,,convenience
+node,6186157089,POINT (72.9628062 33.6552153),Laziza Cafe,cafe,
+node,6186157090,POINT (72.963439 33.6554821),Lahori Naan Center,,convenience
+node,6186163285,POINT (72.9708299 33.6500266),4 Season Foods,restaurant,
+node,6186195486,POINT (72.9633485 33.6454154),Eze Purchase,,convenience
+node,6186195487,POINT (72.9643336 33.6454301),Big Burger,fast_food,
+node,6186195488,POINT (72.9637515 33.6450937),Famous Books and Photos,,books
+node,6186206485,POINT (72.9676815 33.6456162),The Smart School,school,
+node,6186219285,POINT (72.9634937 33.6451985),Barkaat Cash and Carry,,convenience
+node,6186219287,POINT (72.9631557 33.6454426),Rehman Cloth House,,clothes
+node,6186219288,POINT (72.9638392 33.6451024),Al Harmain Naan Center,,convenience
+node,6186225788,POINT (72.9637335 33.645756),Clinics and Diagnostics Hospital,hospital,
+node,6186230985,POINT (72.9640507 33.6452551),Naan Village,restaurant,
+node,6186230986,POINT (72.964018 33.6453578),Biryani Center,restaurant,
+node,6186235885,POINT (72.9642532 33.6455459),Rahat Bakers,,bakery
+node,6186235887,POINT (72.9640661 33.6458882),یونائیٹڈ بینک لمیٹڈ,bank,
+node,6186246785,POINT (72.9637772 33.6452975),Amaan Sajji,fast_food,
+node,6186246787,POINT (72.964251 33.6457075),Bake n Take,,bakery
+node,6186249389,POINT (72.963704 33.6450705),Masala Rasoi Resturant,restaurant,
+node,6186251486,POINT (72.9637177 33.6457074),Sicro Fax Maintenance Electric and Hardware Store,,hardware
+node,6186251487,POINT (72.9636304 33.6450352),Good Books and Stationers,,books
+node,6186252485,POINT (72.9640285 33.6457267),Avon Mart,,supermarket
+node,6186252487,POINT (72.9620534 33.6451706),Excelsior School System,school,
+node,6186254787,POINT (72.9635471 33.6451517),Bismillah Naan Center,restaurant,
+node,6186268085,POINT (72.9642508 33.6453361),Big B Pizza,fast_food,
+node,6188516786,POINT (72.9592377 33.6441541),Capital Super Store,,convenience
+node,6188609987,POINT (72.9590873 33.6441029),Baiga Paints and Hardware Store,,hardware
+node,6189959885,POINT (72.9525973 33.6427219),Bismillah Fair Price Shop,,convenience
+node,6189961985,POINT (72.952383 33.6429282),7 Day Mart,,convenience
+node,6189962185,POINT (72.9520255 33.6423772),Al Madina Cash and Carry,,convenience
+node,6191969885,POINT (72.951884 33.6425863),الائیڈ بینک,bank,
+node,6192162686,POINT (72.9549178 33.6428184),The Message Schools of Quality Learning,school,
+node,6192204286,POINT (72.9516062 33.6441523),Ravi Gas,,convenience
+node,6192213686,POINT (72.9525828 33.6435019),Noor’s Collection,,clothes
+node,6192213786,POINT (72.9534953 33.6418487),Babu Sons Supermarket,,supermarket
+node,6192223285,POINT (72.9524348 33.6426068),Pearl Arcade,,supermarket
+node,6193011685,POINT (73.0080422 33.6678868),Lala Ayub Khokha,restaurant,
+node,6193011785,POINT (73.00701 33.6683407),Haseeb Hotel,restaurant,
+node,6193228887,POINT (73.0003394 33.678356),Dastarkhawan Fesabil Allah,restaurant,
+node,6193229685,POINT (73.000117 33.6687303),Galaxy Arcade,,convenience
+node,6193448085,POINT (72.9999623 33.6689128),Karachi Eman Biryani,restaurant,
+node,6195714186,POINT (72.9995231 33.6701254),Multiplyrz (Group),,convenience
+node,6195714187,POINT (72.9970193 33.6683774),Dollar Variety Store,,variety_store
+node,6195714188,POINT (72.9967649 33.6682465),Silver Bistro,restaurant,
+node,6195722586,POINT (72.9997472 33.669703),Geero’s Salon & Spa,,hairdresser
+node,6195722588,POINT (72.9988429 33.6700612),Mansoor Restaurant,restaurant,
+node,6195722589,POINT (72.9990499 33.6694443),الائیڈ بینک لمیٹڈ,bank,
+node,6195722591,POINT (72.9982891 33.669129),Sardar Arcade,,convenience
+node,6195722592,POINT (72.9976834 33.6689049),Zakriya General Store,,convenience
+node,6195722593,POINT (72.9977135 33.6687748),Eves Garments,,clothes
+node,6195722594,POINT (72.9973694 33.6684895),Crispy Broast,fast_food,
+node,6195722595,POINT (72.9969936 33.6682892),Pizza Inbox Islamabad,fast_food,
+node,6195722597,POINT (72.9970792 33.6679343),Valentino Fashion,,clothes
+node,6195722598,POINT (72.9971605 33.667995),Technology Village Al Anayat Mall,,convenience
+node,6195722599,POINT (72.9972464 33.6680461),Bannu Gull,restaurant,
+node,6195722601,POINT (72.9979106 33.6671348),Bismillah Shinwari Restaurant & BBQ,restaurant,
+node,6195722602,POINT (72.99912 33.6681662),Cheviot Leather,,convenience
+node,6195722605,POINT (72.999835 33.6685374),Aesthetic Pk,,cosmetics
+node,6195722608,POINT (72.9957318 33.6673421),Raja Tyre Shop,,tyres
+node,6195722609,POINT (72.9914267 33.6721457),Adnan Market,,supermarket
+node,6195722610,POINT (72.9914816 33.6720282),Bakeman Bakers,,convenience
+node,6195722611,POINT (72.9915913 33.6720846),Ali Hamza Al Arooj Sanitary Store,,department_store
+node,6195722612,POINT (72.9925786 33.6711619),Heba’s Boutique And Saloon,,hairdresser
+node,6195722613,POINT (72.9908893 33.6735858),Al Huda International School,school,
+node,6195722614,POINT (72.9905195 33.6707971),Khan General Store,,convenience
+node,6195722615,POINT (72.991475 33.6693422),Noor ul Amin Mini Store,,convenience
+node,6195731585,POINT (72.9998379 33.6697666),Crunchies Fast Food,fast_food,
+node,6195731586,POINT (72.9991565 33.669537),Super Travels G11 Markaz,,travel_agency
+node,6195731587,POINT (72.9969272 33.6684042),Poshak Mehal,,clothes
+node,6195731588,POINT (72.9971454 33.6678483),Grace 3 Garments,,clothes
+node,6195731589,POINT (72.9911586 33.6719564),Punjab Milk Corner,,convenience
+node,6195731590,POINT (72.9912077 33.6718557),Shah G Naan Centre,,convenience
+node,6195731592,POINT (72.9915358 33.6705235),Tyre Shop,,tyres
+node,6195731786,POINT (72.9983991 33.669215),Karachi Company Whole Sale Store,,convenience
+node,6195731787,POINT (72.998271 33.6689651),Aziz Hardware,,hardware
+node,6195731789,POINT (72.9977943 33.6689635),Hot n Spicy Chinese Cuisine,restaurant,
+node,6195731790,POINT (72.9976827 33.6686566),Sure For Pure (Milk Shop),,convenience
+node,6195731791,POINT (72.9974218 33.6687205),Decent Printing Center,,copyshop
+node,6195731792,POINT (72.9970816 33.6681045),Faysal Bank Limited,bank,
+node,6195731793,POINT (72.9974215 33.667498),Zeeshan,restaurant,
+node,6195731794,POINT (72.9976287 33.6675024),K & N’s Chicken Store,,convenience
+node,6195731795,POINT (72.9979352 33.6675159),Autozone International,,car
+node,6195731796,POINT (72.9980387 33.6679811),Eat n Shake,restaurant,
+node,6195734885,POINT (72.9992952 33.6685145),Meat And Cuts,,convenience
+node,6195734886,POINT (72.9992206 33.6691182),Merchants Automobile,,car
+node,6195854786,POINT (73.0150979 33.6738514),Hakka Bakka Chinese Takeaway,restaurant,
+node,6195866586,POINT (73.0160108 33.6763979),Hassan Cloth House,,clothes
+node,6195866687,POINT (73.017076 33.6765444),Rang Mahal,restaurant,
+node,6195866786,POINT (73.0141906 33.6759226),Sialkot Dupatta Matching Center,,clothes
+node,6195866986,POINT (73.0140295 33.6755901),"Choudhary Electric, Hardware, Sanitary & Cooling Center",,hardware
+node,6195867085,POINT (73.0160172 33.6756531),Shah Ji,restaurant,
+node,6195867285,POINT (73.0112652 33.6692891),Capital Delights,restaurant,
+node,6195867286,POINT (73.0123233 33.6699164),Zaika Des Des Ka,restaurant,
+node,6195880885,POINT (73.0140455 33.675314),Al-Inaab Lebenese Kitchen,restaurant,
+node,6195881185,POINT (73.0100219 33.6815494),Chinese Restaurant,restaurant,
+node,6198997588,POINT (73.0321963 33.6875067),بینک الفلاح,bank,
+node,6199002485,POINT (73.0344312 33.6956165),Al-Fateh Market,,supermarket
+node,6199002486,POINT (73.0300808 33.6920704),Khan Chips & Burgiro,fast_food,
+node,6199002487,POINT (73.0298513 33.6925942),Satti Traders,,convenience
+node,6199002488,POINT (73.0311113 33.6890974),Javed Sweet & Bakers,,bakery
+node,6199003185,POINT (73.0306639 33.69011),Outfitters Factory Outlet,,clothes
+node,6199003186,POINT (73.0323262 33.6888763),Servis Shoes,,shoes
+node,6199003485,POINT (73.0313586 33.6892466),Hush Puppies,,shoes
+node,6199004085,POINT (73.0323677 33.687253),Foody Moody,restaurant,
+node,6199004291,POINT (73.0201817 33.6735426),Yamaha Capital Motors,,supermarket
+node,6199004585,POINT (73.034856 33.6880694),Khyber 2D Car Service,,car_repair
+node,6199004586,POINT (73.034616 33.6872767),"Simran’s Shopping Mall, Beauty Saloon & Fitness Centre",,cosmetics
+node,6199004587,POINT (73.0266381 33.6762955),Honda Service Center (For Motorcycles Only),,car_repair
+node,6199004685,POINT (73.034721 33.6867707),Al-Bari Traders,,convenience
+node,6199004686,POINT (73.0333924 33.6794571),Ali Hospital,hospital,
+node,6199023287,POINT (73.0410235 33.6878659),Bua,cafe,
+node,6199028685,POINT (73.0385995 33.6924528),Ali Stationer,,stationery
+node,6199028985,POINT (73.0382971 33.6920998),Awami General Store,,convenience
+node,6199029185,POINT (73.0383822 33.6926222),Abdul Shakoor Afghani Burger,restaurant,
+node,6199040486,POINT (73.0429663 33.6862891),Okara Dairy,restaurant,
+node,6199048485,POINT (73.0427001 33.6862931),Original Afghani Burger,restaurant,
+node,6199121985,POINT (73.0424938 33.6863858),Delight Afghani Burger,restaurant,
+node,6199121986,POINT (73.0442858 33.685858),Lahore,restaurant,
+node,6199122585,POINT (73.0440663 33.6855114),Capital Books,,books
+node,6200758686,POINT (73.043996 33.6852419),Khyber Shinwari,restaurant,
+node,6201446085,POINT (73.0448128 33.6856972),Sufi,restaurant,
+node,6201446086,POINT (73.04252 33.6849182),Karachi Student Biryani,restaurant,
+node,6201446185,POINT (73.0444239 33.685661),Bata Shoes,,shoes
+node,6201446385,POINT (73.0454083 33.6859752),Bhallu Burger,restaurant,
+node,6201446586,POINT (73.0419916 33.684737),Purana Khyber Shinwari Restaurant,restaurant,
+node,6201458385,POINT (73.0000709 33.6774766),Head to Toe Beauty Parlour,,cosmetics
+node,6201807185,POINT (73.0441863 33.6998023),Hamza Stationers,,stationery
+node,6201981585,POINT (73.0439376 33.6997114),Tipu Market,,convenience
+node,6201981586,POINT (73.0440365 33.6995884),Afridi General Store,,convenience
+node,6201981587,POINT (73.0438183 33.6997552),Islamabad Shopping Centre,,convenience
+node,6201982086,POINT (73.058437 33.698096),Abbasi General Store,,convenience
+node,6201982985,POINT (73.0582557 33.6981743),Pervaiz Market,,convenience
+node,6202373285,POINT (73.0584137 33.6982336),Khurram Cars,,car
+node,6202373585,POINT (73.0582082 33.6988293),Haq Nawaz Traders,,convenience
+node,6203554988,POINT (73.0567626 33.6970556),Usman Sadiq Shaheed School for Boys,school,
+node,6203579986,POINT (73.0297317 33.6922174),Shani Chips,restaurant,
+node,6203580087,POINT (73.0160979 33.6860329),Sheraz Market,,convenience
+node,6203580088,POINT (73.016054 33.6861457),Siddiq Sweets & Bakers,,confectionery
+node,6203580585,POINT (73.023841 33.6900081),Careem Dhaba,restaurant,
+node,6203763185,POINT (73.0266237 33.6907379),Multani Market,,convenience
+node,6204102787,POINT (73.0271959 33.6901404),Second Hand Clothing Center,,clothes
+node,6204102789,POINT (73.02663 33.6759839),Asif Nadeem Car AC and Auto,,car_repair
+node,6204110291,POINT (73.021186 33.6734334),Daewoo Car Repairing Point,,car_repair
+node,6204110292,POINT (73.0206494 33.6731888),Asim Autos,,car_parts
+node,6204110294,POINT (73.0171579 33.6712269),Enercon Car Tuning,,car_repair
+node,6204127285,POINT (73.013204 33.682039),Rab Nawaz Khoka,restaurant,
+node,6204127286,POINT (73.0101496 33.6804467),Ribbani Market,,convenience
+node,6204580985,POINT (73.0144669 33.6701546),Shinwari,restaurant,
+node,6208100585,POINT (73.0125601 33.6736965),Pak Karyana Store,,convenience
+node,6208198785,POINT (73.0136119 33.6759617),Tony Tone General Store,,convenience
+node,6208198787,POINT (73.0142263 33.6750083),Saeed Meat Palace,,convenience
+node,6208198788,POINT (73.014831 33.6742127),Foothpath Ki Baat,cafe,
+node,6208198789,POINT (73.0168759 33.6710264),Karachi Naseeb Biryani Catering Centre,restaurant,
+node,6208198885,POINT (73.0142109 33.676304),Ahmed Fabrics,,clothes
+node,6208198889,POINT (73.0139459 33.6753692),Zahid’s Barbecue Fish & Chicken,restaurant,
+node,6208198891,POINT (73.0168197 33.6708422),City Wheels Tyre and Alloy Rims,,tyres
+node,6208198892,POINT (73.0141832 33.6757355),Diamond Optical,,optician
+node,6208198893,POINT (73.0152609 33.675311),Supportive Digital Solutions,,electronics
+node,6208198894,POINT (73.015383 33.675137),Darraywal Afridi,restaurant,
+node,6208198895,POINT (73.0182952 33.6716642),Car Fest,,car_repair
+node,6208199986,POINT (73.0173187 33.6713431),Kitai Auto Parts,,convenience
+node,6208200085,POINT (73.0160136 33.6725524),Asif Tyre Shop,,tyres
+node,6208200086,POINT (73.0147558 33.675732),New Madina,restaurant,
+node,6208200088,POINT (73.0181618 33.6718889),Shakeel Tyres,,tyres
+node,6208206396,POINT (73.0194671 33.6728109),Shahid Car Mechanic,,car_repair
+node,6208206397,POINT (73.0152813 33.6770074),The Broast Town,fast_food,
+node,6208206588,POINT (73.0156937 33.6764623),Latif Health Centre,hospital,
+node,6208206589,POINT (73.0155407 33.6761704),Pakistan Tours & Transport,,travel_agency
+node,6208206688,POINT (73.0161613 33.6760968),Honda Centre,,car_repair
+node,6208220786,POINT (73.0221016 33.6727405),Waqar Light House,,car_parts
+node,6208220788,POINT (73.0249872 33.6775572),ISB Fast Food,fast_food,
+node,6208232485,POINT (73.0223584 33.6805786),Aslam Bakers,,bakery
+node,6208232685,POINT (73.022599 33.6804322),Umer Market,,convenience
+node,6210695986,POINT (73.0010436 33.6771657),Judictional Store,,convenience
+node,6210695987,POINT (72.9997077 33.6770264),Nasir’s Dhabba,restaurant,
+node,6216031002,POINT (73.0502338 33.6891866),TestBank,bank,
+node,6216298486,POINT (72.991243 33.6718174),Tolo Travel and Tours,,travel_agency
+node,6216298585,POINT (73.0003344 33.677901),Shb Bilal Office M Saghir,,electronics
+node,6216299085,POINT (72.9966251 33.6732468),All Mart,,convenience
+node,6216299185,POINT (72.9964387 33.6733695),"Jolly Buns (Fast Food, Pizza Parlour & Cafe)",cafe,
+node,6218562785,POINT (72.9957715 33.6737545),Madni General Store,,convenience
+node,6218562885,POINT (73.000909 33.6757948),Madina Market,,convenience
+node,6219126288,POINT (72.9999629 33.6738297),Cycle Motorcycle Tyre Shop,,tyres
+node,6219126290,POINT (72.9997444 33.669586),Charlie Shoes,,shoes
+node,6219126292,POINT (72.9991606 33.6684058),Dera Khyber,restaurant,
+node,6219136090,POINT (72.9996672 33.669632),Noomi Tuck Shop,cafe,
+node,6219159985,POINT (73.0040255 33.6731737),Capital Institute of Health Sciences (CIHS),hospital,
+node,6219159987,POINT (72.9995464 33.668427),Amigos Cuisine,restaurant,
+node,6219159988,POINT (72.9991892 33.6684674),New Quetta Shah G Cafe,cafe,
+node,6219165985,POINT (73.0061897 33.6670972),Al Qaim Cabin,,convenience
+node,6219183586,POINT (72.9963475 33.663423),بسم اللہ سجی ٹیک وے,fast_food,
+node,6219183587,POINT (72.9950506 33.6645796),اسٹریٹ 14 پیزا,fast_food,
+node,6219189985,POINT (72.9979379 33.6645172),Bismillah Naan Centre,,convenience
+node,6219190085,POINT (72.9980905 33.6618316),ویسٹ اینڈ پلازہ,,supermarket
+node,6219191986,POINT (72.9927464 33.6615633),ماؤنٹ اسٹارٹ اکیڈمی,school,
+node,6220669985,POINT (72.9974786 33.6685805),AIMMS,school,
+node,6233675774,POINT (72.9879082 33.6833895),Foodball,restaurant,
+node,6264414186,POINT (72.9816587 33.6965911),Al Fawz Academy,school,
+node,6265094288,POINT (73.052962 33.6990693),نوری ہسپتال اسلام آباد,hospital,
+node,6278647723,POINT (72.9995939 33.6487138),Entrance Cafe,cafe,
+node,6278729085,POINT (72.9880189 33.6393961),Jango,cafe,
+node,6283730340,POINT (73.0154946 33.6932767),Sliders,restaurant,
+node,6336270456,POINT (73.0838514 33.7233985),Japan Tyres,,car_parts
+node,6382122932,POINT (73.0527614 33.657251),"ASIF Lahori, Vehicles Denting and Painting Shop",,car_repair
+node,6407540688,POINT (73.0404829 33.6536018),M.H. Business Machines,,electronics
+node,6413779785,POINT (73.026152 33.6761105),Honda Service Centre,,bicycle
+node,6413779985,POINT (73.0324577 33.6907177),Honda Capital,,bicycle
+node,6423582986,POINT (73.0565784 33.6916446),Motor Clean,,car_repair
+node,6424068203,POINT (73.0091472 33.7005872),Café Amazon,cafe,
+node,6424068204,POINT (73.0091982 33.7006229),FAISAL FLAT,,bed
+node,6432256681,POINT (72.9638728 33.6456706),Clinic and Dignostic Centre,hospital,
+node,6432262616,POINT (72.9642196 33.6457252),7Th Heaven Bakery,,bakery
+node,6432357581,POINT (72.959236 33.6442429),بینک الفلاح,bank,
+node,6432360541,POINT (72.9586392 33.6443994),Naan Hub,cafe,
+node,6432366023,POINT (72.9592802 33.644611),Al Jannat Mart,,yes
+node,6432367834,POINT (72.958816 33.644519),The Road House cafe,cafe,
+node,6432384945,POINT (72.9586502 33.6440911),Rehman Electric store,,electronics
+node,6432385139,POINT (72.9591531 33.6442061),Capital super store,,supermarket
+node,6432386030,POINT (72.9592692 33.6445282),Rana Milk Shop,,dairy
+node,6432387308,POINT (72.9585784 33.644404),whole sale cloths shop,,clothes
+node,6432414565,POINT (72.963639 33.6456582),Hassan Autos,,car_repair
+node,6432414566,POINT (72.9636775 33.6455904),Book Shop,,stationery
+node,6432414574,POINT (72.9642892 33.6456734),Quetta Cafe,cafe,
+node,6432414575,POINT (72.9643158 33.6457148),Meet up Cafe,cafe,
+node,6432414576,POINT (72.9643385 33.6456959),One Doller,,art
+node,6432414578,POINT (72.9640738 33.6453843),Ittalian Pizza,fast_food,
+node,6432414579,POINT (72.9641192 33.6452961),Anwer Capital Hospital,hospital,
+node,6432426372,POINT (72.9634516 33.6452758),Hardware shop,,hardware
+node,6432426373,POINT (72.9634197 33.6453182),Rehman Cloths Centre,,clothes
+node,6432426374,POINT (72.9635657 33.6451319),Bakeman,,bakery
+node,6432426377,POINT (72.963673 33.6452017),Hair Express,,hairdresser
+node,6432426378,POINT (72.9637078 33.6455602),Hair Saloon,,beauty
+node,6432426379,POINT (72.9639604 33.6453171),Hair Cuttery,,hairdresser
+node,6432426381,POINT (72.9637638 33.6451975),Khaber store,,variety_store
+node,6432452491,POINT (72.9634646 33.6454769),الائیڈ بینک لمیٹڈ,bank,
+node,6432452492,POINT (72.963672 33.6456775),Hassan Autos,,car_repair
+node,6432452502,POINT (72.9635811 33.6451071),Barkat saving Centre,,supermarket
+node,6432452505,POINT (72.9639369 33.6453172),Hardware shop,,doityourself
+node,6432452506,POINT (72.9636488 33.6451973),Hair Cuttery,,hairdresser
+node,6432452508,POINT (72.9640526 33.6457549),HBL Bank,bank,
+node,6434370029,POINT (73.0236394 33.6765397),CDA Khoka,cafe,
+node,6438114285,POINT (73.1154099 33.7373012),Ispalal School,school,
+node,6440237885,POINT (72.9327124 33.7180704),Shah Allah Ditta School,school,
+node,6445674896,POINT (73.0491446 33.7376626),The Monkey Spot,cafe,
+node,6446723015,POINT (73.0742258 33.7201105),Rani Emaan's,,clothes
+node,6507202529,POINT (73.1662632 33.5301013),Burning Brownie,cafe,
+node,6521223343,POINT (73.0333152 33.7149444),Surgical Centre Islamabad,hospital,
+node,6534004688,POINT (73.0712725 33.7269957),Natasha Saloon,,beauty
+node,6567759885,POINT (73.0386403 33.6923737),FAM Maintenance,,electronics
+node,6576079405,POINT (73.0805075 33.7218306),,restaurant,
+node,6577068257,POINT (73.0572707 33.7205459),Burgers etc.,restaurant,
+node,6609640185,POINT (73.0341388 33.6885072),,restaurant,
+node,6609646686,POINT (73.031071 33.6903706),,,motorcycle
+node,6609646687,POINT (73.0317387 33.6901604),,restaurant,
+node,6609646688,POINT (73.0316846 33.6902054),Capital Cycle & Variety Center,,bicycle
+node,6609646785,POINT (73.0311196 33.6904822),,,motorcycle
+node,6609648485,POINT (73.0312772 33.6899333),Levi’s Outlet Store,,clothes
+node,6609654185,POINT (73.0317957 33.6900535),Capital Cycle and Variety Center,,bicycle
+node,6609660785,POINT (73.0317963 33.6899817),,,butcher
+node,6609691085,POINT (73.0316363 33.6902482),Saffron Foodies,fast_food,
+node,6609825686,POINT (73.0350611 33.6880484),Tyre Shop,,car_parts
+node,6609825687,POINT (73.0335816 33.6895517),Oil Change,,car_repair
+node,6609839286,POINT (73.0337963 33.6896479),Tyre Shop,,tyres
+node,6618031385,POINT (72.8260867 33.6940288),Cresent,,beverages
+node,6634656286,POINT (73.0385078 33.6923478),Bilal Market,,supermarket
+node,6658522207,POINT (73.1431086 33.5409128),Bank Islami Humak Branch,bank,
+node,6658522208,POINT (73.1432145 33.5409165),MCB Bank Humak Branch,bank,
+node,6658591445,POINT (73.1553234 33.5418933),Zayneb Hospital,hospital,
+node,6658591446,POINT (73.1495837 33.5414502),Aziz Hospital,hospital,
+node,6681783786,POINT (73.1298432 33.6376753),Al Muslim General Store,,supermarket
+node,6732305586,POINT (73.0312273 33.6533077),Chinese Resturent,restaurant,
+node,6739055185,POINT (72.9865641 33.6839944),Ha Pi Restaurant,restaurant,
+node,6793829759,POINT (73.1727522 33.5391182),D. Grocers,,supermarket
+node,6859793872,POINT (73.0661943 33.7141755),Mobile Store 1,,mobile_phone
+node,6859793873,POINT (73.0662665 33.7142007),Mobile Store 2,,mobile_phone
+node,6859793874,POINT (73.0663259 33.7142341),Mobile Store 3,,mobile_phone
+node,6879555989,POINT (73.0599752 33.7219883),JL Janie Liang Hair & Makeup Studio,,hairdresser
+node,6956637485,POINT (72.939194 33.6297413),Shinwari Hotel,restaurant,
+node,6966220885,POINT (73.0441985 33.6543845),Auto Club,,car_repair
+node,6969812086,POINT (73.0134589 33.6955543),OLD Books N Books 2,bank,
+node,6969816885,POINT (73.0135733 33.6943676),OLD Book Heaven,bank,
+node,6989778186,POINT (73.1317859 33.5310136),Candor Education System,school,
+node,7086365786,POINT (73.0862297 33.7153006),Melody Market,fast_food,
+node,7129416885,POINT (73.0403893 33.6880505),ISLAMABAD MODEL SCHOOL FOR GIRL (VI-X),school,
+node,7134791988,POINT (73.0115352 33.6962887),Digital,,stationery
+node,7169639015,POINT (73.0659053 33.7145027),Route66 Travel and Tours,,travel_agency
+node,7184030810,POINT (73.154559 33.5991),Asian Pulao,restaurant,
+node,7304467185,POINT (73.0792599 33.7316395),Spinneys,,department_store
+node,7363365785,POINT (72.9522179 33.6425531),Madina Cash and Carry,,bakery
+node,7373314642,POINT (73.0144649 33.6747394),Quetta Cafe,,tea
+node,7387070589,POINT (73.1334171 33.5644918),Hybrid DOC Hybrid Car Solutions,,car_repair
+node,7392301316,POINT (73.1354779 33.5292799),Motorol Oil Change,,car_repair
+node,7417878942,POINT (73.1726511 33.6448002),HBS General Hospital,hospital,
+node,7500052685,POINT (72.9846104 33.6346023),Electrobes,,electronics
+node,7687762485,POINT (73.196575 33.4880725),نیشنل بینک آف پاکستان,bank,
+node,7733585285,POINT (73.0600708 33.695787),Sattar restuarent T&T Market ISB.,cafe,
+node,7761689786,POINT (73.1135193 33.7570879),Small shops with drinks & snacks,,confectionery
+node,7843991991,POINT (73.0732402 33.6670189),Am Pm Cafe,cafe,
+node,7899134663,POINT (73.0754328 33.6684024),SaveMart,,supermarket
+node,7899134664,POINT (73.0760074 33.6689582),Gulshan Roll In And Fried Chicken,restaurant,
+node,7899134666,POINT (73.0738439 33.666679),Standard Chartered,bank,
+node,7899134667,POINT (73.0754733 33.6685475),Miniso,,variety_store
+node,7899134669,POINT (73.0754426 33.6684365),"China Town, Jade Cafe",restaurant,
+node,7899134670,POINT (73.0762467 33.66891),Quetta Tea 24/7,cafe,
+node,7899134672,POINT (73.0758526 33.6674652),الائیڈ بینک,bank,
+node,7899134673,POINT (73.0759547 33.6687346),Healthy Refreshment Center,restaurant,
+node,7899134674,POINT (73.0754593 33.6684921),OPTP i-8,restaurant,
+node,7985717916,POINT (73.1672859 33.6073239),,,mall
+node,8022686086,POINT (72.9107062 33.6406166),Global Resources Office,,stationery
+node,8037979606,POINT (73.0763698 33.7296326),The Pizza Guys,restaurant,
+node,8041711102,POINT (73.1457992 33.5716143),Chiki Panda,restaurant,
+node,8103745306,POINT (73.0174517 33.6352179),Cash One (PHA Flats I-11),bank,
+node,8133625617,POINT (73.0565618 33.7210061),ABELIA Beauty Saloon,,beauty
+node,8184092980,POINT (73.0417421 33.6537386),Wajid Sons Car Battery Experts,,car_parts
+node,8186743705,POINT (73.1816053 33.6470112),Al-Madina Cosmetics & Gift Shop,,cosmetics
+node,8242357441,POINT (73.1885658 33.7455609),Punjab Cash & Carry,,wholesale
+node,8242370804,POINT (73.1994138 33.7436518),,,yes
+node,8242370805,POINT (73.1994558 33.7435792),,,butcher
+node,8242370806,POINT (73.1994052 33.743562),,,greengrocer
+node,8247972925,POINT (73.1960871 33.73945),Ahmad's The Barber Shop,,hairdresser
+node,8247995489,POINT (73.1750488 33.7377875),CSD,,supermarket
+node,8266527898,POINT (73.0516439 33.6965389),Ark Builders,restaurant,
+node,8319448129,POINT (73.2119138 33.5496845),Cafeteria PCS,cafe,
+node,8326649745,POINT (73.1513334 33.5648093),ElectricStorePk Electric Store,,supermarket
+node,8408647827,POINT (73.073886 33.7199127),Shery's Gluten Free,,bakery
+node,8433944517,POINT (73.1909451 33.7419566),Mumtaz general store,,supermarket
+node,8447857162,POINT (73.0577005 33.7215987),Heavy MuaMLaT,cafe,
+node,8539749217,POINT (73.0393894 33.7108709),Butt Kerhai  Tikka F-8 Markaz,restaurant,
+node,8633279943,POINT (73.1967757 33.5009178),Abdullah Electric Store,,lighting
+node,8729256166,POINT (73.0593075 33.7229203),Five Diner,restaurant,
+node,8755588949,POINT (73.0504309 33.6981933),Aero Cycling,,bicycle
+node,8755588950,POINT (73.0635158 33.7217539),,,furniture
+node,8841662156,POINT (73.0491988 33.6976835),Max Health Hospital,hospital,
+node,8873463318,POINT (73.0696834 33.7159367),PC House BlueArea,,computer
+node,8922572672,POINT (73.1368526 33.5673395),Variety Books,,books
+node,8922572673,POINT (73.1364705 33.5673087),Variety Toys,,toys
+node,8931334650,POINT (73.1532638 33.5298179),Pizza Inn,fast_food,
+node,8931334651,POINT (73.1663261 33.5299923),wild wings,restaurant,
+node,8931334652,POINT (73.1657199 33.5296972),Pizza Hut,restaurant,
+node,8931334653,POINT (73.1658755 33.530122),Costa Rica,restaurant,
+node,8951362649,POINT (73.1590681 33.5595954),The Savvy School,school,
+node,8951587564,POINT (73.1409012 33.5691623),Jalal Electronics,,electronics
+node,8956156107,POINT (73.0758828 33.7293842),Naan Dhaaba F6,cafe,
+node,8971548114,POINT (73.0589141 33.7211881),Fredrigo's Pizza,restaurant,
+node,9037379862,POINT (73.0766622 33.7301309),Cafe Sierra,cafe,
+node,9080282414,POINT (72.9698722 33.6245479),Family Cash n Carry,,supermarket
+node,9080317362,POINT (72.9699514 33.6243846),Al-Madina Restaurant,restaurant,
+node,9080317363,POINT (72.9705693 33.6231959),MashAllah Restaurant,restaurant,
+node,9080514291,POINT (72.972482 33.6246414),Chick Fillet,fast_food,
+node,9081212214,POINT (73.0842527 33.722192),G7 Sitara Market,,supermarket
+node,9239045272,POINT (73.0486642 33.6983265),Habibmetro Bank,bank,
+node,9295530426,POINT (72.9926537 33.639997),nust gogay chany,,supermarket
+node,9295530985,POINT (72.9919262 33.642972),daulat bank,bank,
+node,9342196657,POINT (73.1448246 33.6195743),Asfand Khan Shaheed Model School,school,
+node,9500540508,POINT (72.9732615 33.6995802),کینٹکی فرائیڈ چکن,fast_food,
+node,9501618144,POINT (72.944307 33.6917797),شفاء ہیلتھ کئیر ہسپتال,hospital,
+node,9570368345,POINT (73.0385248 33.6476668),KFC,fast_food,
+node,9584609509,POINT (72.9737272 33.7001939),Colorado Kitchen,restaurant,
+node,9590424727,POINT (73.1578097 33.5210681),Kef Diamonds,,jewelry
+node,9603693204,POINT (73.0385662 33.6476126),Punjab Cash and Carry,,supermarket
+node,9603697237,POINT (73.036525 33.6466369),Dwatson,,medical_supply
+node,9611100824,POINT (72.9641767 33.6459469),Dwatson Chemist,,chemist
+node,9689869970,POINT (73.183309 33.7419934),Jazz mobile shop,,mobile_phone
+node,9791957771,POINT (73.1407006 33.6725215),شہزاد ٹاؤن مارکیٹ,,supermarket
+node,9931387018,POINT (72.9884723 33.6833719),,fast_food,
+node,9931387019,POINT (72.9884453 33.683234),,,bakery
+node,9931387020,POINT (72.9785022 33.6908386),,cafe,
+node,9931387022,POINT (73.0467021 33.6823224),,,greengrocer
+node,9931387023,POINT (73.0442031 33.6807094),,,variety_store
+node,9931387024,POINT (73.0437882 33.6807363),,,variety_store
+node,9931387025,POINT (73.0440301 33.6808487),,,clothes
+node,9931400418,POINT (72.9786163 33.6906678),,,convenience
+node,9931400420,POINT (73.045068 33.681402),,,supermarket
+node,9931400421,POINT (73.0446388 33.6819402),,,sports
+node,9931400422,POINT (73.0458577 33.6824886),,,shoes
+node,9931404917,POINT (72.9786698 33.6905958),,,hairdresser
+node,9931404918,POINT (72.9785502 33.6907594),,,supermarket
+node,9931405118,POINT (73.0143785 33.6938735),,fast_food,
+node,9931405119,POINT (73.0398397 33.6834405),,,car_repair
+node,9931406117,POINT (73.046919 33.6821164),,,shoes
+node,9931406217,POINT (73.0462235 33.6816246),,fast_food,
+node,9931406218,POINT (73.045486 33.681213),,,variety_store
+node,9931407617,POINT (73.0452614 33.6811818),,,variety_store
+node,9931407618,POINT (73.0434622 33.6811677),,,variety_store
+node,9931407619,POINT (73.0438337 33.6817003),,,variety_store
+node,9941123289,POINT (72.9590152 33.644733),Punjab Cash and Carry,,supermarket
+node,9941141102,POINT (72.9676382 33.6479618),Pappasallis Pizza,restaurant,
+node,9941141107,POINT (72.9718077 33.6505291),Najeeb Superstore,,supermarket
+node,9941191125,POINT (72.9720323 33.655254),Nasir Auto Repair,,car_repair
+node,9941191126,POINT (72.9716325 33.6505793),,,yes
+node,9941191129,POINT (72.9675428 33.6531676),Soneri Bank,bank,
+node,9941191132,POINT (72.9673918 33.656702),Qari Atta Chaki,,food
+node,9941191134,POINT (72.9674007 33.6568887),Milk Factory,,dairy
+node,9941191163,POINT (72.9635536 33.6553585),King's Nad,fast_food,
+node,9941191164,POINT (72.9636053 33.6552795),Element Bakery,,bakery
+node,9941338275,POINT (72.963437 33.6452928),Askari Bank,bank,
+node,9941338276,POINT (72.9632943 33.645487),Ganaache Bakery,,bakery
+node,9941338278,POINT (72.9633179 33.6454488),Domino's,fast_food,
+node,9941338280,POINT (72.9641753 33.645449),Optp,fast_food,
+node,9941338281,POINT (72.964236 33.6454809),Mr. Cod,fast_food,
+node,9942255607,POINT (72.9673063 33.6568274),Insaaf Naan Center,,food
+node,9942255608,POINT (72.9672787 33.6568106),Talha Salon,,hairdresser
+node,9942255609,POINT (72.9674737 33.6567539),Zain Tailor,,tailor
+node,9942255610,POINT (72.967459 33.6568504),Estheva's Beauty Spa,,hairdresser
+node,9942580841,POINT (72.995861 33.6668923),,,car_repair
+node,9942580858,POINT (72.999684 33.6684966),Save Mart,,supermarket
+node,9947986419,POINT (72.9642765 33.6459908),Scienta Vision School & College,school,
+node,9947986420,POINT (72.9640329 33.6458762),Dollar Pound Shop,,hobby
+node,9947986421,POINT (72.9636743 33.6450612),Ubaid Ur Rehman Tuck Shop,,tobacco
+node,9947986422,POINT (72.9637258 33.6450864),Nadeem Mobile shop,,mobile_phone
+node,9950116071,POINT (73.0010897 33.6703354),,,convenience
+node,9950185931,POINT (72.9713328 33.6503353),Book Street Book Store,,books
+node,9950203076,POINT (72.9711426 33.6561051),Carwaan Tyres Decoration workshop,,tyres
+node,9950203077,POINT (72.9719853 33.6550477),Supex Wheel Alignment,,car_repair
+node,10017462519,POINT (73.0657831 33.76013),Monal restaurant,restaurant,
+node,10017463117,POINT (73.0758928 33.6952113),Tahir Khan Restoran (TKR),restaurant,
+node,10098046857,POINT (73.1661192 33.5301571),KFC,fast_food,
+node,10140634718,POINT (72.9796098 33.7042702),Shanzay place,,erotic
+node,10140634917,POINT (72.9792467 33.7040626),Erotic house,,erotic
+node,10174573318,POINT (73.1570445 33.5215456),Carrefour,,supermarket
+node,10548574385,POINT (73.078235 33.7355212),Tuscany Courtyard,restaurant,
+node,10572546796,POINT (73.1376314 33.6165046),Bank Alfalah,bank,
+node,10656450781,POINT (73.079258 33.7306203),Chop Chop Wok,restaurant,
+node,10665462600,POINT (73.150765 33.5362689),Scientific Model School and College,school,
+node,10744793380,POINT (72.9881607 33.6851779),Car Cruise,,car
+node,10749307467,POINT (73.0588734 33.72178),Planc,restaurant,
+node,10763185497,POINT (73.0742705 33.7290976),Altitude,,outdoor
+node,10763185498,POINT (73.0788712 33.7213559),Probike,,bicycle
+node,10763185499,POINT (73.0836768 33.7047924),King Services,,copyshop
+node,10763185500,POINT (73.0713077 33.703489),,,general
+node,10763185501,POINT (73.0714174 33.7033499),,restaurant,
+node,10763758012,POINT (72.8584549 33.659289),JS Electronics,,electronics
+node,10763758026,POINT (72.8569446 33.6586149),,,greengrocer
+node,10763758051,POINT (72.8559821 33.6583647),,,greengrocer
+node,10763758133,POINT (72.8578167 33.6589486),Family Dollar,,variety_store
+node,10763758161,POINT (72.8559124 33.6584011),Islamabad Mart,,supermarket
+node,10763758223,POINT (72.8564782 33.6591708),Pak Mart,,convenience
+node,10763758270,POINT (72.8585061 33.6591748),HBL Bank,bank,
+node,10763758294,POINT (72.8559255 33.6585991),Labaik,,pastry
+node,10772682137,POINT (72.8565643 33.6588416),AB Stamp Paper & Printing Press,,copyshop
+node,10772682138,POINT (72.8580874 33.6591655),Mart 17,,supermarket
+node,10772682139,POINT (72.857712 33.6589856),Downtown Pizza,fast_food,
+node,10772682140,POINT (72.8579145 33.6590379),Kinnara,cafe,
+node,10775417218,POINT (73.0561717 33.7207075),Menika Mines,,jewelry
+node,10779812365,POINT (73.0587079 33.7212312),Kim Mug,restaurant,
+node,10779832738,POINT (73.0579042 33.7261224),CCC Club Grill Central,restaurant,
+node,10788278618,POINT (73.0478038 33.7273073),Brew,cafe,
+node,10803882167,POINT (73.1361763 33.7286062),Visa Seekers Shuttle Service,,ticket
+node,10803882168,POINT (73.1359376 33.7287002),,,convenience
+node,10803913156,POINT (73.1065044 33.7215201),Allied Bank,bank,
+node,10803913158,POINT (73.1072357 33.7217379),,bank,
+node,10885709827,POINT (73.1710892 33.5348425),AlShaafi Pharmacy,,chemist
+node,10973363857,POINT (73.0535385 33.7193761),exact print F-7,,stationery
+node,11043570260,POINT (73.0681322 33.7157163),Simla Cloth House,,clothes
+node,11051199287,POINT (73.1601511 33.6261873),Abu Bakkar Fruits & Vegetables,,greengrocer
+node,11051199304,POINT (73.1602468 33.6261829),,,hairdresser
+node,11051229429,POINT (73.1601053 33.626188),Sufian Traders,,convenience
+node,11051229472,POINT (73.1601992 33.6261856),Islamabad Milk Shop,,dairy
+node,11051229508,POINT (73.1598838 33.6261809),Ahmed Burgers & Food Point,fast_food,
+node,11052949870,POINT (73.1599894 33.6261791),Quetta Restaurant,restaurant,
+node,11052958175,POINT (73.1598156 33.6262313),Jutt Tyre Shop,,tyres
+node,11052958221,POINT (73.1599343 33.6261804),Khayber Naan Center,restaurant,
+node,11054303649,POINT (73.1600455 33.6259207),Gujarat Milk & Dairy Shop,,dairy
+node,11054303659,POINT (73.1600855 33.6259188),Bismillah Hair Dresser,,hairdresser
+node,11055466274,POINT (73.1597471 33.6256147),Wahab Building and Materials,,hardware
+node,11055466278,POINT (73.1172644 33.6294502),Quetta SK Hotel,restaurant,
+node,11055466283,POINT (73.1173684 33.6294727),Al Jawad International Hotel & Restaurant,restaurant,
+node,11055466296,POINT (73.1175387 33.629499),Baoo jee Murgh Pulao,restaurant,
+node,11056628891,POINT (73.0648387 33.6990715),Zia Balti & BBQ,restaurant,
+node,11056628895,POINT (73.0652403 33.6992476),Pak Car AC,,car_repair
+node,11056640580,POINT (73.0618986 33.7119213),Matrix Mobile And Repair Shop,,mobile_phone
+node,11056640582,POINT (73.0617758 33.7118521),Pace Technologies,,mobile_phone
+node,11056640584,POINT (73.0618214 33.7118773),Bit Tech Computers & Mobile,,mobile_phone
+node,11065390291,POINT (73.056368 33.7094083),Pirelli Boutique,,car_repair
+node,11065390293,POINT (73.0571947 33.7099675),Kitchen Care,fast_food,
+node,11065390294,POINT (73.0577235 33.7102435),Haleem Ghar,restaurant,
+node,11068308487,POINT (73.056917 33.7040908),Testing Hospital Ismail,hospital,
+node,11107185007,POINT (72.9696501 33.6948672),,cafe,
+node,11107203206,POINT (72.9695226 33.6950548),,bank,
+node,11117007506,POINT (72.9694017 33.6968782),,,supermarket
+node,11117030506,POINT (72.9729478 33.6997205),,fast_food,
+node,11117030905,POINT (72.9701807 33.6950632),,restaurant,
+node,11117033907,POINT (72.9727059 33.7000006),,fast_food,
+node,11117041710,POINT (72.9717999 33.6984132),,bank,
+node,11117045205,POINT (72.9728279 33.7002218),,restaurant,
+node,11139158405,POINT (73.0770447 33.7296699),The Smokey Cauldron,restaurant,
+node,11140880905,POINT (72.9480921 33.7035329),Carrefour,,supermarket
+node,11145555006,POINT (72.9411161 33.630145),Restaurant bbq 30 rupee 2023,restaurant,
+node,11159573405,POINT (73.0587904 33.7234527),Smokey cheese,restaurant,
+node,11160762022,POINT (73.0971582 33.714801),Subway,fast_food,
+node,11185339209,POINT (73.0417786 33.711174),Islamabad Specialists Clinic F-8 Markaz,hospital,
+node,11193684495,POINT (72.8950507 33.6603675),Crystal Trading Company,,car_parts
+node,11207571037,POINT (73.1376285 33.6164215),Bank Alfalah,bank,
+node,11217189672,POINT (73.0502887 33.6963846),Advanced International Hospital G-8 Markaz,hospital,
+node,11229060659,POINT (73.1604838 33.6428201),Cheezious Taramri,fast_food,
+node,11229069012,POINT (73.1614995 33.6431981),"UBL Bank, Taramri Branch",bank,
+node,11229092735,POINT (73.1567782 33.6407732),"Allied Bank (ABL), Tarlai",bank,
+node,11229097638,POINT (73.1652874 33.6444201),"Save Mart, Taramri",,supermarket
+node,11229115385,POINT (73.1605429 33.6428321),"Meezan Bank, Taramri branch",bank,
+node,11229115868,POINT (73.157182 33.6411876),"Faysal Bank, Tarlai",bank,
+node,11229121899,POINT (73.1575204 33.6415328),"Soneri Bank Taramri,",bank,
+node,11229128832,POINT (73.1576357 33.6416835),"TKR Restaurant, Taramri",restaurant,
+node,11229503699,POINT (73.1525231 33.6390568),Asim Electric Store,,electrical
+node,11229520287,POINT (73.1543144 33.6391176),Baoo Jee Murgh Pulao & Restaurant Tarlai,restaurant,
+node,11229654686,POINT (73.1406961 33.6363643),Shah Oil Center,,car_repair
+node,11258184847,POINT (73.1404463 33.5689355),Gourmet Bakers,,bakery
+node,11268713199,POINT (73.0148593 33.7075986),"PAF Hospital, Unit 2 Parking",hospital,
+node,11395758970,POINT (73.012514 33.6952807),,,greengrocer
+node,11395758971,POINT (73.0722447 33.7038728),,bank,
+node,11395765269,POINT (73.0720755 33.7036852),Al Habib Islamic Bank,bank,
+node,11510801054,POINT (73.1545028 33.5996975),United Bank Limited,bank,
+node,11652149248,POINT (73.1404924 33.596554),Imtiaz,,convenience
+node,11669211110,POINT (73.201665 33.5685234),,,supermarket
+node,11682647155,POINT (72.9733225 33.7002949),2Bro's Cafe & Restaurant,cafe,
+node,11724442337,POINT (73.0578096 33.7102632),SNM Pakistan,,electronics
+node,11730148967,POINT (73.1482325 33.5241657),Heaven Decor and Flower shop,,florist
+node,11749974826,POINT (73.0556256 33.6563341),Afghan Tikka & Plau House,restaurant,
+node,11755391969,POINT (73.1852226 33.5174363),QuickPick,,general
+node,11773015593,POINT (73.1660938 33.5295998),LIT,restaurant,
+node,11805744059,POINT (72.9997261 33.6768299),Mashal Books,,books
+node,11822073702,POINT (73.0572843 33.7213477),Huma Jewellers,,supermarket
+node,11835829399,POINT (73.1606453 33.5307467),Al Latif Grocers,,general
+node,11835832746,POINT (73.166036 33.5294407),Layers,,bakery
+node,11835844760,POINT (73.1699967 33.5275845),DHA Nursery,,garden_centre
+node,11835844761,POINT (73.1664828 33.530091),Gloria Jeans,cafe,
+node,11835847177,POINT (73.160973 33.5307475),Faiza's Beauty Parlor,,beauty
+node,11836529145,POINT (73.1600292 33.5310358),D Watson General,,general
+node,11836529146,POINT (73.1574368 33.5309196),Quetta Ketli,restaurant,
+node,11836538815,POINT (73.1649482 33.5329201),Terrace BBQ,restaurant,
+node,11836548754,POINT (73.1402125 33.530343),Night Owl Cafe,cafe,
+node,11836551132,POINT (73.1597007 33.5308684),Depilex,,hairdresser
+node,11836573852,POINT (73.1580795 33.5309674),,bank,
+node,11836574224,POINT (73.1609265 33.5310766),Maha Khalid,,beauty
+node,11836574225,POINT (73.1610578 33.5307772),The Vape Legends,,e-cigarette
+node,11836574226,POINT (73.1603295 33.5311051),United Cash And Carry,,general
+node,11836574227,POINT (73.159962 33.530855),MJs Bakery,,bakery
+node,11836574228,POINT (73.1596027 33.5311259),Khoka Khola,restaurant,
+node,11836574229,POINT (73.1586732 33.530927),Faysal Bank,bank,
+node,11836574231,POINT (73.1584313 33.5308993),Bank Al Habib,bank,
+node,11836574232,POINT (73.1583458 33.5308987),Habib Metro Bank,bank,
+node,11836574750,POINT (73.1605061 33.530773),HBL Bank,bank,
+node,11836577508,POINT (73.1574183 33.5311948),Silk Bank Emaan,bank,
+node,11848498104,POINT (73.1603846 33.5310929),First Women Bank,bank,
+node,11890884463,POINT (73.1543001 33.6631554),"The Educators, Park Road Campus",school,
+node,11896404125,POINT (73.0615463 33.7117119),Pak Mac,,computer
+node,11896435170,POINT (73.0617981 33.7118378),Solid State Technologies SST,,computer
+node,11896444341,POINT (73.0624237 33.7121124),NETPAQ,,computer
+node,11896452545,POINT (73.0613368 33.7116023),United Bank Limited (UBL),bank,
+node,11897122516,POINT (73.0438551 33.6853683),Nazir Foods,restaurant,
+node,11897140372,POINT (73.0443206 33.6856443),Punjab Chaat Palace,fast_food,
+node,11897183371,POINT (73.0406647 33.684082),United Bank Limited (UBL),bank,
+node,12045293820,POINT (73.0761991 33.6672843),VisaTribe,,travel_agency
+node,12119175723,POINT (73.0481196 33.6904302),Shamowaii Tariq Shaheed Isalamabad Model Schoo for Boys G-8/1,school,
+node,12119175731,POINT (73.0574042 33.695928),FG Girls Higher Secondary School (former) G-8/4,school,
+node,12143774524,POINT (73.1189166 33.6300435),Alam Hospital,hospital,
+node,12151273128,POINT (73.1801793 33.5108746),Bismillah Mart,,convenience
+node,12151288576,POINT (73.1660323 33.5301197),Omega,,convenience
+node,12157022647,POINT (73.0767044 33.6687307),Khabbay Ki Saji,restaurant,
+node,12157030455,POINT (73.0769074 33.6687619),Hey! Pita,restaurant,
+node,12157030456,POINT (73.0768597 33.6687728),Mr. Vapora Hy Mobile,,e-cigarette
+node,12157030457,POINT (73.0768123 33.6687846),Crusteez Donuts,fast_food,
+node,12157030458,POINT (73.0767702 33.668794),FATMOE'S Smash Burgers,fast_food,
+node,12157030459,POINT (73.0767364 33.6687976),Wall Mount Pharmacy,,chemist
+node,12157030460,POINT (73.0767037 33.6687961),Juicebar,fast_food,
+node,12157030461,POINT (73.0766744 33.6688115),Hometown,,gift
+node,12157030462,POINT (73.0765483 33.6688395),Cafe Grill,restaurant,
+node,12157030463,POINT (73.0759413 33.6690547),Just Vape,,e-cigarette
+node,12157030465,POINT (73.0759804 33.669279),Rashid Photo Studio,,photo
+node,12208876969,POINT (73.1325197 33.5298856),PakJapan Tyres,,tyres
+node,12208876970,POINT (73.1324359 33.5297099),Fahad Mart,,convenience
+node,12215025180,POINT (73.1954238 33.6520132),new gujjar khan medical store,hospital,
+node,12229494304,POINT (73.0339278 33.6883843),,cafe,
+node,12229859093,POINT (73.0241939 33.6563833),,bank,
+node,12229985604,POINT (73.0243056 33.658555),ANAAJ FOOD STREET IIUI,fast_food,
+node,12229985623,POINT (73.0200359 33.6605084),FRUIT & JUICE SHOP,fast_food,
+node,12229985624,POINT (73.021572 33.6621889),IIUI MEDICAL CENTRE,hospital,
+node,12229985626,POINT (73.0290235 33.6586635),HAZRAT MARYAM(R.A) BLOCK,school,
+node,12229985628,POINT (73.0294599 33.6592237),HAZRAT FATIMA BLOCK(R.A),school,
+node,12229985634,POINT (73.0291374 33.6593597),DEPARTMENT OF ELECTRICAL ENGINEERING,school,
+node,12229985635,POINT (73.0289811 33.6573118),CAEPE/CIRBS,school,
+node,12229985636,POINT (73.0303856 33.6599665),Darr-Ul-Muneera Block,school,
+node,12229985637,POINT (73.0315268 33.6590979),Girls Hostel Playground,school,
+node,12229985638,POINT (73.0294519 33.6604538),Mastani Jaga,school,
+node,12229985641,POINT (73.0273961 33.6620075),SULTANI JUICE,fast_food,
+node,12229985646,POINT (73.0200029 33.6581858),AL HABIB BANK LTD.,bank,
+node,12229985647,POINT (73.019998 33.6580519),KING'S CAFE,cafe,
+node,12254617604,POINT (73.1955619 33.4982876),Afzal Electronics,,electronics
+node,12291655098,POINT (73.1469956 33.5250672),Zainab Mart,,convenience
+node,12291665414,POINT (73.1292383 33.5655266),Cheezious,restaurant,
+node,12384969502,POINT (72.8610327 33.6643883),Ghulam mehdi memorial hospital GMMH,hospital,
+node,12384977701,POINT (72.8566947 33.6603096),Meezan bank,bank,
+node,12390362177,POINT (73.0509816 33.7213141),TreeHouse Cafe,cafe,
+node,12548865801,POINT (73.0752471 33.7293587),Bio-Organic and Wholesale,,farm
+node,12560939762,POINT (73.1545622 33.5217372),Faysal Bank,bank,
+node,12560939763,POINT (73.1542787 33.521777),Askari Bank,bank,
+node,12560964247,POINT (73.1542027 33.5218022),Al Rahman Book Store,,books
+node,12587332466,POINT (73.1540576 33.664124),Embassy Lodge Hotel and Marquee,restaurant,
+node,12652913124,POINT (73.076954 33.7300793),Aanch Restaurant,restaurant,
+node,12717498147,POINT (73.0753364 33.6664387),Fumé Islamabad,cafe,
+node,12725308901,POINT (73.0378234 33.7116182),Gear Up LS2,,motorcycle
+node,12725356301,POINT (73.0127172 33.6947303),Quetta Tea & Tea,restaurant,
+node,12740850401,POINT (72.9991914 33.6913354),Punjab Milk Shop,restaurant,
+node,12741046301,POINT (72.9987549 33.6905803),Punjab Milk Shop,restaurant,
+node,12749380299,POINT (73.0117763 33.6968882),,,travel_agency
+node,12752312501,POINT (72.9865273 33.6840242),Ranchers,fast_food,
+node,12754253201,POINT (73.0382394 33.7110292),Noorani Restaurant,restaurant,
+node,12754261801,POINT (73.0552913 33.7191494),Cheezious Old F-7,fast_food,
+node,12754310602,POINT (73.1147244 33.6305616),Madina Cash & Carry,,supermarket
+node,12754325901,POINT (73.1149925 33.630284),Elaaj International Hospital Islamabad,hospital,
+node,12754329901,POINT (73.1138267 33.6318537),Habib Honda Palace,,motorcycle
+node,12754336401,POINT (73.1130521 33.6327853),Health International Hospital,hospital,
+node,12754363002,POINT (73.1181935 33.6296222),MCB Bank Khanna Branch,bank,
+node,12754367801,POINT (73.1176989 33.6295126),Habib Bank Limited (HBL) - Khanna Pul Branch,bank,
+node,12754372701,POINT (73.117804 33.6295314),Askari Bank Islamic Banking,bank,
+node,12754387301,POINT (73.1271778 33.632946),Al-Haram Cash & Carry,,supermarket
+node,12754397101,POINT (73.1365661 33.6347243),JS Bank,bank,
+node,12772052473,POINT (73.072094 33.6687212),Century Business Park,,mall
+node,12772052475,POINT (73.0777107 33.6687958),Tim Hortons,cafe,
+node,12772052477,POINT (73.0749976 33.6694073),Butt Karahi Tikka,restaurant,
+node,12772052478,POINT (73.0748755 33.6682322),Layers Bakshop,,bakery
+node,12772382508,POINT (73.0749814 33.6682954),Jamil Sweets,,confectionery
+node,12772382509,POINT (73.0750649 33.6685775),Cheezious I-8,restaurant,
+node,12772382510,POINT (73.0754702 33.6685265),Papa John's,fast_food,
+node,12772382511,POINT (73.0755102 33.668094),Tehzeeb Bakers,,bakery
+node,12772382514,POINT (73.0747194 33.6674117),Rendezvous Xpress I8,restaurant,
+node,12772382515,POINT (73.0747169 33.6673281),Tayto Cafe,fast_food,
+node,12772382516,POINT (73.0744311 33.6664766),Meezan Bank,bank,
+node,12772382517,POINT (73.0743544 33.6662221),Bank Islami,bank,
+node,12844548568,POINT (73.0005911 33.668785),foodo,restaurant,
+node,12844548570,POINT (73.0004123 33.6689967),noor generar hospital,hospital,
+relation,3489900,"POLYGON ((72.9849007 33.6432949, 72.9849249 33.6432235, 72.9848122 33.6431989, 72.9847935 33.643248, 72.9847747 33.6433016, 72.9848364 33.6433128, 72.9848176 33.6433664, 72.9849302 33.6433909, 72.9849651 33.6433083, 72.9849007 33.6432949))",ایچ بی ایل پاکستان,bank,
+way,20636491,"POLYGON ((73.0344258 33.6961632, 73.035564 33.6967366, 73.035607 33.6966652, 73.035461 33.6964652, 73.0354782 33.696251, 73.0353924 33.6960225, 73.035358 33.6958082, 73.035461 33.6955512, 73.0350524 33.6953205, 73.0344258 33.6961632))",Fed Govt Primary School #32,school,
+way,20891478,"POLYGON ((73.0730392 33.7286772, 73.0739061 33.727585, 73.0774852 33.7294981, 73.0797426 33.7306045, 73.0792705 33.7319322, 73.0730392 33.7286772))",,,supermarket
+way,21275932,"POLYGON ((73.0305519 33.6849802, 73.0315537 33.6855141, 73.032225 33.6845891, 73.0312297 33.6840936, 73.0305519 33.6849802))",Islamabad Model School for Girls G-9/1,school,
+way,22328601,"POLYGON ((73.0468753 33.7030436, 73.0495188 33.7044088, 73.051087 33.705229, 73.0511913 33.7052846, 73.0540663 33.7068191, 73.0573235 33.7021361, 73.0523497 33.6995849, 73.0531624 33.6984558, 73.0515289 33.6975922, 73.04952 33.7004128, 73.0484605 33.6998527, 73.0480994 33.7002854, 73.0478945 33.700531, 73.0475941 33.7020663, 73.0468753 33.7030436))",Pakistan Institute for Medical Sciences (PIMS),hospital,
+way,22375659,"POLYGON ((73.0383504 33.6919507, 73.0392344 33.6924006, 73.0398782 33.6915365, 73.0390113 33.6910865, 73.0383504 33.6919507))",Federal Government Junior Model School No.68,school,
+way,22530777,"POLYGON ((73.0283914 33.6825896, 73.0299687 33.6834801, 73.0306371 33.6824855, 73.0290608 33.6816253, 73.0283914 33.6825896))",Federal Government Secondary School No. 14,school,
+way,22962333,"POLYGON ((73.0070407 33.6889644, 73.0077771 33.6893392, 73.0077514 33.6898605, 73.0080003 33.6899962, 73.0070493 33.6912925, 73.0057704 33.6906212, 73.0070407 33.6889644))",Islamabad Model College for Boys F-10/4,school,
+way,22965921,"POLYGON ((73.0591425 33.7263681, 73.0591965 33.7264009, 73.0592461 33.7264353, 73.0592923 33.7264847, 73.0593325 33.7265392, 73.0593456 33.7265725, 73.0593544 33.7266088, 73.0593537 33.7266519, 73.0593365 33.7266957, 73.0593087 33.7267708, 73.0592687 33.726889, 73.0594354 33.7269998, 73.0596007 33.7271148, 73.0596223 33.7271406, 73.0597901 33.7273246, 73.0598165 33.727381, 73.0598775 33.7274547, 73.0600201 33.7276064, 73.0600507 33.7276497, 73.0600665 33.72768, 73.0600755 33.7277218, 73.0600403 33.7278637, 73.0599503 33.7281807, 73.059813 33.7285091, 73.0596502 33.7287334, 73.0595173 33.7287464, 73.0594882 33.7287737, 73.057994 33.7279667, 73.0591425 33.7263681))",Islamabad Model College for Boys F-7/3,school,
+way,22968227,"POLYGON ((73.0043732 33.6862315, 73.0050255 33.6865815, 73.0056864 33.685653, 73.0050684 33.6853031, 73.0043732 33.6862315))",,school,
+way,22977113,"POLYGON ((73.04293 33.6864572, 73.0436681 33.68685, 73.0433873 33.6872244, 73.0429986 33.6877427, 73.0422433 33.6873356, 73.042499 33.6870085, 73.04293 33.6864572))",Federal Government Junior Model School No. 38,school,
+way,22977303,"POLYGON ((73.039574 33.6886211, 73.0404495 33.689071, 73.0410417 33.6882926, 73.0401491 33.6878212, 73.039574 33.6886211))",Federal Government Secondary School For Girls No. 13,school,
+way,22997260,"POLYGON ((73.0506566 33.7314069, 73.0514891 33.7314569, 73.0515578 33.7309572, 73.0507166 33.7308573, 73.0506566 33.7314069))",Jamia Afridia,school,
+way,22999246,"POLYGON ((73.0561219 33.7014648, 73.0568601 33.7004723, 73.0532294 33.69853, 73.0524827 33.699544, 73.0561219 33.7014648))",نوری ہسپتال,hospital,
+way,22999444,"POLYGON ((73.0343421 33.693636, 73.0342734 33.6933932, 73.0346253 33.6929933, 73.0348228 33.6927933, 73.0351232 33.6927433, 73.0356763 33.691984, 73.0357068 33.6919507, 73.0362647 33.692222, 73.0364793 33.6924577, 73.0360587 33.6930076, 73.0358098 33.6931861, 73.035621 33.6932647, 73.0353635 33.6933504, 73.0343421 33.693636))",Federal Government Girls Model School G-9/3,school,
+way,23006070,"POLYGON ((73.0188365 33.6860944, 73.0191626 33.6856659, 73.0205702 33.6863943, 73.0202441 33.68683, 73.0188365 33.6860944))",Bara Park,,"G-10/3, Islamabad"
+way,23040333,"POLYGON ((73.0665763 33.6742926, 73.0680955 33.6750854, 73.0672028 33.6762711, 73.066808 33.6768354, 73.0667754 33.6771753, 73.0667394 33.6775496, 73.0654948 33.6774568, 73.0655978 33.676114, 73.0656922 33.6757711, 73.0658038 33.6754497, 73.0665763 33.6742926))",Shifa International Hospital,hospital,
+way,23040341,"POLYGON ((73.0650657 33.6794138, 73.0638383 33.6787853, 73.0637782 33.6775782, 73.0644548 33.6779231, 73.0651515 33.6782782, 73.0650657 33.6794138))",The City School,school,
+way,23040347,"POLYGON ((73.065233 33.6810611, 73.0667951 33.6817967, 73.0670483 33.6826421, 73.0665849 33.6825422, 73.0663617 33.6825136, 73.065924 33.6824779, 73.0650914 33.6824422, 73.065233 33.6810611))",Beaconhouse Margalla Campus,school,
+way,23046682,"POLYGON ((73.0136321 33.6716171, 73.014819 33.6722405, 73.0152543 33.6716671, 73.0140699 33.6710385, 73.0136321 33.6716171))",,school,
+way,23062577,"POLYGON ((73.0179523 33.687469, 73.0192998 33.6881546, 73.0202611 33.6868905, 73.0189393 33.6862335, 73.0179523 33.687469))",,school,
+way,23062759,"POLYGON ((73.0162474 33.6850556, 73.015528 33.6846876, 73.0151933 33.6848518, 73.0149014 33.6850161, 73.0146783 33.6851375, 73.0143865 33.6853589, 73.0155709 33.6859731, 73.0156996 33.6858003, 73.0161872 33.6851349, 73.0162474 33.6850556))",,school,
+way,23273137,"POLYGON ((73.0301883 33.6469386, 73.0305145 33.6465171, 73.0312526 33.6469029, 73.0309265 33.6473316, 73.0301883 33.6469386))",Islamabad Model School,school,
+way,23273256,"POLYGON ((73.0317666 33.6486134, 73.0326764 33.6490778, 73.0334403 33.6480203, 73.0325477 33.6475488, 73.0317666 33.6486134))",Zeeshan Ahmad Shaheed Model School For Boys I-10/2,school,
+way,23273294,"POLYGON ((73.0324361 33.6494922, 73.033097 33.6498423, 73.0339038 33.648742, 73.0332257 33.6483919, 73.0324361 33.6494922))",Federal Government Model School I-10/2,school,
+way,23285661,"POLYGON ((73.0424396 33.6448246, 73.0424713 33.6448413, 73.0435993 33.6454359, 73.0436326 33.6454534, 73.0439845 33.6449675, 73.0427743 33.644353, 73.0424396 33.6448246))",Islamabad Model College for Girls I-10/4 (Stem Intervention),school,
+way,23285665,"POLYGON ((73.0443278 33.6466609, 73.0446562 33.6462397, 73.0453902 33.646199, 73.0459517 33.6464762, 73.0460394 33.6465999, 73.0454522 33.647254, 73.0443278 33.6466609))",Federal Government Model School for Girls I-10/4,school,
+way,23285678,"POLYGON ((73.0465079 33.6459607, 73.0471517 33.6470896, 73.0474263 33.6472325, 73.0481044 33.6463037, 73.0467569 33.6455963, 73.0465079 33.6459607))",Federal Government Middle School for Girls I-10/4,school,
+way,23367740,"POLYGON ((73.0786192 33.7098823, 73.0799276 33.710584, 73.0800032 33.7104652, 73.0805734 33.7097298, 73.079264 33.7090391, 73.0786192 33.7098823))",,school,
+way,23367760,"POLYGON ((73.0843296 33.7128611, 73.0855656 33.7135251, 73.086235 33.7126755, 73.0849647 33.7119972, 73.0843296 33.7128611))",Federal Government Girls Model School G-6/1,school,
+way,23367776,"POLYGON ((73.082098 33.7073277, 73.0832653 33.7079418, 73.0838232 33.7072492, 73.0826216 33.7066494, 73.082098 33.7073277))",,school,
+way,23383954,"POLYGON ((73.0907164 33.7138447, 73.0902701 33.7144373, 73.0887166 33.713652, 73.0890255 33.712988, 73.0907164 33.7138447))",,school,
+way,23492316,"POLYGON ((73.0241081 33.6883046, 73.0254298 33.6889902, 73.024932 33.6896687, 73.0236017 33.6889474, 73.0241081 33.6883046))",Federal Government Model School No. 36 G-9/2,school,
+way,23492363,"POLYGON ((73.0276185 33.6879404, 73.0285026 33.6884046, 73.0279619 33.6890831, 73.027095 33.6886474, 73.0276185 33.6879404))",Islamabad Model School No. 3 G-9/2 Blended e-Learning,school,
+way,23510079,"POLYGON ((73.0463251 33.6953335, 73.045544 33.6963832, 73.0449861 33.6960904, 73.0457843 33.695055, 73.0463251 33.6953335))",,school,
+way,23510164,"POLYGON ((73.046944 33.6933018, 73.0474332 33.6926519, 73.0463861 33.6921021, 73.0458968 33.6927519, 73.046944 33.6933018))",Federal Government Junior Model School G-8/1,school,
+way,23538647,"POLYGON ((73.0301529 33.6927882, 73.0310416 33.693265, 73.0314293 33.6927485, 73.0305152 33.6922825, 73.0301529 33.6927882))",National Training Center for Special Persons,school,
+way,23539252,"POLYGON ((73.0449722 33.7005425, 73.0454774 33.6998604, 73.0448005 33.6995214, 73.0443113 33.7001926, 73.0449722 33.7005425))",Federal Government Junior School No. 44,school,
+way,23605207,"POLYGON ((73.0666389 33.6664956, 73.0673341 33.6668671, 73.0684891 33.6653727, 73.0677933 33.6649973, 73.0666389 33.6664956))",Islamabad Model College for Girls I-8/2,school,
+way,23624848,"POLYGON ((73.0569451 33.6935515, 73.0579428 33.694035, 73.0578385 33.6941986, 73.0584308 33.6945057, 73.0591702 33.6935708, 73.0575466 33.6927211, 73.0569451 33.6935515))",Federal Government Boys Higher Secondary School G-8/4,school,
+way,23624865,"POLYGON ((73.0536807 33.6962496, 73.0542386 33.6965139, 73.0547107 33.6958854, 73.0547364 33.695814, 73.0541785 33.6955427, 73.0536807 33.6962496))",FG Junior Model School G-/8/4,school,
+way,23624877,"POLYGON ((73.0585976 33.6944138, 73.0596533 33.6949708, 73.0600309 33.6944495, 73.0589924 33.6939068, 73.0585976 33.6944138))",Federal Government Girls Model Middle School,school,
+way,23624926,"POLYGON ((73.059885 33.6975987, 73.0589066 33.6970845, 73.0584431 33.6977344, 73.0594387 33.6982342, 73.059885 33.6975987))",Islamabad Model School G-8/4,school,
+way,23626686,"POLYGON ((73.0847412 33.717102, 73.0848563 33.716891, 73.0855408 33.7172538, 73.0854307 33.7175457, 73.0847412 33.717102))",نیشنل بینک آف پاکستان,bank,
+way,23635809,"POLYGON ((73.0789216 33.7164058, 73.0806725 33.7173625, 73.0810759 33.7168128, 73.0793078 33.7158989, 73.0789216 33.7164058))",CDA Hospital,hospital,
+way,23734684,"POLYGON ((73.0234535 33.6778007, 73.0238569 33.678015, 73.0244829 33.6771398, 73.0240629 33.676915, 73.0234535 33.6778007))",,school,
+way,23759232,"POLYGON ((73.0636008 33.7045377, 73.0634908 33.7038527, 73.0644127 33.7033718, 73.0652771 33.7038203, 73.0651288 33.70418, 73.0650795 33.7042715, 73.0645927 33.7046679, 73.0645021 33.7046118, 73.0643522 33.7047466, 73.0644275 33.7047984, 73.0643365 33.7048635, 73.0636768 33.705796, 73.0628991 33.7054305, 73.0636008 33.7045377))",G-7/2 ایف جی گرلز ماڈل اسکول,school,
+way,25000803,"POLYGON ((73.069104 33.6825752, 73.0706575 33.6834323, 73.0713699 33.6824538, 73.0693872 33.6813896, 73.06937 33.6821467, 73.069104 33.6825752))",OPF Foundation School,school,
+way,25000809,"POLYGON ((73.0703313 33.6817182, 73.0714815 33.6823253, 73.0721424 33.6813968, 73.0710008 33.6807897, 73.0703313 33.6817182))",Islamabad Convent School,school,
+way,25603881,"POLYGON ((73.0529874 33.7148213, 73.0541718 33.7154282, 73.0547726 33.7146285, 73.0536311 33.7140074, 73.0529874 33.7148213))",Islamabad Model Primary School F-7/1,school,
+way,28485542,"POLYGON ((73.034417 33.6402987, 73.0353612 33.6407917, 73.0356873 33.6403273, 73.0346488 33.6399057, 73.034417 33.6402987))",Islamabad Model School for Girls No.49 I-10/1,school,
+way,144599501,"POLYGON ((73.0718118 33.7138408, 73.0721046 33.7134353, 73.072464 33.7136281, 73.0721652 33.7140177, 73.0718118 33.7138408))",Golden Market,,supermarket
+way,154443100,"POLYGON ((73.1887388 33.6460717, 73.1896025 33.6460583, 73.189522 33.6452143, 73.1886584 33.6452768, 73.1887388 33.6460717))","Islamabad Model School for Girls, Panjgran",school,
+way,154459262,"POLYGON ((73.1425202 33.6793093, 73.1435287 33.6781219, 73.1425524 33.6776041, 73.1416346 33.6787509, 73.1425202 33.6793093))","Islamabad Model School For Boys, Chak Shehzad",school,
+way,154537545,"POLYGON ((73.1557916 33.6414639, 73.1562207 33.6407047, 73.1570651 33.641702, 73.1574621 33.6420057, 73.1557916 33.6414639))","F.G Girls Sec School, Tarlai",school,
+way,154644975,"POLYGON ((73.1843305 33.6468147, 73.1841723 33.6467477, 73.1841186 33.6468393, 73.1843305 33.6468147))",Boys Middle School,school,
+way,154857479,"POLYGON ((73.2005741 33.6484439, 73.2017757 33.6484842, 73.2017114 33.6475507, 73.2005741 33.6475507, 73.2005741 33.6484439))",Sultana Foundation Boys School,school,
+way,154858402,"POLYGON ((73.2055094 33.6450142, 73.2063891 33.6452286, 73.2066895 33.6441746, 73.2057025 33.6439424, 73.2053377 33.6446034, 73.2055952 33.6447284, 73.2055094 33.6450142))","FG Boys Secondary School, Jhang Sayedan",school,
+way,154900774,"POLYGON ((73.1880533 33.6441447, 73.1879943 33.6444439, 73.1885683 33.6444127, 73.1885468 33.6441179, 73.1880533 33.6441447))",Alflah Public School,school,
+way,154903958,"POLYGON ((73.2709286 33.6587896, 73.2730959 33.6585021, 73.2775886 33.6564794, 73.2705891 33.656566, 73.2709286 33.6587896))","FG Boys Higher Sec School, Nilore",school,
+way,154904795,"POLYGON ((73.1855748 33.6400422, 73.1857036 33.6396224, 73.1850384 33.6396984, 73.1849633 33.6398591, 73.1855748 33.6400422))",FG Junior Model School,school,
+way,154970822,"POLYGON ((73.0689551 33.7015057, 73.0697826 33.7004451, 73.0688119 33.6999624, 73.068004 33.7009896, 73.0689551 33.7015057))",Federal Government Primary Model School G-7/1,school,
+way,154970824,"POLYGON ((73.0691026 33.7015827, 73.0715059 33.7027876, 73.0722783 33.7017969, 73.0699824 33.7005651, 73.0691026 33.7015827))",Federal Government Girls Secondary School # 7,school,
+way,154971466,"POLYGON ((73.1746423 33.6455817, 73.1748621 33.6455822, 73.1749694 33.6453924, 73.1748622 33.6453941, 73.1748381 33.6453807, 73.1748005 33.6453718, 73.174763 33.6453852, 73.1746718 33.6453874, 73.1746423 33.6455817))",Farooq Plaza,,mall
+way,154971467,"POLYGON ((73.1737545 33.6455482, 73.1741781 33.6455621, 73.1741809 33.6453584, 73.1739959 33.6453584, 73.1739932 33.6454164, 73.1737679 33.6454745, 73.1737545 33.6455482))",Janjua Plaza,,mall
+way,154971473,"POLYGON ((73.1747093 33.6449899, 73.1748703 33.6449899, 73.1748864 33.644885, 73.1747415 33.6448761, 73.1747093 33.6449899))",Naeem Tufail Plaza,,mall
+way,154971561,"POLYGON ((73.1783758 33.6439919, 73.1783007 33.6442465, 73.1781612 33.6441393, 73.1782309 33.6439294, 73.1783758 33.6439919))",Girls Primery School,school,
+way,208966900,"POLYGON ((72.9900877 33.6462501, 72.9901199 33.6462389, 72.9901681 33.6462568, 72.9901789 33.6462813, 72.9901586 33.6463176, 72.9901869 33.6463751, 72.9902298 33.6463617, 72.9902862 33.646384, 72.990321 33.6463215, 72.9903639 33.6463416, 72.9904149 33.6463639, 72.9904498 33.6463572, 72.9905061 33.6464689, 72.9904739 33.6464912, 72.9904659 33.6465292, 72.990439 33.6465493, 72.9903639 33.6465269, 72.9903398 33.6465738, 72.9903103 33.646585, 72.9903398 33.6466564, 72.9903666 33.6466676, 72.9903827 33.6466989, 72.9903747 33.6467368, 72.9903318 33.6467525, 72.9902996 33.6467324, 72.9902862 33.6467056, 72.9902996 33.6466765, 72.9902701 33.6466051, 72.9902271 33.6466118, 72.9901762 33.6465895, 72.990144 33.6466542, 72.9901145 33.6466408, 72.990093 33.6466609, 72.9900501 33.6466319, 72.990034 33.6466185, 72.9900072 33.6466296, 72.989967 33.6465292, 72.9899992 33.646518, 72.9899938 33.6465046, 72.9900072 33.6464666, 72.9900206 33.64646, 72.9900313 33.646422, 72.9901011 33.6464376, 72.9901225 33.6464019, 72.9901601 33.646384, 72.9901306 33.6463237, 72.9900984 33.6463193, 72.9900716 33.6462925, 72.9900877 33.6462501))",Concordia-1,cafe,
+way,209650351,"POLYGON ((72.9880021 33.6428348, 72.9880866 33.6427949, 72.9882032 33.6428109, 72.9881812 33.6428775, 72.9882241 33.6428976, 72.9882376 33.6429356, 72.9882671 33.6429088, 72.9882833 33.6429442, 72.9882483 33.6429579, 72.988259 33.642987, 72.988227 33.643029, 72.9883046 33.6430629, 72.9882885 33.6431276, 72.9882565 33.6431742, 72.9881195 33.6432102, 72.988058 33.6431809, 72.9880191 33.6431562, 72.9880482 33.643104, 72.9880065 33.6430737, 72.9879962 33.6430405, 72.9879909 33.6430223, 72.9879586 33.6430316, 72.9879373 33.6429911, 72.9879827 33.6430003, 72.9879693 33.6429624, 72.9880042 33.6429222, 72.9879291 33.6428842, 72.9879506 33.6428641, 72.9880021 33.6428348))",Concordia 2 (C2),cafe,
+way,209859224,"POLYGON ((72.9978428 33.6439999, 72.9980111 33.6440802, 72.997902 33.6442386, 72.9977338 33.6441583, 72.9978428 33.6439999))",MI Room,hospital,
+way,210374461,"POLYGON ((73.0389923 33.6439894, 73.0385471 33.6445945, 73.0378041 33.6441971, 73.0378899 33.6439581, 73.0379436 33.643842, 73.0380321 33.6436232, 73.0381018 33.6435205, 73.0389923 33.6439894))",Islamabad Model College for Boys I-10/1,school,
+way,212032164,"POLYGON ((73.0247992 33.675325, 73.0249494 33.675133, 73.025467 33.6754075, 73.0253141 33.6755995, 73.0247992 33.675325))",HPR,,car_repair
+way,216964902,"POLYGON ((73.0450212 33.6818784, 73.0450611 33.6818265, 73.0446043 33.6815837, 73.0445644 33.6816356, 73.0450212 33.6818784))",,,kiosk
+way,216964957,"POLYGON ((73.0449658 33.6819528, 73.0450056 33.6819009, 73.044552 33.6816597, 73.0445121 33.6817116, 73.0449658 33.6819528))",,,kiosk
+way,225853625,"POLYGON ((73.0962074 33.7207127, 73.0965695 33.7201953, 73.097271 33.720567, 73.0972417 33.7210805, 73.0971648 33.7211796, 73.0962074 33.7207127))",The World Bank Pakistan,bank,
+way,225855317,"POLYGON ((73.1059025 33.721445, 73.1062831 33.7216336, 73.1066531 33.721129, 73.1062028 33.7208764, 73.1058871 33.7212882, 73.1059025 33.721445))",اسٹینڈرڈ چارٹرڈ,bank,
+way,225861218,"POLYGON ((73.0944629 33.7221846, 73.0949402 33.7224246, 73.0952373 33.722016, 73.09476 33.7217759, 73.0944629 33.7221846))",State Bank Of Pakistan,bank,
+way,230432958,"POLYGON ((73.156795 33.521507, 73.1568188 33.5216662, 73.1568615 33.5217974, 73.156925 33.5218824, 73.1570384 33.521949, 73.157179 33.5219387, 73.1572124 33.5219216, 73.1573523 33.52185, 73.1574879 33.5217943, 73.1575861 33.5217639, 73.1576755 33.5217041, 73.1577643 33.5216575, 73.1578786 33.521628, 73.1579889 33.5216202, 73.1581741 33.5215881, 73.1583483 33.521532, 73.1585159 33.521492, 73.1587214 33.5214226, 73.1590196 33.5213206, 73.1591419 33.5212606, 73.1592634 33.5211673, 73.1593958 33.5210224, 73.1595529 33.520819, 73.159653 33.5205938, 73.1596599 33.5205298, 73.1596032 33.5205241, 73.1592606 33.5206199, 73.1589343 33.5207187, 73.1587922 33.5207368, 73.1586866 33.5207677, 73.1584484 33.5208794, 73.1583782 33.5209053, 73.1583106 33.5209183, 73.1582055 33.5209066, 73.158096 33.5209311, 73.1579412 33.5209615, 73.1577801 33.5210129, 73.1576902 33.5209981, 73.1575869 33.5210161, 73.1574955 33.521054, 73.1574412 33.5210908, 73.1572862 33.5211109, 73.1571354 33.5211545, 73.1569308 33.5212211, 73.1568437 33.5212452, 73.1568032 33.521357, 73.156795 33.521507))",Giga Mall Islamabad,,mall
+way,235084098,"POLYGON ((72.9739676 33.6250453, 72.9726742 33.6256378, 72.9724704 33.6253229, 72.9722481 33.6254357, 72.972097 33.6251635, 72.9723295 33.6250564, 72.9723695 33.6251172, 72.9736614 33.6245179, 72.9739676 33.6250453))",Quaid-e-Azam International Hospital,hospital,
+way,239028734,"POLYGON ((73.1632992 33.5345196, 73.1633585 33.5345177, 73.1636386 33.534509, 73.163613 33.5339369, 73.1632736 33.5339475, 73.1632992 33.5345196))",Jacaranda Family Club,restaurant,
+way,244846765,"POLYGON ((73.0852943 33.7177746, 73.0845414 33.7173732, 73.0847256 33.7171436, 73.0847412 33.717102, 73.0854307 33.7175457, 73.0852943 33.7177746))",Food Street,restaurant,
+way,254608237,"POLYGON ((73.2043016 33.6555487, 73.2055462 33.6558166, 73.2064903 33.6541198, 73.2049454 33.6541734, 73.2046664 33.6547092, 73.2043016 33.6555487))",Nafees Hospital ISRA University,hospital,
+way,260128941,"POLYGON ((72.9902648 33.672958, 72.9908572 33.6721498, 72.9909057 33.6720837, 72.9898859 33.6715298, 72.9892388 33.6724119, 72.9902648 33.672958))",Wasif Ali Shaheed Model School For Boys,school,
+way,260274365,"POLYGON ((73.1384884 33.6874598, 73.1386466 33.6875157, 73.138785 33.6874828, 73.1394809 33.6866438, 73.138868 33.6862786, 73.138437 33.6867327, 73.1381958 33.6866175, 73.1378241 33.6870222, 73.1384884 33.6874598))",NIH,hospital,
+way,263457301,"POLYGON ((73.0727324 33.7251387, 73.0728075 33.7251721, 73.0727646 33.725268, 73.0726654 33.72521, 73.0727324 33.7251387))",FM Dental Clinic,hospital,
+way,263789569,"POLYGON ((73.0894777 33.708456, 73.0897665 33.7080762, 73.0829268 33.704223, 73.0825452 33.7047485, 73.0845671 33.7058502, 73.0894777 33.708456))",Aabpara Market,,supermarket
+way,263826368,"POLYGON ((73.1487194 33.675983, 73.1492892 33.6763638, 73.1499897 33.6756099, 73.1494013 33.6752601, 73.1487194 33.675983))",Muslim Hands School Of Exellence,school,
+way,263827173,"POLYGON ((73.1759125 33.6449374, 73.1762558 33.6449418, 73.1763524 33.6445622, 73.1760305 33.6445265, 73.1759125 33.6449374))",Khokhar Plaza,,supermarket
+way,263829331,"POLYGON ((73.1218114 33.63269, 73.1224015 33.6328865, 73.1228092 33.6322433, 73.1221977 33.6319843, 73.1218114 33.63269))",Rawal Hospital,hospital,
+way,263922691,"POLYGON ((73.1704072 33.6447878, 73.1707901 33.6448189, 73.1707808 33.6445623, 73.1703978 33.6445701, 73.1704072 33.6447878))",Islamabad Medical Complex,hospital,
+way,266310387,"POLYGON ((73.1149037 33.7231713, 73.115731 33.7236058, 73.1159973 33.7232575, 73.1151679 33.7228247, 73.1149037 33.7231713))",The French Club 21,restaurant,
+way,266653606,"POLYGON ((73.1215956 33.7263034, 73.1216577 33.7262116, 73.1218708 33.7263112, 73.1218088 33.726403, 73.1215956 33.7263034))",Cordon Rouge,restaurant,
+way,269171572,"POLYGON ((72.9568859 33.6219916, 72.9569197 33.6220121, 72.9569432 33.6220408, 72.9569541 33.6220744, 72.9569507 33.6221092, 72.9569336 33.6221409, 72.9569071 33.6221646, 72.956873 33.6221802, 72.9568348 33.6221863, 72.9567963 33.6221821, 72.9567612 33.622168, 72.956733 33.6221457, 72.9567147 33.6221171, 72.956708 33.6220852, 72.9567145 33.6220508, 72.9567344 33.6220202, 72.9567654 33.6219969, 72.956804 33.6219835, 72.9568458 33.6219818, 72.9568859 33.6219916))",Darbar,cafe,
+way,283406139,"POLYGON ((72.9590087 33.6214262, 72.9600394 33.6216075, 72.9604194 33.620817, 72.9600766 33.6207803, 72.9597366 33.6208201, 72.9594763 33.6208953, 72.9592956 33.6210103, 72.9591362 33.6211784, 72.9590566 33.6212802, 72.9590087 33.6214262))",APS Ground,school,
+way,283411095,"POLYGON ((72.9587462 33.6241479, 72.9587567 33.6241014, 72.9588126 33.6241102, 72.9588187 33.6240834, 72.9587658 33.624075, 72.9587816 33.6240055, 72.9591005 33.6240557, 72.959068 33.6241991, 72.9589876 33.6241865, 72.9589923 33.6241658, 72.9588076 33.6241367, 72.958803 33.6241568, 72.9587462 33.6241479))",نیشنل بینک آف پاکستان,bank,
+way,286024097,"POLYGON ((73.1832447 33.507917, 73.1836553 33.5076337, 73.1834641 33.507433, 73.1830465 33.5077399, 73.1832447 33.507917))",Allied Bank Rawat,bank,
+way,295621315,"POLYGON ((73.1551419 33.6560174, 73.1554209 33.6560129, 73.1554155 33.6556557, 73.1551366 33.6556646, 73.1551397 33.6558701, 73.1551419 33.6560174))",Restaurant 360,restaurant,
+way,312668272,"POLYGON ((73.1638339 33.5372772, 73.1641719 33.5372749, 73.1641719 33.5370379, 73.164078 33.5369664, 73.1638125 33.5369798, 73.1638339 33.5372772))",,school,
+way,320392929,"POLYGON ((73.0143401 33.7075375, 73.013418 33.7070411, 73.0132457 33.7069484, 73.0126744 33.7076401, 73.0129373 33.7078387, 73.0128863 33.707977, 73.0138814 33.7082002, 73.0146029 33.7083831, 73.0157241 33.7086821, 73.0159306 33.708392, 73.0149472 33.7078621, 73.0148417 33.7078052, 73.0143401 33.7075375))",,school,
+way,336859488,"POLYGON ((73.0465763 33.665931, 73.0475848 33.6644041, 73.0494034 33.6653283, 73.0483466 33.666757, 73.0465763 33.665931))",سیکرٹریٹ انسٹی ٹیوٹ (اسٹیبلشمنٹ ڈویژن),school,
+way,361766392,"POLYGON ((73.1329058 33.6878375, 73.133807 33.6873822, 73.1346009 33.6868376, 73.1352071 33.6862306, 73.1354056 33.6860342, 73.1378518 33.6874357, 73.1390266 33.6881276, 73.1391392 33.6881946, 73.1392358 33.6881499, 73.1393592 33.6882437, 73.1394128 33.6883419, 73.1393913 33.6897077, 73.1393753 33.6903013, 73.1390266 33.6907477, 73.1385438 33.6913324, 73.1384119 33.6915113, 73.1382595 33.6916761, 73.1380878 33.6916984, 73.1375138 33.6915823, 73.13731 33.6920153, 73.1333165 33.6908859, 73.1333296 33.6904576, 73.1331901 33.6895068, 73.1330774 33.6887793, 73.1329058 33.6878375))",National Institute of Health,hospital,
+way,364612443,"POLYGON ((73.1869996 33.5454964, 73.1870581 33.545521, 73.187097 33.5454461, 73.1869614 33.5453946, 73.1869208 33.5454589, 73.1869996 33.5454964))",Tikka Mehal,restaurant,
+way,375759667,"POLYGON ((73.0655536 33.7601702, 73.0656473 33.760185, 73.0657236 33.7601718, 73.0657404 33.7601907, 73.0657747 33.7602069, 73.0658124 33.7602031, 73.0658356 33.7601877, 73.0658943 33.7602254, 73.0659901 33.7602406, 73.0659953 33.760218, 73.0660116 33.7602162, 73.0660296 33.7602079, 73.066036 33.7601896, 73.0660319 33.7601738, 73.0660202 33.7601609, 73.0660046 33.7601536, 73.0660107 33.7601273, 73.0659505 33.7601176, 73.0659557 33.7600953, 73.0656527 33.7600462, 73.065647 33.7600705, 73.0655828 33.7600601, 73.0655764 33.7600875, 73.0655584 33.7600894, 73.0655448 33.7600993, 73.0655341 33.7601194, 73.0655419 33.760137, 73.0655587 33.760148, 73.0655536 33.7601702))",Monal restaurant,cafe,
+way,375759668,"POLYGON ((73.0663298 33.7602787, 73.0664279 33.760112, 73.0668329 33.760199, 73.0667749 33.7603836, 73.0663298 33.7602787))",گلوریا جینز,cafe,coffee
+way,375759670,"POLYGON ((73.0663994 33.7603786, 73.066413 33.7603169, 73.0668464 33.7604122, 73.066781 33.7605841, 73.0663746 33.7604925, 73.0663878 33.7604563, 73.0663602 33.7604524, 73.0663845 33.760377, 73.0663994 33.7603786))",La Montana Restaurant,restaurant,
+way,375771649,"POLYGON ((72.9281442 33.7295579, 72.9284125 33.7295178, 72.9284312 33.7292724, 72.9281711 33.729288, 72.9281255 33.7294018, 72.9281442 33.7295579))",,restaurant,
+way,377262988,"POLYGON ((73.0387163 33.7117263, 73.0391598 33.7119589, 73.039245 33.7118465, 73.0388015 33.7116139, 73.0387163 33.7117263))",Habibi Resturant,cafe,
+way,391947342,"POLYGON ((72.9958415 33.6640631, 72.9959754 33.6641352, 72.9960561 33.6640314, 72.9959221 33.6639592, 72.9958415 33.6640631))",ویل میڈ ہسپتال,hospital,
+way,432916132,"POLYGON ((73.025093 33.6386017, 73.0272701 33.6397619, 73.0263827 33.6410009, 73.024393 33.639985, 73.0248688 33.6393223, 73.025093 33.6386017))",,,yes
+way,432916133,"POLYGON ((73.0017652 33.619987, 73.0009518 33.6213381, 73.0015217 33.6216424, 73.0024483 33.6203734, 73.0017652 33.619987))",Social Security Hospital,hospital,
+way,456019436,"POLYGON ((73.0674502 33.6623163, 73.0676759 33.6624302, 73.0680129 33.6626003, 73.0681129 33.6626246, 73.0686656 33.6618334, 73.0682606 33.6616116, 73.0680369 33.6614924, 73.0674502 33.6623163))",Islamabad Model School I-8/1 Islamabad,school,
+way,460566939,"POLYGON ((73.07332 33.6699295, 73.0732342 33.6698849, 73.0731644 33.6699697, 73.0732449 33.6700143, 73.07332 33.6699295))",Tuc Shop,,yes
+way,460568003,"POLYGON ((73.0750125 33.6705735, 73.0751198 33.6704195, 73.0752941 33.6705088, 73.0751895 33.6706628, 73.0750125 33.6705735))",De Dhaba - Khoka,,yes
+way,460573326,"POLYGON ((73.0661129 33.6681658, 73.0660942 33.6681859, 73.0660647 33.668168, 73.0660647 33.6681479, 73.0661129 33.6681658))",Image Hair Saloon,,hairdresser
+way,460578807,"POLYGON ((73.0537628 33.6557524, 73.0538508 33.6557986, 73.0539417 33.6557267, 73.05399 33.6556196, 73.0540275 33.6555839, 73.0539095 33.6555437, 73.0538559 33.6555928, 73.0537754 33.6557089, 73.0537628 33.6557524))",New Stylish Restaurant,restaurant,
+way,460578846,"POLYGON ((73.0553847 33.6565037, 73.0555564 33.6565841, 73.0555779 33.6564412, 73.0554652 33.656401, 73.0553847 33.6565037))",Java Hotel,restaurant,
+way,460578985,"POLYGON ((73.0662791 33.6614947, 73.066495 33.6616171, 73.0664085 33.6617227, 73.0661926 33.6616003, 73.0662791 33.6614947))",Haleem Ghar,restaurant,
+way,460579430,"POLYGON ((73.0666406 33.6610262, 73.0667402 33.6610784, 73.0666768 33.6611563, 73.0665588 33.6610983, 73.0666406 33.6610262))",New Stylish Restaurant,restaurant,
+way,460796246,"POLYGON ((73.0707825 33.6630392, 73.0703856 33.6635348, 73.0702568 33.6635438, 73.0701871 33.6637179, 73.0701871 33.6638608, 73.0701463 33.6639286, 73.0700959 33.6640126, 73.0700402 33.6640969, 73.0699779 33.6641912, 73.07023 33.6643251, 73.0705518 33.6645126, 73.0706377 33.6645528, 73.0706967 33.6641867, 73.0707503 33.6639277, 73.0709005 33.6637536, 73.07104 33.6635259, 73.0711848 33.6633428, 73.0712224 33.6632714, 73.0707825 33.6630392))",Islamabad Model School for Girls I-8/1,school,
+way,464342163,"POLYGON ((73.0274619 33.6383608, 73.0277094 33.6380204, 73.0288259 33.6385703, 73.0285917 33.6389704, 73.0274619 33.6383608))",Mandi,,greengrocer
+way,472216187,"POLYGON ((72.9764732 33.7043255, 72.976649 33.7044122, 72.9769497 33.7039902, 72.9767738 33.7039035, 72.9764732 33.7043255))",,school,
+way,472380415,"POLYGON ((73.0492701 33.7071825, 73.0508966 33.7080271, 73.0504631 33.7086048, 73.0488366 33.7077602, 73.0492701 33.7071825))",The Centaurus Mall,,mall
+way,472383520,"POLYGON ((73.0492701 33.7071825, 73.0508966 33.7080271, 73.0504631 33.7086048, 73.0488366 33.7077602, 73.0492701 33.7071825))",The Centaurus Mall,,mall
+way,473046768,"POLYGON ((72.985882 33.6990115, 72.9860283 33.6988245, 72.9865822 33.6991244, 72.986436 33.6993114, 72.985882 33.6990115))",Nandara,restaurant,
+way,473046770,"POLYGON ((72.9860444 33.6988179, 72.9861957 33.6986256, 72.9867514 33.6989281, 72.9866001 33.6991204, 72.9860444 33.6988179))",City Super Store,,supermarket
+way,473629195,"POLYGON ((72.9793024 33.7037042, 72.9791683 33.7036299, 72.9789366 33.7039342, 72.9790846 33.7040108, 72.9793024 33.7037042))",Des Pardes,restaurant,
+way,473630045,"POLYGON ((73.0699879 33.6935358, 73.0699459 33.6934254, 73.070135 33.6933756, 73.070177 33.693486, 73.0699879 33.6935358))",Mini Mart,,yes
+way,474392136,"POLYGON ((73.0733662 33.6881659, 73.073475 33.6884971, 73.0732983 33.688523, 73.073141 33.68851, 73.0730109 33.6884422, 73.0729196 33.6883372, 73.0728886 33.6882725, 73.0733662 33.6881659))",,cafe,
+way,475013369,"POLYGON ((73.1080584 33.5438444, 73.1080549 33.5437323, 73.1080089 33.5437264, 73.1080081 33.5436713, 73.1083203 33.5436468, 73.1083345 33.5438238, 73.1080584 33.5438444))",NLC MI Room Sowan,hospital,
+way,486382009,"POLYGON ((73.0205232 33.6497109, 73.0206378 33.6495677, 73.0208015 33.6496586, 73.0207318 33.6497457, 73.0206621 33.6498327, 73.020616 33.6498071, 73.0206408 33.6497762, 73.0205232 33.6497109))",عسکری بینک,bank,
+way,496319661,"POLYGON ((72.9986467 33.66451, 72.9981317 33.6642421, 72.9985019 33.6637331, 72.9990169 33.6639876, 72.9986467 33.66451))",F G Model School,school,
+way,496321094,"POLYGON ((73.009625 33.6702629, 73.0088853 33.6699221, 73.0096687 33.6688829, 73.0103882 33.669265, 73.009625 33.6702629))",G-10 - G-11 Sunday Bazaar (Itwar Bazar),,supermarket
+way,496328223,"POLYGON ((72.9949427 33.6826425, 72.9947845 33.68256, 72.9950178 33.6822609, 72.995286 33.682406, 72.9951787 33.6825376, 72.9951224 33.6825064, 72.9950876 33.6825287, 72.9950446 33.6825198, 72.9949427 33.6826425))",International Grammar School,school,
+way,498492158,"POLYGON ((73.0340606 33.6917893, 73.0335456 33.6915238, 73.0341008 33.6908052, 73.0346077 33.6910819, 73.0340606 33.6917893))",Islamabad Model School,school,
+way,498929147,"POLYGON ((73.0563681 33.6554923, 73.0566059 33.6556023, 73.0572135 33.6556133, 73.0577771 33.6549196, 73.0570174 33.6545658, 73.0563681 33.6554923))",Federal Government Junior Model School I-9/1,school,
+way,545076146,"POLYGON ((72.9891939 33.6949387, 72.9895988 33.6951442, 72.9894262 33.6953796, 72.9890213 33.6951741, 72.9891939 33.6949387))",Max Mart,,supermarket
+way,549371553,"POLYGON ((73.0192784 33.6916849, 73.0190302 33.6915567, 73.0190366 33.6915482, 73.0189874 33.6915228, 73.0190277 33.6914688, 73.0190004 33.6914547, 73.019066 33.6913668, 73.0191171 33.6913932, 73.0191095 33.6914033, 73.0193831 33.6915446, 73.0192784 33.6916849))",مکڈونلڈز,fast_food,
+way,550213541,"POLYGON ((72.9877758 33.6846918, 72.9878358 33.6846872, 72.9879286 33.6846677, 72.988011 33.6846363, 72.9880952 33.684586, 72.9881567 33.684532, 72.9882045 33.6844719, 72.9882362 33.6844134, 72.988259 33.6843416, 72.9882658 33.6842502, 72.9880033 33.684237, 72.9879999 33.6842858, 72.9879845 33.6843437, 72.9879525 33.6843899, 72.9879167 33.68442, 72.9878726 33.6844429, 72.9878018 33.6844596, 72.9877434 33.6844586, 72.9877758 33.6846918))",Olympus Mall,,mall
+way,550470424,"POLYGON ((72.9876131 33.6858234, 72.9875718 33.6858011, 72.9875515 33.6858273, 72.9875928 33.6858495, 72.9876131 33.6858234))",,cafe,
+way,551073324,"POLYGON ((72.9835075 33.6993634, 72.9835402 33.6993792, 72.9835614 33.6993486, 72.9835287 33.6993329, 72.9835075 33.6993634))",The Alley,cafe,
+way,551204241,"POLYGON ((72.9731081 33.7003264, 72.9732444 33.7003933, 72.9731746 33.7004918, 72.9730383 33.700425, 72.9731081 33.7003264))",Peng Wings,restaurant,
+way,556277375,"POLYGON ((73.0120978 33.69667, 73.0118417 33.6970089, 73.011748 33.6969505, 73.0116436 33.6969054, 73.0118958 33.6965655, 73.0120978 33.69667))",Mavrick Tours Pvt Ltd,,travel_agency
+way,556427724,"POLYGON ((73.0813133 33.7363839, 73.0813572 33.7363574, 73.0813888 33.7363936, 73.0813449 33.73642, 73.0813133 33.7363839))",,cafe,
+way,556801698,"POLYGON ((73.06779 33.7444252, 73.0679039 33.7443842, 73.0678862 33.7443502, 73.0679174 33.7443389, 73.0678451 33.7442004, 73.067873 33.7441904, 73.0678626 33.7441705, 73.0678818 33.7441636, 73.0678563 33.7441148, 73.0676642 33.7441841, 73.06779 33.7444252))",Des Pardes,restaurant,
+way,556801706,"POLYGON ((73.0679605 33.7441688, 73.0680581 33.7444173, 73.0681002 33.7444059, 73.0680025 33.7441574, 73.0679605 33.7441688))",,restaurant,
+way,556804852,"POLYGON ((73.068363 33.7446038, 73.0683791 33.7446028, 73.0683783 33.7445944, 73.0684143 33.7445921, 73.0684135 33.7445837, 73.0684419 33.744582, 73.0684411 33.7445727, 73.0684685 33.744571, 73.0684679 33.7445642, 73.068489 33.7445629, 73.0684759 33.7444189, 73.0684139 33.7444229, 73.0684149 33.7444347, 73.0683767 33.7444371, 73.0683799 33.744472, 73.0683534 33.7444949, 73.068363 33.7446038))",,,yes
+way,556815482,"POLYGON ((73.051839 33.7213946, 73.0519301 33.7214415, 73.0518732 33.7215179, 73.0517821 33.721471, 73.051839 33.7213946))",QB,,supermarket
+way,556815496,"POLYGON ((73.0511089 33.7217575, 73.051245 33.7215927, 73.0510524 33.7214995, 73.051044 33.7215128, 73.0510392 33.7215111, 73.0510174 33.7215397, 73.0510215 33.7215444, 73.0509773 33.7216054, 73.0509725 33.7216014, 73.0509481 33.721631, 73.0509528 33.7216348, 73.050927 33.7216696, 73.0511089 33.7217575))",,restaurant,
+way,557958356,"POLYGON ((72.9895906 33.6834105, 72.9894785 33.6829976, 72.9901401 33.6828732, 72.9902522 33.6832862, 72.9895906 33.6834105))",The MOI Mall,,mall
+way,560495163,"POLYGON ((72.97549 33.6894966, 72.9756992 33.6895172, 72.9756451 33.6898978, 72.9754448 33.6898781, 72.9754691 33.689707, 72.9754369 33.6897038, 72.9754536 33.6895866, 72.9754801 33.6895661, 72.97549 33.6894966))",Golra Hospital,hospital,
+way,562050531,"POLYGON ((73.2098997 33.686659, 73.2101522 33.6867874, 73.2102645 33.6866084, 73.2099745 33.6865073, 73.2098716 33.6865073, 73.2098997 33.686659))",Cafe Macaw,restaurant,
+way,562133147,"POLYGON ((73.2088962 33.6868563, 73.2088503 33.6867762, 73.2090521 33.6866808, 73.2091209 33.6867495, 73.2088962 33.6868563))",Ripple Cash and Carry,,supermarket
+way,564617657,"POLYGON ((73.060672 33.7113508, 73.0606711 33.7113429, 73.0606749 33.7113319, 73.0606806 33.7113208, 73.0606901 33.7113098, 73.0607014 33.7112987, 73.0607147 33.7112932, 73.0607299 33.7112901, 73.0607441 33.7112901, 73.0607593 33.7112948, 73.0607735 33.7113074, 73.060783 33.7113216, 73.0607887 33.7113264, 73.0608077 33.7113279, 73.0608219 33.7113279, 73.0608314 33.7113327, 73.0608399 33.7113413, 73.0608465 33.7113532, 73.0608646 33.7113658, 73.0608872 33.7113814, 73.0608924 33.7113747, 73.0610328 33.711448, 73.0609105 33.7116137, 73.0607957 33.7115585, 73.0607976 33.711534, 73.0607369 33.7115025, 73.0607075 33.7115127, 73.0606117 33.7114662, 73.0606042 33.7114614, 73.0605985 33.7114551, 73.0605947 33.7114465, 73.0605947 33.7114401, 73.0605947 33.7114315, 73.0605994 33.7114244, 73.0606089 33.7114173, 73.060626 33.7114007, 73.060662 33.711366, 73.060672 33.7113508))",UBL Limited,bank,
+way,568899686,"POLYGON ((73.039019 33.709945, 73.0390722 33.7098781, 73.0392429 33.7099722, 73.0391897 33.710039, 73.039019 33.709945))",,,gas
+way,570158044,"POLYGON ((73.0540634 33.658464, 73.0541639 33.6585168, 73.0541619 33.6585201, 73.0543991 33.6586485, 73.0546797 33.6582823, 73.0546861 33.6582644, 73.0547857 33.6581336, 73.0545456 33.6580078, 73.0545152 33.6580491, 73.0544125 33.6579984, 73.0543442 33.6580918, 73.0543155 33.6581184, 73.0542924 33.6581403, 73.0542748 33.6581622, 73.0542605 33.6581854, 73.0542461 33.6582133, 73.0542421 33.6582279, 73.0540634 33.658464))",Classic Motors,,car
+way,570220266,"POLYGON ((72.9987998 33.6761469, 72.9994197 33.6764715, 72.9998422 33.6759128, 72.9992223 33.6755882, 72.9987998 33.6761469))",Beaconhouse School System,school,
+way,570937658,"POLYGON ((73.0637594 33.6774351, 73.0637156 33.6763656, 73.0642333 33.6766312, 73.0646365 33.676058, 73.0648868 33.6761856, 73.064747 33.6763902, 73.0646951 33.6764634, 73.0646951 33.6765066, 73.0647132 33.6765685, 73.0647402 33.6766192, 73.0647944 33.676653, 73.0649252 33.6767318, 73.0650876 33.6768501, 73.0651101 33.6768689, 73.0651282 33.6769158, 73.0651304 33.6770209, 73.0650741 33.6781039, 73.0637594 33.6774351))",National Institute of Banking and Finance,school,
+way,575341077,"POLYGON ((73.0128001 33.6726358, 73.0128331 33.6726895, 73.012885 33.6727529, 73.0129483 33.6728213, 73.0130073 33.6728769, 73.0130583 33.6729242, 73.0131278 33.6729859, 73.0132267 33.6730618, 73.0133139 33.6731217, 73.0133791 33.6731594, 73.0134221 33.6731856, 73.0139287 33.6734595, 73.0144895 33.6727075, 73.0134967 33.6721973, 73.0129271 33.6724067, 73.0129301 33.6724194, 73.0129383 33.6724355, 73.0129465 33.6724457, 73.0128675 33.6724895, 73.0128397 33.672477, 73.012815 33.672465, 73.0127952 33.6724603, 73.0127776 33.6724612, 73.0127197 33.6724819, 73.0127713 33.6725817, 73.0128001 33.6726358))",,school,
+way,595938794,"POLYGON ((73.1209279 33.73181, 73.1216907 33.7307733, 73.1232282 33.7315557, 73.1224654 33.7325924, 73.1209279 33.73181))",,school,
+way,619698935,"POLYGON ((73.1648481 33.5330617, 73.1647136 33.5328918, 73.1653756 33.5325276, 73.1655101 33.5326976, 73.1648481 33.5330617))",J-Mart,,supermarket
+way,670473305,"POLYGON ((72.9918848 33.6419296, 72.9916702 33.6419363, 72.9916434 33.6417442, 72.9918553 33.6416839, 72.9918848 33.6419296))",Central Library Cafe,cafe,
+way,670478873,"POLYGON ((72.9880538 33.6393605, 72.9880916 33.6393062, 72.9881609 33.6393396, 72.98815 33.6393553, 72.9881809 33.6393702, 72.9881633 33.6393954, 72.9881335 33.639381, 72.9881241 33.6393944, 72.9880538 33.6393605))",RETRO,cafe,
+way,670479588,"POLYGON ((72.9887501 33.6357969, 72.9888475 33.6358269, 72.9889569 33.6358531, 72.9891247 33.6358381, 72.9893136 33.6358444, 72.9893735 33.6357283, 72.9893286 33.635651, 72.9891307 33.6355873, 72.9889419 33.6355898, 72.9887875 33.6355936, 72.9887486 33.6356996, 72.9887501 33.6357969))",c4,cafe,
+way,672221326,"POLYGON ((73.1800183 33.6455626, 73.1800218 33.6454227, 73.179767 33.6454168, 73.1797635 33.645539, 73.1798006 33.6455582, 73.1798431 33.6455656, 73.1800183 33.6455626))",Al Harmain Plaza,,mall
+way,672221327,"POLYGON ((73.1798803 33.6455037, 73.179928 33.6455052, 73.1799245 33.6454403, 73.179882 33.6454374, 73.1798803 33.6455037))",Healthcare Pharmacy,,chemist
+way,672221749,"POLYGON ((73.1793843 33.6451264, 73.1795467 33.6451286, 73.1795343 33.6450679, 73.1793547 33.6450469, 73.1793312 33.6450631, 73.1793843 33.6451264))",Khan Zaman Shopping Center,,mall
+way,679423593,"POLYGON ((73.023451 33.6747213, 73.0234893 33.6746788, 73.0234459 33.6746563, 73.0234102 33.6747011, 73.023451 33.6747213))",MYU Cafe,cafe,
+way,685495369,"POLYGON ((73.0093491 33.7007528, 73.0094717 33.7005693, 73.0091767 33.7004221, 73.0090441 33.7005986, 73.0093491 33.7007528))",khan cafe,cafe,
+way,693578265,"POLYGON ((73.0763273 33.7175453, 73.0773714 33.7181098, 73.0786529 33.7164083, 73.077566 33.7158635, 73.0768921 33.7167676, 73.0763273 33.7175453))",Islamabad Model College for Boys,school,
+way,707380017,"POLYGON ((73.131558 33.5358156, 73.1319272 33.5356363, 73.1319487 33.5355766, 73.1319362 33.5355123, 73.1317614 33.5353173, 73.131722 33.5353054, 73.1314307 33.5354384, 73.1313948 33.5354989, 73.1312246 33.5355751, 73.1312398 33.5358104, 73.1313272 33.5364452, 73.1315503 33.5364123, 73.1315091 33.5360776, 73.1314723 33.5357818, 73.1315351 33.5357766, 73.131558 33.5358156))",,school,
+way,708273200,"POLYGON ((72.9904999 33.6887551, 72.9912365 33.6891274, 72.9919538 33.6881832, 72.9914056 33.6878943, 72.9911944 33.6881743, 72.9910059 33.6880739, 72.9906907 33.6884983, 72.9904999 33.6887551))",Islamabad Model College for Girls F-11/3,school,
+way,731112551,"POLYGON ((73.0635006 33.7091985, 73.0629953 33.708923, 73.0623329 33.7097995, 73.0633696 33.7103506, 73.063821 33.7097483, 73.0636423 33.709647, 73.0634513 33.7095432, 73.0636254 33.709319, 73.0635006 33.7091985))",Islamabad Junior Model School No.1 G-7/2,school,
+way,775459808,"POLYGON ((73.1335958 33.5293277, 73.1335801 33.5292937, 73.133621 33.5292806, 73.1332313 33.5287907, 73.1329533 33.5289623, 73.1333225 33.5294377, 73.1335958 33.5293277))",Headstart School GT Road Branch,school,
+way,775459811,"POLYGON ((73.1345127 33.5289458, 73.1340854 33.5284211, 73.1339234 33.5282218, 73.1342181 33.5280393, 73.1348474 33.5287825, 73.1345127 33.5289458))",The City School DHA Campus,school,
+way,775459812,"POLYGON ((73.1349862 33.5286757, 73.1347806 33.5283607, 73.1344895 33.5279145, 73.1342181 33.5280393, 73.1348474 33.5287825, 73.1349862 33.5286757))",Roots Internation Schools Richmond Campus,school,
+way,775459813,"POLYGON ((73.1344889 33.5279055, 73.1347548 33.5277503, 73.1350703 33.528366, 73.1352069 33.5285756, 73.1349862 33.5286757, 73.1347806 33.5283607, 73.1344889 33.5279055))",City School,school,
+way,775459818,"POLYGON ((73.1277703 33.5354198, 73.1279014 33.5352294, 73.1283623 33.5353354, 73.1285153 33.5352095, 73.1286504 33.5352725, 73.1283663 33.5356036, 73.1277703 33.5354198))",Amazon Mall,,mall
+way,780222416,"POLYGON ((73.0090763 33.6773283, 73.0094384 33.6768513, 73.009577 33.6768752, 73.0097906 33.6769868, 73.0103597 33.6772169, 73.0099363 33.6777968, 73.0090763 33.6773283))",,school,
+way,781869616,"POLYGON ((73.1589619 33.5231824, 73.1586024 33.5232047, 73.1585622 33.5228894, 73.158345 33.5229051, 73.1583011 33.5221192, 73.1584305 33.5221931, 73.1588084 33.5220155, 73.1593852 33.521811, 73.1597461 33.5217064, 73.1598792 33.5216864, 73.1598899 33.5217658, 73.1599811 33.5217625, 73.1600026 33.5218407, 73.1601635 33.5218631, 73.160547 33.5220241, 73.1605873 33.5223461, 73.1606168 33.5231377, 73.1589619 33.5231824))",,school,
+way,782031685,"POLYGON ((72.9878298 33.6800636, 72.9873648 33.678629, 72.98883 33.6783374, 72.9890884 33.6792799, 72.9890368 33.6792958, 72.988098 33.6795681, 72.9880014 33.6800413, 72.9878298 33.6800636))",Islamabad Model College for Girls,school,
+way,782031691,"POLYGON ((72.9853926 33.6764685, 72.9852686 33.6759171, 72.9857036 33.6755398, 72.9866346 33.6756413, 72.9865207 33.6759898, 72.9865289 33.6762452, 72.9853926 33.6764685))",Islamabad Model College for Boys,school,
+way,820438296,"POLYGON ((72.9631433 33.6500932, 72.9596235 33.6482903, 72.9589538 33.6491897, 72.9625287 33.6510063, 72.9631433 33.6500932))",جی-13 مركز ب,,yes
+way,848726318,"POLYGON ((73.1746747 33.5200332, 73.1746503 33.5198231, 73.1748332 33.5198146, 73.1748597 33.5200248, 73.1746747 33.5200332))",Old Mess Hall,cafe,
+way,848727626,"POLYGON ((73.1740709 33.5211898, 73.1740692 33.5211382, 73.1740674 33.5210423, 73.1740831 33.5210389, 73.174078 33.5209813, 73.1742518 33.5209669, 73.1742497 33.5209135, 73.1743087 33.5209118, 73.1743087 33.5209304, 73.1743963 33.5209259, 73.1743989 33.5209749, 73.1745672 33.5209685, 73.1745867 33.5209758, 73.1746055 33.5211608, 73.1740709 33.5211898))",New Mess Hall,restaurant,
+way,978724677,"POLYGON ((72.9700852 33.6148357, 72.9702183 33.6140859, 72.9694549 33.6139949, 72.9694447 33.6140897, 72.9691743 33.6140677, 72.9691047 33.6147667, 72.9700852 33.6148357))",Islamabad Model School for Boys,school,
+way,980188264,"POLYGON ((73.1997926 33.4948624, 73.1998235 33.4944223, 73.1998439 33.4941311, 73.1999316 33.4928827, 73.2014549 33.493311, 73.201208 33.4945406, 73.1997926 33.4948624))",Army Public school Rawat,school,
+way,980826232,"POLYGON ((72.8727878 33.6474472, 72.8729749 33.6481211, 72.873581 33.6484495, 72.8739308 33.6480296, 72.8727837 33.6474066, 72.8727878 33.6474472))",,school,
+way,981703456,"POLYGON ((72.9697043 33.6202913, 72.9701545 33.6200885, 72.9697502 33.6194612, 72.9693028 33.6196703, 72.9697043 33.6202913))",Islamabad Model School for Girls I-14/3,school,
+way,981713099,"POLYGON ((72.969948 33.6249522, 72.9699727 33.6248859, 72.9698683 33.6248771, 72.969856 33.6249522, 72.969948 33.6249522))",Cheezious,fast_food,
+way,996254508,"POLYGON ((73.1299131 33.5663313, 73.1300722 33.5661547, 73.1300352 33.5661262, 73.1300255 33.566136, 73.1298079 33.5660681, 73.1298003 33.566078, 73.1297909 33.5660745, 73.1297847 33.5660821, 73.1297659 33.5660737, 73.129667 33.5661729, 73.1299131 33.5663313))",شفیع انٹرنیشنل ہسپتال,hospital,
+way,1006599652,"POLYGON ((73.0443661 33.6648138, 73.044536 33.6648896, 73.044627 33.6647625, 73.0444539 33.6646824, 73.0443661 33.6648138))",IU cafe,cafe,
+way,1056121375,"POLYGON ((72.9969641 33.646326, 72.9969747 33.6463819, 72.9971339 33.6464762, 72.9970171 33.6466088, 72.9968614 33.6465175, 72.9967836 33.6465587, 72.9967269 33.6464762, 72.9968154 33.6464291, 72.9968473 33.6463849, 72.9968473 33.6463171, 72.9969641 33.646326))",NSTP Cafe,cafe,
+way,1084992751,"POLYGON ((73.0422433 33.6873356, 73.042499 33.6870085, 73.04293 33.6864572, 73.0436681 33.68685, 73.0433873 33.6872244, 73.0429986 33.6877427, 73.0422433 33.6873356))",Federal Government Junior Model School No. 38,school,
+way,1096475315,"POLYGON ((73.0875222 33.7121218, 73.0876417 33.7121855, 73.0877153 33.71209, 73.0875957 33.7120263, 73.0875222 33.7121218))",,,kiosk
+way,1096475316,"POLYGON ((73.0870589 33.7121923, 73.0871255 33.7122265, 73.087317 33.7119793, 73.0872504 33.7119451, 73.0870589 33.7121923))",,,kiosk
+way,1096475317,"POLYGON ((73.0871478 33.7122377, 73.0872124 33.712273, 73.0874069 33.7120267, 73.0873422 33.7119914, 73.0871478 33.7122377))",,,kiosk
+way,1096475318,"POLYGON ((73.0872377 33.7122824, 73.0872986 33.7123157, 73.0874876 33.7120771, 73.0874267 33.7120437, 73.0872377 33.7122824))",,,kiosk
+way,1096475319,"POLYGON ((73.0873317 33.7123247, 73.0873948 33.7123588, 73.087523 33.7121948, 73.08746 33.7121606, 73.0873317 33.7123247))",,,kiosk
+way,1096475320,"POLYGON ((73.0874379 33.7123834, 73.0874993 33.7124166, 73.0876295 33.7122501, 73.0875681 33.7122169, 73.0874379 33.7123834))",,,kiosk
+way,1096475321,"POLYGON ((73.0877123 33.7121911, 73.0877778 33.7122259, 73.0875954 33.7124635, 73.08753 33.7124288, 73.0877123 33.7121911))",,,kiosk
+way,1096475322,"POLYGON ((73.0876148 33.7124697, 73.0876787 33.7125039, 73.0878611 33.7122681, 73.0877973 33.7122339, 73.0876148 33.7124697))",,,kiosk
+way,1096475323,"POLYGON ((73.0877022 33.7125159, 73.0877664 33.7125515, 73.0879538 33.7123178, 73.0878895 33.7122821, 73.0877022 33.7125159))",,,kiosk
+way,1096475324,"POLYGON ((73.0877829 33.7125581, 73.0878435 33.7125923, 73.0880321 33.7123616, 73.0879715 33.7123273, 73.0877829 33.7125581))",,,kiosk
+way,1096475325,"POLYGON ((73.0880732 33.7123798, 73.0881134 33.7124024, 73.0879354 33.7126208, 73.0878952 33.7125981, 73.0880732 33.7123798))",,,kiosk
+way,1096475326,"POLYGON ((73.087284 33.711902, 73.0873512 33.7119384, 73.0877455 33.711435, 73.0876781 33.7113985, 73.087284 33.711902))",,,kiosk
+way,1096475327,"POLYGON ((73.0873785 33.7119459, 73.0874395 33.7119783, 73.0878221 33.71148, 73.087761 33.7114475, 73.0873785 33.7119459))",,,kiosk
+way,1096475328,"POLYGON ((73.0874601 33.7119932, 73.0875226 33.712027, 73.0879126 33.7115278, 73.0878499 33.7114939, 73.0874601 33.7119932))",,,kiosk
+way,1096475329,"POLYGON ((73.087608 33.7119624, 73.0876737 33.7119971, 73.0879457 33.7116409, 73.0878799 33.7116061, 73.087608 33.7119624))",,,kiosk
+way,1096475330,"POLYGON ((73.0877179 33.7120207, 73.0877853 33.7120559, 73.0880553 33.7116989, 73.0879878 33.7116636, 73.0877179 33.7120207))",,,kiosk
+way,1096475331,"POLYGON ((73.0877518 33.7121444, 73.0878151 33.712178, 73.0881989 33.7116767, 73.0881357 33.7116432, 73.0877518 33.7121444))",,,kiosk
+way,1096475332,"POLYGON ((73.087831 33.7121917, 73.0878971 33.7122268, 73.0882852 33.7117204, 73.088219 33.7116853, 73.087831 33.7121917))",,,kiosk
+way,1096475333,"POLYGON ((73.0879269 33.7122344, 73.0879887 33.7122672, 73.0883743 33.7117647, 73.0883127 33.711732, 73.0879269 33.7122344))",,,kiosk
+way,1096475334,"POLYGON ((73.088005 33.7122795, 73.0880672 33.7123122, 73.088453 33.7118057, 73.0883908 33.7117729, 73.088005 33.7122795))",,,kiosk
+way,1096475335,"POLYGON ((73.0880899 33.7123296, 73.0881166 33.7122962, 73.0881631 33.712322, 73.0881365 33.7123554, 73.0880899 33.7123296))",,,kiosk
+way,1096475336,"POLYGON ((73.0881861 33.7123784, 73.0882043 33.7123485, 73.0882548 33.7123698, 73.0882366 33.7123996, 73.0881861 33.7123784))",,,kiosk
+way,1096475337,"POLYGON ((73.0881195 33.7122817, 73.0881816 33.7123148, 73.0885368 33.7118531, 73.0884749 33.7118201, 73.0881195 33.7122817))",,,kiosk
+way,1096475338,"POLYGON ((73.0882103 33.7123256, 73.0882744 33.7123592, 73.0886254 33.7118955, 73.0885611 33.7118619, 73.0882103 33.7123256))",,,kiosk
+way,1096475340,"POLYGON ((73.0877153 33.7113392, 73.0877816 33.7113741, 73.088161 33.7108756, 73.0880948 33.7108407, 73.0877153 33.7113392))",,,kiosk
+way,1096475341,"POLYGON ((73.0878 33.7113872, 73.087866 33.7114219, 73.0882488 33.7109177, 73.0881827 33.710883, 73.0878 33.7113872))",,,kiosk
+way,1096475342,"POLYGON ((73.0878879 33.7114311, 73.0879551 33.7114658, 73.0883347 33.7109582, 73.0882673 33.7109234, 73.0878879 33.7114311))",,,kiosk
+way,1096475343,"POLYGON ((73.0880317 33.7114011, 73.0880999 33.7114363, 73.0883619 33.7110844, 73.0882936 33.7110493, 73.0880317 33.7114011))",,,kiosk
+way,1096475344,"POLYGON ((73.088148 33.7114646, 73.0882093 33.711496, 73.0884739 33.7111389, 73.0884125 33.7111075, 73.088148 33.7114646))",,,kiosk
+way,1096475345,"POLYGON ((73.0881793 33.7115809, 73.0882426 33.7116139, 73.0886189 33.7111154, 73.0885555 33.7110823, 73.0881793 33.7115809))",,,kiosk
+way,1096475346,"POLYGON ((73.0882634 33.7116268, 73.0883315 33.7116612, 73.0886946 33.7111641, 73.0886266 33.7111297, 73.0882634 33.7116268))",,,kiosk
+way,1096475347,"POLYGON ((73.0883537 33.7116704, 73.0884225 33.7117055, 73.0887907 33.7112072, 73.0887218 33.711172, 73.0883537 33.7116704))",,,kiosk
+way,1096475348,"POLYGON ((73.0884366 33.7117208, 73.088497 33.7117513, 73.0888685 33.7112419, 73.088808 33.7112114, 73.0884366 33.7117208))",,,kiosk
+way,1096475349,"POLYGON ((73.0885162 33.7117606, 73.0885804 33.7117934, 73.088954 33.7112872, 73.0888897 33.7112543, 73.0885162 33.7117606))",,,kiosk
+way,1096475350,"POLYGON ((73.0885945 33.7118023, 73.0886633 33.7118377, 73.0890356 33.7113359, 73.0889667 33.7113005, 73.0885945 33.7118023))",,,kiosk
+way,1096475351,"POLYGON ((73.0881234 33.710787, 73.0881858 33.7108195, 73.0883689 33.7105764, 73.0883066 33.7105439, 73.0881234 33.710787))",,,kiosk
+way,1096475352,"POLYGON ((73.0882105 33.7108336, 73.088276 33.7108674, 73.0884564 33.7106259, 73.0883909 33.710592, 73.0882105 33.7108336))",,,kiosk
+way,1096475353,"POLYGON ((73.0883018 33.7108809, 73.0883649 33.7109132, 73.0885429 33.7106721, 73.0884799 33.7106399, 73.0883018 33.7108809))",,,kiosk
+way,1096475354,"POLYGON ((73.0884384 33.7108541, 73.0885025 33.7108874, 73.088602 33.7107549, 73.0885379 33.7107216, 73.0884384 33.7108541))",,,kiosk
+way,1096475355,"POLYGON ((73.088367 33.7110124, 73.0884806 33.7110734, 73.0885554 33.710977, 73.0884418 33.710916, 73.088367 33.7110124))",,,kiosk
+way,1096475356,"POLYGON ((73.0885507 33.7109111, 73.0886109 33.7109422, 73.0887113 33.7108079, 73.0886511 33.7107768, 73.0885507 33.7109111))",,,kiosk
+way,1096475357,"POLYGON ((73.0885831 33.7110298, 73.0886457 33.711063, 73.0888317 33.7108201, 73.0887691 33.7107869, 73.0885831 33.7110298))",,,kiosk
+way,1096475358,"POLYGON ((73.0886687 33.7110722, 73.0887307 33.7111044, 73.0889137 33.7108606, 73.0888515 33.7108283, 73.0886687 33.7110722))",,,kiosk
+way,1096475359,"POLYGON ((73.0887541 33.7111181, 73.0888161 33.7111508, 73.0890045 33.7109029, 73.0889425 33.7108703, 73.0887541 33.7111181))",,,kiosk
+way,1096475360,"POLYGON ((73.0888453 33.7111596, 73.0889152 33.7111955, 73.0891169 33.7109237, 73.0890472 33.7108878, 73.0888453 33.7111596))",,,kiosk
+way,1096475361,"POLYGON ((73.0889338 33.7112207, 73.0890699 33.7112913, 73.0891441 33.7111923, 73.0890081 33.7111217, 73.0889338 33.7112207))",,,kiosk
+way,1096475362,"POLYGON ((73.0890168 33.7111089, 73.0891478 33.711179, 73.0892233 33.7110813, 73.0890924 33.7110113, 73.0890168 33.7111089))",,,kiosk
+way,1096475363,"POLYGON ((73.0891008 33.7109975, 73.0892336 33.7110686, 73.0893101 33.7109697, 73.0891773 33.7108986, 73.0891008 33.7109975))",,,kiosk
+way,1096475364,"POLYGON ((73.0891867 33.7108814, 73.0893242 33.7109565, 73.0893988 33.710862, 73.0892614 33.7107868, 73.0891867 33.7108814))",,,kiosk
+way,1128176896,"POLYGON ((72.9515129 33.6073242, 72.9503291 33.6067255, 72.9509764 33.6053882, 72.9518347 33.6068715, 72.9515129 33.6073242))",,school,
+way,1146010599,"POLYGON ((73.1595529 33.5211167, 73.161003 33.5206719, 73.1610646 33.520592, 73.1609688 33.5202869, 73.1608765 33.5201444, 73.1596316 33.5204951, 73.1597034 33.5205493, 73.1594948 33.5209912, 73.1595529 33.5211167))",,,mall
+way,1146074472,"POLYGON ((73.1410297 33.5382347, 73.1409286 33.5389325, 73.1415014 33.5390621, 73.1424552 33.5385868, 73.1424967 33.5383449, 73.1410297 33.5382347))",FG College for Girls,school,
+way,1146074473,"POLYGON ((73.1384078 33.5396982, 73.1384517 33.5393301, 73.1396887 33.5394226, 73.1396385 33.5398116, 73.1384078 33.5396982))",FG Girls School Model Town Humak,school,
+way,1146074474,"POLYGON ((73.1370253 33.5395612, 73.1371261 33.5387463, 73.138331 33.5388499, 73.1382302 33.5396646, 73.1370253 33.5395612))",FG Boys SChool Model Town Humak,school,
+way,1146083376,"POLYGON ((73.1136516 33.5417658, 73.1135604 33.5411419, 73.1144258 33.5409562, 73.1146121 33.5415802, 73.1138963 33.5417415, 73.1136516 33.5417658))",,,mall
+way,1146083379,"POLYGON ((73.11446 33.5439675, 73.1144215 33.5438612, 73.115139 33.5436811, 73.1151552 33.5436622, 73.1151746 33.5435921, 73.1150676 33.5432826, 73.1152036 33.543256, 73.1153428 33.5437161, 73.1153105 33.5437539, 73.11446 33.5439675))",Best Western Rawalpindi Central,,mall
+way,1146083380,"POLYGON ((73.1136992 33.5437296, 73.1136424 33.5435575, 73.1148527 33.5432801, 73.1149094 33.543452, 73.1136992 33.5437296))",,,mall
+way,1146083381,"POLYGON ((73.1149271 33.5429055, 73.1148819 33.5427769, 73.1150923 33.5427256, 73.1151374 33.5428542, 73.1149271 33.5429055))",Bunyad Plaza,,mall
+way,1146083382,"POLYGON ((73.1150676 33.5432826, 73.1149907 33.5430093, 73.1151268 33.5429827, 73.1152036 33.543256, 73.1150676 33.5432826))",The Plaza Paradise,,mall
+way,1146093895,"POLYGON ((73.1584279 33.5419194, 73.1584466 33.5414512, 73.1585317 33.5414268, 73.1585397 33.5413004, 73.1591334 33.5413425, 73.1590775 33.5419571, 73.1584279 33.5419194))",Area Education Office Sihala,school,
+way,1147842232,"POLYGON ((73.1950018 33.5015394, 73.1953047 33.5017862, 73.195408 33.5017311, 73.195273 33.5016404, 73.195335 33.5015956, 73.1952951 33.5015463, 73.1952675 33.5015704, 73.1950954 33.5014326, 73.1950018 33.5015394))",Green Leaves School powered by Taleemabad,school,
+way,1157424465,"POLYGON ((72.8580165 33.6589475, 72.8586147 33.6591406, 72.8584749 33.6593398, 72.8579105 33.6591547, 72.8580165 33.6589475))",J7 Mall,,mall
+way,1159499773,"POLYGON ((73.1327865 33.7444773, 73.1331432 33.7444974, 73.1332049 33.744358, 73.1333658 33.7442922, 73.1333967 33.7441874, 73.1333618 33.7441294, 73.133111 33.7441171, 73.1329527 33.7440369, 73.1328052 33.7440335, 73.1326443 33.744203, 73.1326604 33.7443112, 73.132651 33.7444071, 73.1326711 33.7444874, 73.1327865 33.7444773))",Quaidian Hut,restaurant,
+way,1190677625,"POLYGON ((73.1174948 33.6300153, 73.117697 33.6300543, 73.1177645 33.6298119, 73.1175623 33.6297729, 73.1174948 33.6300153))",Taqwa Islamic Banking,bank,
+way,1190814332,"POLYGON ((73.0649872 33.6988984, 73.065048 33.6988139, 73.0650762 33.6987747, 73.0652171 33.6988418, 73.0651346 33.698964, 73.0649872 33.6988984))",,restaurant,
+way,1210807106,"POLYGON ((73.052006 33.7226498, 73.0527047 33.7217437, 73.0533438 33.7220714, 73.052665 33.7229886, 73.052006 33.7226498))",Federal Government Junior Model School F-7/2-4,school,
+way,1210807510,"POLYGON ((73.052718 33.7230464, 73.053463 33.7220907, 73.0536816 33.7222009, 73.0536186 33.7223689, 73.053559 33.7225548, 73.0534729 33.7227572, 73.0532941 33.72295, 73.0531286 33.7230877, 73.0530491 33.7231373, 73.0529994 33.7231924, 73.052718 33.7230464))",Froebel's International School,school,
+way,1216651729,"POLYGON ((73.1431662 33.7499289, 73.143303 33.7499458, 73.1433211 33.7498447, 73.1431842 33.7498279, 73.1431662 33.7499289))",Karachi Huts,fast_food,
+way,1217787458,"POLYGON ((73.0443537 33.7159766, 73.0430933 33.7153068, 73.0439019 33.7142424, 73.0448622 33.7147501, 73.0443537 33.7159766))",Azaan Khan Shaheed Model School for Boys,school,
+way,1255271727,"POLYGON ((73.2016836 33.5685002, 73.2016871 33.5685612, 73.2015895 33.5685641, 73.2015825 33.5684973, 73.2016836 33.5685002))",,,supermarket
+way,1264730480,"POLYGON ((73.170059 33.7248458, 73.1703413 33.7249607, 73.170326 33.7249828, 73.1704661 33.7250371, 73.1705143 33.7249466, 73.1705725 33.7249652, 73.1707037 33.7247195, 73.1701754 33.7245786, 73.170059 33.7248458))","The Excellence School, Chaudhary Street, Jilani Town",school,
+way,1264751279,"POLYGON ((73.0405034 33.6484005, 73.0405565 33.6483313, 73.0404352 33.6482709, 73.0403848 33.6483438, 73.040437 33.6483784, 73.0405034 33.6484005))",Waltom Chemist & Medicine,,chemist
+way,1264814396,"POLYGON ((73.0601071 33.6573319, 73.0613724 33.6579948, 73.0615325 33.6577918, 73.062049 33.6580888, 73.0631951 33.6565725, 73.0630084 33.6562058, 73.0623984 33.6558685, 73.0614372 33.6571439, 73.0606067 33.6567061, 73.0601071 33.6573319))",Usama bin Tariq Shaheed Model School for Boys I-9/4,school,
+way,1308568720,"POLYGON ((73.0300425 33.6802562, 73.0307296 33.6804998, 73.0309791 33.6802998, 73.0312872 33.6802844, 73.031774 33.6805331, 73.031925 33.6804819, 73.0322701 33.6803434, 73.032532 33.6803767, 73.0325751 33.6802793, 73.0318018 33.6798537, 73.0307265 33.6793281, 73.0300425 33.6802562))",Federal Government Junior Model School No # 2,school,
+way,1308575030,"POLYGON ((73.0265263 33.6910506, 73.0269658 33.6904577, 73.0275302 33.6907473, 73.0273614 33.6909751, 73.0275666 33.6910804, 73.0272959 33.6914456, 73.0265263 33.6910506))",Islamabad Model School (IV) No.1 G-9/2,school,
+way,1308575033,"POLYGON ((73.0386807 33.6845281, 73.0380685 33.6842292, 73.0375296 33.6849734, 73.037515 33.685373, 73.0378266 33.6855835, 73.0382298 33.6851382, 73.0386807 33.6845281))",Federal Government School,school,
+way,1308579585,"POLYGON ((72.9994714 33.6914853, 73.0003509 33.69193, 73.0009374 33.6911268, 73.0000578 33.6906821, 72.9994714 33.6914853))",Islamabad Model School F-10/2,school,
+way,1308582508,"POLYGON ((73.0457076 33.7105634, 73.0446909 33.7100739, 73.0447494 33.7094434, 73.0452578 33.709164, 73.0454119 33.709123, 73.0464101 33.7096382, 73.0457076 33.7105634))",Fatima School,school,
+way,1308584579,"POLYGON ((73.0693261 33.7301386, 73.0704778 33.7307265, 73.0705099 33.7305312, 73.0706405 33.7302796, 73.070871 33.7298429, 73.0699504 33.7293448, 73.0693261 33.7301386))",Islamabad Model School for Boys No. 8 F-6/2,school,
+way,1308584585,"POLYGON ((73.0772811 33.7264063, 73.0782929 33.7269157, 73.078845 33.7260886, 73.0779107 33.7255823, 73.0772811 33.7264063))",Islamabad Model School for Girls F-6/1,school,
+way,1308655024,"POLYGON ((73.0812878 33.7147108, 73.0822505 33.7152084, 73.0830751 33.7141809, 73.0820452 33.713651, 73.0812878 33.7147108))",Islamabad Model School for Girls G-6/2,school,
+way,1308666775,"POLYGON ((73.0697139 33.7094391, 73.07034 33.7085682, 73.071706 33.709297, 73.0710738 33.7101459, 73.0697139 33.7094391))",Islamabad Model for School for Boys G-7/3,school,
+way,1308666776,"POLYGON ((73.0678396 33.7087056, 73.0682768 33.7080802, 73.0694191 33.7086704, 73.0689516 33.7092774, 73.0682572 33.7089203, 73.0678396 33.7087056))",Islamabad Model School G-7/3,school,
+way,1308666778,"POLYGON ((73.0724275 33.7106508, 73.0728689 33.7100396, 73.0739888 33.7106317, 73.0736052 33.7111583, 73.0735375 33.711125, 73.0734789 33.7111929, 73.0729347 33.7109123, 73.0724275 33.7106508))",Federal Government Primary School No. 5 G-7/3,school,
+way,1308666780,"POLYGON ((73.0708198 33.7135031, 73.0712822 33.7129308, 73.0721459 33.7133547, 73.0716711 33.7140686, 73.0713305 33.713908, 73.0713761 33.7138366, 73.0711803 33.7137741, 73.0712044 33.7137027, 73.0708198 33.7135031))",Islamabad Model School for Girls G-7/3,school,
+way,1308666784,"POLYGON ((73.0751598 33.709063, 73.0757022 33.708309, 73.0743546 33.7076381, 73.0738121 33.7083923, 73.0751598 33.709063))",Islamabad Model School G-7/4 - Blended E-Learning,school,
+way,1308666789,"POLYGON ((73.0620348 33.7025632, 73.0630732 33.7030898, 73.062645 33.7039292, 73.0621502 33.7037227, 73.061646 33.7034237, 73.0615548 33.7031604, 73.0620348 33.7025632))",Federal Government Primary School G-7/2,school,
+way,1308666790,"POLYGON ((73.0660586 33.7099208, 73.0662746 33.7100106, 73.0668487 33.7103589, 73.0673526 33.7106356, 73.0677171 33.7101527, 73.0675649 33.7100791, 73.0677985 33.7097965, 73.0668394 33.7093137, 73.06662 33.7095963, 73.0662625 33.7094344, 73.066085 33.7098462, 73.0660586 33.7099208))",Federal Government Middle Model School G-7/3-2,school,
+way,1308666791,"POLYGON ((73.0660445 33.7099428, 73.0665327 33.7102016, 73.0671335 33.7105475, 73.065948 33.710572, 73.0660445 33.7099428))",Islamabad Model School for Girls G-7/3-2,school,
+way,1308679123,"POLYGON ((73.0474002 33.6915769, 73.046723 33.6912349, 73.0464008 33.6903257, 73.0465035 33.6894864, 73.0478034 33.6902024, 73.0481754 33.6904073, 73.0474002 33.6915769))",Islamabad Model School for Boys G-8/1,school,
+way,1308679124,"POLYGON ((73.0492489 33.6891833, 73.0484172 33.6887416, 73.0487814 33.6881967, 73.0496786 33.6886385, 73.0492489 33.6891833))",Islamabad Model School No.3 G-8/1,school,
+way,1308679126,"POLYGON ((73.0449842 33.6897037, 73.0458808 33.6901831, 73.0461057 33.6898781, 73.0461704 33.689573, 73.0461273 33.6893269, 73.045545 33.6890398, 73.0449842 33.6897037))",Federal Government Middle School No.1 G-8/1,school,
+way,1308679128,"POLYGON ((73.0435802 33.6949648, 73.0440686 33.6952229, 73.0445846 33.6954955, 73.0440547 33.6961697, 73.0433799 33.6958979, 73.0431827 33.6954468, 73.0434508 33.6948982, 73.0435802 33.6949648))",Federal Government Junior School No. 34,school,
+way,1309658636,"POLYGON ((73.070299 33.6817111, 73.0698001 33.6814923, 73.0704948 33.6805259, 73.0709615 33.6807759, 73.070299 33.6817111))",JMS School System,school,
+way,1309892026,"POLYGON ((73.0740595 33.6625521, 73.0738717 33.6623378, 73.0737779 33.6619449, 73.0734828 33.6616614, 73.0730832 33.6614627, 73.0732843 33.6610831, 73.0746227 33.6617998, 73.0740944 33.6625744, 73.0740595 33.6625521))",Islamabad Model School for Boys I-8/4,school,
+way,1309892027,"POLYGON ((73.06748 33.662282, 73.0680513 33.661581, 73.0686139 33.6618919, 73.0680835 33.6625744, 73.06748 33.662282))",Islamabad Model School I-8/1,school,
+way,1309945947,"POLYGON ((73.0642366 33.6572903, 73.065091 33.6577356, 73.064372 33.6586914, 73.063513 33.6582523, 73.0642366 33.6572903))",Islamabad Model School for Girls I-9/4,school,
+way,1309945951,"POLYGON ((73.0614129 33.6541354, 73.0620512 33.6534321, 73.0623758 33.6535326, 73.0625246 33.6533444, 73.0631872 33.6537056, 73.062901 33.6540779, 73.0624348 33.6546846, 73.0614129 33.6541354))",Islamabad Junior Model School No.1,school,
+way,1309945953,"POLYGON ((73.0596909 33.6560197, 73.0606323 33.6565042, 73.0611929 33.6557563, 73.0614826 33.6553455, 73.0607614 33.6549514, 73.0601951 33.6556971, 73.0599953 33.6556145, 73.0596909 33.6560197))",Islamabad Model School for Girls I-9/4,school,
+way,1310756047,"POLYGON ((73.238039 33.5566043, 73.2379049 33.5568524, 73.2376662 33.5571787, 73.2380766 33.5572882, 73.2382375 33.5568837, 73.2386345 33.5570155, 73.23875 33.5568495, 73.238039 33.5566043))",Islamabad Model School for Girls Her Do Gher,school,
+way,1310756048,"POLYGON ((73.2373148 33.5582985, 73.2375026 33.5562556, 73.2383394 33.5566579, 73.23875 33.5568495, 73.2392111 33.5570647, 73.238723 33.5582203, 73.2373148 33.5582985))",Islamabad Model College for Girls Her Do Gher,school,
+way,1310756049,"POLYGON ((73.2247607 33.5547356, 73.2248117 33.5547535, 73.2248372 33.5547323, 73.2254581 33.554853, 73.2260764 33.5549949, 73.2261904 33.5549111, 73.2262936 33.5545445, 73.2254527 33.5542774, 73.2249404 33.5541232, 73.2247607 33.5547356))",Islamabad Model School for Girls Sihala,school,
+way,1311027734,"POLYGON ((73.0676571 33.6654386, 73.0677952 33.6652589, 73.0681734 33.6654475, 73.0680607 33.6655915, 73.0681962 33.6656619, 73.0683611 33.6654196, 73.0677563 33.6651283, 73.0675498 33.6653917, 73.0676571 33.6654386))",,school,
+way,1375600685,"POLYGON ((72.993665 33.6558312, 72.9935723 33.6557923, 72.9936176 33.6557359, 72.9937058 33.6557726, 72.993665 33.6558312))",,,ticket
+way,1385381969,"POLYGON ((73.0301445 33.7120166, 73.0296838 33.7126181, 73.0303779 33.712986, 73.0308386 33.7123844, 73.0301445 33.7120166))",Islamabad Model School IV,school,
